@@ -1,0 +1,31 @@
+<div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+  {% capture label %}
+    {% if item.name %}{{ item.name }}{% else %}{{ item.title }}{% endif %}
+  {% endcapture %}
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace">
+      {% asset '{{ item.img }}' magick:resize='165x220' alt='{{ label }}' %}
+    </div>
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        {% if item.url contains 'http' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+        <a href="{{ url }}">{{ label }}</a>
+      </h2>
+      <p>{{ item.description }}</p>
+      {% if item.mob or item.mail %}
+        <p>
+          {% if item.mob %}
+          <a href="tel:{{ item.mob }}">{{ item.mob }}</a><br>
+          {% endif %}
+          {% if item.mail %}
+          <a href="mailto:{{ item.mail }}">{{ item.mail }}</a><br>
+          {% endif %}
+        </p>
+      {% endif %}
+    </div>
+  </div>
+</div>

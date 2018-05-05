@@ -1,0 +1,14 @@
+_site/
+_podklady/html/pirati.cz/
+
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache/
+
+desktop.ini
+
+node_modules
+bower_components
+
+.bundle/
+vendor/

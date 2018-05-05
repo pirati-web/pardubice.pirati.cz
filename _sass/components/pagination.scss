@@ -1,0 +1,13 @@
+.pagination {
+
+  a {
+    padding: $button-padding;
+    color: $anchor-color;
+  }
+
+  .pagination-previous a,
+  .pagination-next a {
+    color: $button-color;
+    background-color: $button-fill;
+  }
+}

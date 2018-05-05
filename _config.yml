@@ -1,0 +1,84 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Piráti Pardubice
+email: pardubice@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pardubice.pirati.cz" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
+sass:
+    style: compressed
+
+permalink: /tiskove-zpravy/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+
+calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+fb: https://www.facebook.com/Piráti-Pardubice-339242666586738/
+tw: PiratskaStrana
+instagramm: https://www.instagram.com/pirati.cz/
+gplus: https://plus.google.com/u/0/+piratskastrana
+repository: https://github.com/pirati-web/pardubice.pirati.cz
+
+emptyArray: []
+
+assets:
+  sources:
+    - assets/favicon
+    - assets/fonts
+    - assets/images
+    - assets/videos
+    - assets/javascript
+    - assets/video
+    - assets/image
+    - assets/img
+    - assets/js
+    - _assets/css
+    - _assets/favicon
+    - _assets/fonts
+    - _assets/images
+    - _assets/videos
+    - _assets/javascript
+    - _assets/video
+    - _assets/image
+    - _assets/img
+    - _assets/js
+    - _sass
