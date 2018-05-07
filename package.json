@@ -1,22 +1,35 @@
 {
-  "name": "chrudim.pirati.cz",
+  "name": "pardubice.pirati.cz",
   "version": "1.0.0",
-  "description": "Web Pirátů z Pardubického kraje",
+  "description": "Web Pirátů z Pardubic",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:assets": "gulp default",
+    "build": "gulp build",
+    "start": "gulp dev",
+    "start:incremental": "gulp dev:incremental"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pirati-web/chrudim.pirati.cz.git"
+    "url": "git+https://github.com/pirati-web/pardubice.pirati.cz.git"
   },
   "author": "Piratska strana",
   "bugs": {
-    "url": "https://github.com/pirati-web/chrudim.pirati.cz/issues"
+    "url": "https://github.com/pirati-web/pardubice.pirati.cz/issues"
   },
-  "homepage": "https://github.com/pirati-web/chrudim.pirati.cz#readme",
+  "homepage": "https://github.com/pirati-web/pardubice.pirati.cz#readme",
+  "dependencies": {
+    "jquery": "2.2.1",
+    "jquery-ui-dist": "1.12.1",
+    "foundation-sites": "6.2.3",
+    "motion-ui": "1.2.2",
+    "handlebars": "~4.0.0",
+    "raphael": "2.2.1",
+    "font-awesome": "^4.7.0"
+  },
   "devDependencies": {
-    "bower": "^1.8.0",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",

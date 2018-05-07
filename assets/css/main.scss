@@ -1,3 +1,5 @@
+/* This ensures Jekyll reads the file to be transformed into CSS later. */
+
 @import 'settings';
 
 @import "foundation/foundation";
@@ -37,6 +39,7 @@
 @import 'objects/space';
 
 // Font awesome
+$fa-font-path: "/assets/fonts";
 @import 'font-awesome/font-awesome';
 
 // Jquery UI

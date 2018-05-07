@@ -1,5 +1,4 @@
 .c-welcome-header {
-  height: 350px;
   position: relative;
   background: white;
   background-size: cover;
@@ -11,7 +10,6 @@
   }
 
   @include breakpoint(medium down) {
-    height: 390px;
     background-size: 150%;
     background-position: 20% 70%;
   }

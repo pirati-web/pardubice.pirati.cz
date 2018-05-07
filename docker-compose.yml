@@ -1,5 +1,6 @@
 site:
-  command: jekyll serve --incremental --livereload
+  command: >
+    bash -c "npm run build:assets && jekyll serve --incremental --livereload"
   # image: jekyll/jekyll:latest
   build: .
   volumes:
