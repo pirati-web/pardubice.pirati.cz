@@ -6,7 +6,7 @@ rbar:
 ---
 
 {% assign team = site.people | sort:"ordpak" %}
-{% include people/list-2col.html param=team %}
+{% include people/list-2col.html items=team %}
 
 {% comment %}
 {% include submenu.html %}
@@ -22,7 +22,7 @@ rbar:
                                     <a href="#pkspard" class="c-simple-accordion-title">Kandidáti do zastupitelstva Pardubice</a>
                                     <div id="pkspard" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp: "item","item.categories contains 'kppak'" | sort:"ordpak" %}
-                                        {% include people/list-2col.html param=team %}
+                                        {% include people/list-2col.html items=team %}
                                     </div>
                                 </li>
                             </ul>
@@ -32,7 +32,7 @@ rbar:
                                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'pardubice'" %}
-                                            {% include people/list-2col.html param=team %}
+                                            {% include people/list-2col.html items=team %}
 					                        {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                         </div>
                                     </div>
@@ -43,7 +43,7 @@ rbar:
                                     <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'senat-pce'" | sort:"ordsenat" %}
-                                        {% include people/list-2col.html param=team %}
+                                        {% include people/list-2col.html items=team %}
 					                    {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
                                 </li>
