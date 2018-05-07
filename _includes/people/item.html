@@ -2,17 +2,19 @@
   {% capture label %}
     {% if item.name %}{{ item.name }}{% else %}{{ item.title }}{% endif %}
   {% endcapture %}
+  {% if item.url contains 'http' %}
+    {% assign url = item.url %}
+  {% else %}
+    {% assign url = item.url | relative_url %}
+  {% endif %}
   <div class="o-media o-media--top">
-    <div class="o-media__image o-media__image--lgspace">
-      {% asset '{{ item.img }}' magick:resize='165x220' alt='{{ label }}' %}
-    </div>
+    <a href="{{ url }}">
+      <div class="o-media__image o-media__image--lgspace">
+        {% asset '{{ item.img }}' magick:resize='165x220' alt='{{ label }}' %}
+      </div>
+    </a>
     <div class="o-media__body">
       <h2 class="o-media__headline">
-        {% if item.url contains 'http' %}
-          {% assign url = item.url %}
-        {% else %}
-          {% assign url = item.url | relative_url %}
-        {% endif %}
         <a href="{{ url }}">{{ label }}</a>
       </h2>
       <p>{{ item.description }}</p>

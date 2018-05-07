@@ -31,14 +31,10 @@ exclude:
   - bower.json
   - gulpfile.js
   - node_modules
-  - bower_components
   - vendor
 
 sass:
     style: compressed
-    load_paths:
-      - _sass
-      - node_modules
 
 permalink: /tiskove-zpravy/:title.html
 collections:
