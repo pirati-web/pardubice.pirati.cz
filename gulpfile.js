@@ -48,18 +48,18 @@ gulp.task('scripts', ['scripts-libs', 'scripts-site']);
 // Deploy css
 gulp.task('styles-foundation', function() {
     return gulp.src([nodeModulesPath('/foundation-sites/scss/**/*')])
-      .pipe(gulp.dest('_sass/foundation'));
+      .pipe(gulp.dest('_sass/vendor/foundation'));
 });
 
 gulp.task('styles-jquery-ui', function() {
     return gulp.src([nodeModulesPath('/jquery-ui/themes/base/jquery-ui.css')])
       .pipe(rename({extname: '.scss'}))
-      .pipe(gulp.dest('_sass/'));
+      .pipe(gulp.dest('_sass/vendor'));
 });
 
 gulp.task('styles-font-awesome-css', function() {
     return gulp.src([nodeModulesPath('/font-awesome/scss/*')])
-      .pipe(gulp.dest('_sass/font-awesome'));
+      .pipe(gulp.dest('_sass/vendor/font-awesome'));
 });
 
 gulp.task('styles-font-awesome-font', function() {

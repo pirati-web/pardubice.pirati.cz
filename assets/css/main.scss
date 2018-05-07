@@ -2,8 +2,15 @@
 
 @import 'settings';
 
-@import "foundation/foundation";
+@import "vendor/foundation/foundation";
 @include foundation-everything;
+
+// Font awesome
+$fa-font-path: "/assets/fonts";
+@import 'vendor/font-awesome/font-awesome';
+
+// Jquery UI
+@import 'vendor/jquery-ui';
 
 @import 'base';
 @import 'utilities/utilities';
@@ -17,6 +24,7 @@
 @import 'components/contact-bar';
 @import 'components/header-bar';
 @import 'components/top-bar';
+@import 'components/footer';
 @import 'components/banner';
 @import 'components/top-sub-nav';
 @import 'components/widget-accordion';
@@ -38,15 +46,6 @@
 @import 'objects/media';
 @import 'objects/space';
 
-// Font awesome
-$fa-font-path: "/assets/fonts";
-@import 'font-awesome/font-awesome';
-
-// Jquery UI
-@import 'jquery-ui';
-
 // Custom
-@import 'components/footer';
-
 @import 'components/scroll-top';
 @import 'components/pripoj-se';
