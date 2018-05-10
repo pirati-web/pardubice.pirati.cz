@@ -5,6 +5,7 @@ fullname: Ing. Filip Vařecha		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto
+- kandidat-pce-mo5
 img: people/filip-varecha.jpg           # 165 x 220
 description: pirát # kratký popis, max 160 znaků
 mail:
