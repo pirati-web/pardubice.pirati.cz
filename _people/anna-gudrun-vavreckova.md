@@ -1,7 +1,7 @@
 ---
 uid: anna.vavreckova
-name:     Anna Vavřečková      		# běžně používáné jméno
-fullname: Anna Gudrun Vavřečková		# jméno s tituly etc.
+name:     Anna Vavrečková      		# běžně používáné jméno
+fullname: Anna Gudrun Vavrečková		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 img: people/anna-vavreckova.jpg           # 165 x 220

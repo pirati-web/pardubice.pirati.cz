@@ -5,6 +5,10 @@ img: brand/logo.svg
 rbar:
 ---
 
+{% assign team = site.people | sort:"ordpak" %}
+{% include people/list-2col.html items=team %}
+
+{% comment %}
 <div class="row o-section-block o-section-block--divided">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -23,21 +27,23 @@ rbar:
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#zastupitele" class="c-simple-accordion-title">Piráti</a>
+                                    <a href="#zastupitele" class="c-simple-accordion-title">Pardubičtí Piráti</a>
                                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp: "item","item.categories contains 'clen-pce'" %}
-                                            {% include people/list-2col.html items=team %}					                        
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'clen-pardubice'" %}
+                                            {% include people/list-2col.html items=team %}
+					                        {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Příznivci</a>
+                                    <a href="#senat" class="c-simple-accordion-title">Pardubičtí Příznivci</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp: "item","item.categories contains 'priznivce-pce'" %}
-                                        {% include people/list-2col.html items=team %}					                    
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'priznivce-pce'" %}
+                                        {% include people/list-2col.html items=team %}
+					                    {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
                                 </li>
                             </ul>
@@ -49,3 +55,4 @@ rbar:
         <!-- /. o-section -->
     </div>
 </div>
+{% endcomment %}
