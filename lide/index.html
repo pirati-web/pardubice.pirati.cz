@@ -5,11 +5,6 @@ img: brand/logo.svg
 rbar:
 ---
 
-{% assign team = site.people | sort:"ordpak" %}
-{% include people/list-2col.html items=team %}
-
-{% comment %}
-{% include submenu.html %}
 <div class="row o-section-block o-section-block--divided">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -19,32 +14,30 @@ rbar:
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#pkspard" class="c-simple-accordion-title">Kandidáti do zastupitelstva Pardubice</a>
+                                    <a href="#pkspard" class="c-simple-accordion-title">Kandidáti do zastupitelstva města</a>
                                     <div id="pkspard" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp: "item","item.categories contains 'kppak'" | sort:"ordpak" %}
+                                        {% assign team = site.people | where_exp: "item","item.categories contains 'kandidat-pce-mesto'" %}
                                         {% include people/list-2col.html items=team %}
                                     </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#zastupitele" class="c-simple-accordion-title">Krajští zastupitelé</a>
+                                    <a href="#zastupitele" class="c-simple-accordion-title">Piráti</a>
                                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'pardubice'" %}
-                                            {% include people/list-2col.html items=team %}
-					                        {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
+                                            {% assign team = site.people | where_exp: "item","item.categories contains 'clen-pce'" %}
+                                            {% include people/list-2col.html items=team %}					                        
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
+                                    <a href="#senat" class="c-simple-accordion-title">Příznivci</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat-pce'" | sort:"ordsenat" %}
-                                        {% include people/list-2col.html items=team %}
-					                    {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
+                                        {% assign team = site.people | where_exp: "item","item.categories contains 'priznivce-pce'" %}
+                                        {% include people/list-2col.html items=team %}					                    
                                     </div>
                                 </li>
                             </ul>
@@ -56,4 +49,3 @@ rbar:
         <!-- /. o-section -->
     </div>
 </div>
-{% endcomment %}
