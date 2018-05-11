@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-hrubes.jpg           # 165 x 220
 description: pirát # kratký popis, max 160 znaků
 mail:
-- vojtech.jirsa@pirati.cz
+- jan.hrubes@pirati.cz
 profiles:
   github: 
   facebook: 
