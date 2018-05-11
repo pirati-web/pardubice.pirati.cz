@@ -13,8 +13,14 @@ rbar:
 </section>
 
 <section class="o-section">
-    <h2>Naši lidé</h2>
-    {% assign team = site.people | sort:"ordpak" %}
+    <h2>Naši členové</h2>
+	{% assign team = site.people | where_exp:"item","item.categories contains 'clen-pce'" %}
+    {% include people/list-2col.html items=team %}
+</section>
+
+<section class="o-section">
+    <h2>Naši příznivci</h2>
+    {% assign team = site.people | where_exp:"item","item.categories contains 'priznivce-pce'" %}
     {% include people/list-2col.html items=team %}
 </section>
 
@@ -40,7 +46,7 @@ rbar:
                                     <a href="#zastupitele" class="c-simple-accordion-title">Pardubičtí Piráti</a>
                                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'clen-pardubice'" %}
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'clen-pce'" %}
                                             {% include people/list-2col.html items=team %}
 					                        {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                         </div>
