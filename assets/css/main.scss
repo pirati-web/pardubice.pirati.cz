@@ -1,0 +1,51 @@
+/* This ensures Jekyll reads the file to be transformed into CSS later. */
+
+@import 'settings';
+
+@import "vendor/foundation/foundation";
+@include foundation-everything;
+
+// Font awesome
+$fa-font-path: "/assets/fonts";
+@import 'vendor/font-awesome/font-awesome';
+
+// Jquery UI
+@import 'vendor/jquery-ui';
+
+@import 'base';
+@import 'utilities/utilities';
+
+// Import Components
+@import 'components/BlogPosting';
+@import 'components/Person';
+@import 'components/BasicPage';
+@import 'components/vertical-navigation';
+@import 'components/icon';
+@import 'components/contact-bar';
+@import 'components/header-bar';
+@import 'components/top-bar';
+@import 'components/footer';
+@import 'components/banner';
+@import 'components/top-sub-nav';
+@import 'components/widget-accordion';
+@import 'components/content-card';
+@import 'components/card';
+@import 'components/welcome-header';
+@import 'components/tag';
+@import 'components/widget-share-box';
+@import 'components/widget-simple-text';
+@import 'components/pagination';
+@import 'components/Slider';
+@import 'components/simple-accordion';
+@import 'components/hero';
+@import 'components/blockquote';
+@import 'components/cta-button';
+
+// Import Objects
+@import 'objects/section';
+@import 'objects/media';
+@import 'objects/space';
+
+// Custom
+@import 'components/scroll-top';
+@import 'components/pripoj-se';

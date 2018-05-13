@@ -31,6 +31,7 @@ sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev
 gem install rubygems-update
 gem install jekyll bundler
 bundle
+npm install
 ```
 #### macOS
 
@@ -52,6 +53,7 @@ rbenv local
 gem install rubygems-update
 gem install jekyll bundler
 bundle
+npm install
 ```
 
 ## Spuštění
@@ -84,7 +86,7 @@ Web pak běží na [http://localhost:4000](http://localhost:4000/).
 Otevřít terminal v adresáři webu a spustit:
 
 ```
-bundle exec jekyll serve
+npm start
 ```
 
 Web pak běží na [http://localhost:4000](http://localhost:4000/).

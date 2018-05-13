@@ -20,6 +20,10 @@ $icon-ns: '';
   background: #cc0303;
 }
 
+.#{$icon-ns}c-icon.#{$icon-ns}c-icon--instagram {
+  background: #d10869;
+}
+
 .#{$icon-ns}c-icon.#{$icon-ns}c-icon--rounded {
   border-radius: 20px;
 }

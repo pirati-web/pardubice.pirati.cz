@@ -6,82 +6,62 @@ img: brand/logo.svg
 
 {% include submenu.html %}
 
-<div class="row">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner">
-        <div class="o-section-block">
-          <div class="column medium-12">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
+<div class="c-BasicPage">
+  <div class="c-BasicPage-content">
+
+    <div class="row">
+      <section class="o-section o-section--spaceBot">
+        <div class="o-section-inner">
+          <div class="o-section-block">
+            <div class="column medium-12">
               <h2 itemprop="headline" class="c-BasicPage__title">Připoj se</h2>
-	      <p>Můžeš nás sledovat či se zapojit na:</p>
+              <p>Můžeš nás sledovat či se zapojit na:</p>
+              <ul>
+                <li>
+                    <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                    <a href="{{ site.facebook.profilePage }}">Facebooku</a>
+                </li>
+                <li>
+                    <i class="fa fa-comments-o"></i> <a href="https://forum.pirati.cz/pardubicky-kraj-f85/">Fóru pardubického kraje </a><br/>
+                </li>
+              </ul>
             </div>
           </div>
-            <ul class="pricing-table no-bullet text-center">
-              <!--CC-BY Kartik Malik source https://flic.kr/p/aQaGzX -->
-	      <li>
-		<i class="fa fa-facebook-official" aria-hidden="true"></i>
-		<a href="{{ site.fb }}">Facebooku</a>
-              </li>
-	      <li>
-	          <i class="fa fa-comments-o"></i> <a href="https://forum.pirati.cz/pardubicky-kraj-f85/">fóru pardubického kraje </a><br/>
-		  <!--		  <a href="https://forum.pirati.cz/pardubicky-kraj-f85/">krajské foruM  -->
-	      </li>
-            </ul>
-          </div>
         </div>
-      </div>
-    </section>
-  </div>
-</div>
+      </section>
+    </div>
 
-<div class="row">
-</div>
-
-<div class="row">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section">
-      <div class="o-section-inner">
-        <div class="o-section-block">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
+    <div class="row">
+      <div class="small-12 columns">
+        <section class="o-section o-section">
+          <div class="o-section-inner">
+            <div class="o-section-block">
               <h2 itemprop="headline" class="c-BasicPage__title">Kontaktní osoba</h2>
-              <div class="row collapse">
+              <div class="row">
+                {% assign contactPersons = site.people | where_exp: "item","item.categories contains 'kontaktni_osoba'" | sort:"ordpak" %}
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
-                  <div class="o-media o-media--top">
-                    <div class="o-media__image o-media__image--lgspace">
-                      <img src="{{ 'daniel-lebduska.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Daniel Lebduška"> </div>
-                    <div class="o-media__body">
-                      <h2 class="o-media__headline">
-                        <a href="{{'lide/daniel-lebduska/' | relative_url}}">Daniel Lebduška</a>
-                      </h2>
-                      <p> Koodrinátor dobrovolníků pro Pardubický kraj
-                        <br>
-                        Kontakt pro zájemce o členství a dobrovolníky
-                      </p>
-                      <p> +420 770 113 647
-                        <br>
-                        <a href="mailto:daniel.lebduska@pirati.cz">daniel.lebduska@pirati.cz</a>
-                        <br> </p>
-                    </div>
-                  </div>
+                  {% for person in contactPersons %}
+                    {% capture desc %}{{ person.contactDescription | newline_to_br }}{% endcapture %}
+                    {% include people/profile_badge.html item=person description=desc %}
+                  {% endfor %}
                 </div>
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
                   <div class="o-media">
                     <div class="o-media__body">
-                      <blockquote class="c-blockquote c-blockquote--wicon">Rádi vyslechneme Vaše názory, pokud to bude možné, tak poradíme
-			nebo pomůžeme či se do toho pustíme rovnou.
-			<p>Nicméně každá ruka se počítá,tak neváhej a přidej se!</p>
+                      <blockquote class="c-blockquote c-blockquote--wicon">
+                        Rádi vyslechneme Vaše názory, pokud to bude možné, tak poradíme nebo pomůžeme či se do toho pustíme rovnou.
+                        <p>Nicméně každá ruka se počítá,tak neváhej a přidej se!</p>
                         <cite>Zdeněk Kubala, 1. místopředseda KS Pardubický kraj</cite>
-		      </blockquote>
+                      </blockquote>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        </section>
       </div>
-    </section>
+    </div>
+
   </div>
 </div>

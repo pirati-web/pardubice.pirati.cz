@@ -5,82 +5,95 @@ var gulp = require('gulp');
 const concat = require('gulp-concat'),
       uglify = require('gulp-uglify'),
       rename = require('gulp-rename'),
-      run = require('gulp-run');
+      run = require('gulp-run'),
+      del = require('del');
 
-const b = 'bower_components';
-const libsjs = [
-  b + '/jquery/dist/jquery.js',
-  b + '/jquery-ui/jquery-ui.min.js',
+const composePath = (basePath, newPath) => `${basePath}/${newPath}`;
+const nodeModulesPath = path => composePath('node_modules', path);
+
+const libsPaths = [
+  'jquery/dist/jquery.js',
+  'jquery-ui-dist/jquery-ui.js',
   /* TODO: replace: */
-  /*b + '/jquery-ui/ui/core.js',
-  b + '/jquery-ui/ui/widget.js',
-  b + '/jquery-ui/ui/position.js',
-  b + '/jquery-ui/ui/widgets/menu.js',
-  b + '/jquery-ui/ui/widgets/autocomplete.js',*/
-  b + '/foundation-sites/dist/foundation.js',
-  b + '/motion-ui/dist/motion-ui.js',
-  b + '/handlebars/handlebars.js',
-  b + '/raphael/raphael.js'
-];
-const c = '_includes/js/'
-const customjs = [
-  c + 'custom.js',
-  c + 'kalkulacka.js',
-  c + 'ga.js',
-  c + 'tw.js',
-  c + 'fb.js'
-];
+  // 'jquery-ui/ui/core.js',
+  // 'jquery-ui/ui/widget.js',
+  // 'jquery-ui/ui/position.js',
+  // 'jquery-ui/ui/widgets/menu.js',
+  // 'jquery-ui/ui/widgets/autocomplete.js',
+  'foundation-sites/dist/foundation.js',
+  'motion-ui/dist/motion-ui.js',
+  'handlebars/dist/handlebars.js',
+  'raphael/raphael.js'
+].map(nodeModulesPath);
 
 // Concatenate & Minify JS
 gulp.task('scripts-libs', function() {
-    return gulp.src(libsjs)
-      .pipe(concat('common-libs.js'))
+    return gulp.src(libsPaths)
+      .pipe(concat('libs.js'))
       .pipe(rename({suffix: '.min'}))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('scripts-custom', function() {
-    return gulp.src(customjs)
-      .pipe(concat('custom.js'))
+gulp.task('scripts-site', function() {
+    return gulp.src(['_includes/js/*'])
+      .pipe(concat('site.js'))
       .pipe(rename({suffix: '.min'}))
-      .pipe(uglify())
+      // .pipe(uglify())
       .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('scripts', ['scripts-libs', 'scripts-custom']);
+gulp.task('scripts', ['scripts-libs', 'scripts-site']);
 
 // Deploy css
 gulp.task('styles-foundation', function() {
-    return gulp.src([b + '/foundation-sites/scss/*/*'])
-      .pipe(gulp.dest('_sass/foundation'));
+    return gulp.src([nodeModulesPath('foundation-sites/scss/**/*')])
+      .pipe(gulp.dest('_sass/vendor/foundation'));
 });
 
 gulp.task('styles-jquery-ui', function() {
-    return gulp.src([b + '/jquery-ui/themes/base/jquery-ui.css'])
+    return gulp.src([nodeModulesPath('jquery-ui-dist/jquery-ui.css')])
       .pipe(rename({extname: '.scss'}))
-      .pipe(gulp.dest('_sass/'));
+      .pipe(gulp.dest('_sass/vendor'));
 });
 
 gulp.task('styles-font-awesome-css', function() {
-    return gulp.src([b + '/font-awesome/scss/*'])
-      .pipe(gulp.dest('_sass/font-awesome'));
+    return gulp.src([nodeModulesPath('font-awesome/scss/*')])
+      .pipe(gulp.dest('_sass/vendor/font-awesome'));
 });
 
 gulp.task('styles-font-awesome-font', function() {
-    return gulp.src([b + '/font-awesome/fonts/*'])
+    return gulp.src([nodeModulesPath('/font-awesome/fonts/*')])
       .pipe(gulp.dest('assets/fonts'));
 });
 
 gulp.task('styles', ['styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui']);
 
+gulp.task('cleancache', function () {
+  return del(['.jekyll-cache']);
+});
+
 // Runs Jekyll build
-gulp.task('build', ['scripts', 'styles'], function() {
+gulp.task('build', ['scripts', 'styles', 'cleancache'], function() {
   var shellCommand = 'bundle exec jekyll build';
 
   return gulp.src('.')
     .pipe(run(shellCommand));
 });
 
+// Runs Jekyll dev server
+gulp.task('dev', ['scripts', 'styles', 'cleancache'], function() {
+  const shellCommand = 'bundle exec jekyll serve --livereload';
+
+  return run(shellCommand, {verbosity: 3}).exec();
+});
+
+// Runs Jekyll dev server with incremental builds
+gulp.task('dev:incremental', ['scripts', 'styles', 'cleancache'], function() {
+  const shellCommand = 'bundle exec jekyll serve --incremental --livereload';
+
+  return run(shellCommand, {verbosity: 3}).exec();
+});
+
 // Default Task
-gulp.task('default', ['scripts', 'styles']);
+gulp.task('default', ['scripts', 'styles', 'cleancache']);

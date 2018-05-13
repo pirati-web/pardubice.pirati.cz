@@ -7,21 +7,21 @@
           <li class="c-header-bar__item c-header-bar__item--smallerSpace"><a href="{{ site.url }}/">{{ site.title }}</a></li>
           <div class="c-header-bar-divider"></div>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="{{ site.fb }}" rel="noopener noreferrer" target="_blank" title="Facebook - {{ site.title }}">
+            <a href="{{ site.facebook.profilePage }}" rel="noopener noreferrer" target="_blank" title="Facebook - {{ site.title }}">
               <i class="fa fa-facebook" aria-hidden="true"></i>
             </a>
           </li>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="https://www.twitter.com/{{ site.tw }}" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
+            <a href="https://www.twitter.com/{{ site.twitter.profile }}" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
               <i class="fa fa-twitter" aria-hidden="true"></i>
             </a>
           </li>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="{{ site.instagramm }}" rel="noopener noreferrer" target="_blank" title="Instagram - Česká pirátská strana">
+            <a href="{{ site.instagram.profilePage }}" rel="noopener noreferrer" target="_blank" title="Instagram - Česká pirátská strana">
               <i class="fa fa-instagram" aria-hidden="true"></i>
           </a></li>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="{{ site.gplus }}" rel="noopener noreferrer" target="_blank" title="Google Plus - Česká pirátská strana">
+            <a href="{{ site.gplus.profilePage }}" rel="noopener noreferrer" target="_blank" title="Google Plus - Česká pirátská strana">
               <i class="fa fa-google-plus" aria-hidden="true"></i>
             </a>
           </li>
@@ -78,9 +78,12 @@
               <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
-              <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
-                <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
+              <li{% if page.url contains 'o-nas' or page.url contains 'lide' %} class="is-active"{% endif %}>
+                <a href="{{ '/lide/' | relative_url }}">O nás</a>
               </li>
+              <li{% if page.url contains 'kandidati'%} class="is-active"{% endif %}>
+                <a href="{{ '/kandidati/' | relative_url }}">Naši kandidáti</a>
+              </li>			  
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>

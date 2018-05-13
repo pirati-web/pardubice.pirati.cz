@@ -5,17 +5,21 @@ fullname: Pavel Štěpánek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - koordinatori
+- kontaktni_osoba
 img: people/pavel-stepanek.jpg   # 165 x 220
 description: koordinátor krajského sdružení pro Pardubický kraj # kratký popis, max 160 znaků
-ordpak: 
+contactDescription: |
+  Koodrinátor dobrovolníků pro Pardubický kraj
+  Kontakt pro zájemce o členství a dobrovolníky
+ordpak:
 mail:
 - pavel.stepanek@pirati.cz
-mob:			  
+mob:
 profiles:
-  github:                 
-  facebook: 		  
-  twitter: 		  
-  flickr:     		  
+  github:
+  facebook:
+  twitter:
+  flickr:
 ---
 
 Pavel Štěpánek (* 24. září 1985, Chrudim) je předseda krajského sdružení Pardubického kraje. Vystudoval obor veřejné správy. Pracoval v několika zaměstnáních, kde se věnoval převážně mládeži. Byl streetworker, instruktor snowboardingu a adrenalinových aktivit nebo nízkoprahových zařízeních. V současnosti pracuje „na volné noze“, tedy jako živnostník ve více oblastech.
