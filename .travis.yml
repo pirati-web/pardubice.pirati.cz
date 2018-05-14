@@ -4,7 +4,7 @@ rvm: 2.5.1
 before_install:
   - gem install bundler
   - nvm install node
-  - npm install -g gulp-cli@4.0
+  - npm install -g gulp-cli
 
 before_script:
   - npm install
