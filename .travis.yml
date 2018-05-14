@@ -1,9 +1,16 @@
 language: ruby
 rvm: 2.5.1
 
+before_install:
+  - gem install bundler
+  - nvm install node
+  - npm install -g gulp-cli@4.0
+
+before_script:
+  - npm install
+
 script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --file-ignore "./_site/assets/snippet/profile.html" ./_site
+  - npm run build:production
 
 branches:
   only:
