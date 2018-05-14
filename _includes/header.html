@@ -81,12 +81,17 @@
               <li{% if page.url contains 'o-nas' or page.url contains 'lide' %} class="is-active"{% endif %}>
                 <a href="{{ '/lide/' | relative_url }}">O nás</a>
               </li>
+              <li{% if page.url contains 'komunalni-volby'%} class="is-active"{% endif %}>
+                <a href="{{ '/komunalni-volby-2018/' | relative_url }}">Komunální volby 2018</a>
+              </li>
+              {% comment %}
               <li{% if page.url contains 'kandidati'%} class="is-active"{% endif %}>
                 <a href="{{ '/kandidati/' | relative_url }}">Naši kandidáti</a>
-              </li>			  
+              </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
+              {% endcomment %}
               <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
                 <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
               </li>

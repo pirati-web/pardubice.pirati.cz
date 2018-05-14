@@ -1,6 +1,5 @@
 language: ruby
-rvm:
-  2.3.3
+rvm: 2.5.1
 
 script:
   - bundle exec jekyll build
@@ -8,7 +7,7 @@ script:
 
 branches:
   only:
-    - gh-pages
+    - master
 
 env:
   global:
