@@ -7,11 +7,12 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 img: people/lenka-spanihelova.jpg           # 165 x 220
 description: registrovaný příznivce # kratký popis, max 160 znaků
+cityCandidatePosition: 10
 profiles:
-  github: 
-  facebook: 
+  github:
+  facebook:
   twitter:
-  linkedin: 
+  linkedin:
 ---
 **Lenka Španihelová** (*19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
 
@@ -23,4 +24,4 @@ V současné době je na mateřské dovolené se dvěma dětmi. Zabývá se jako
 
 K Pirátům se připojila oficiálně v lednu 2018 při zakládání Pardubických Pirátů a v současnosti je žadatelkou o členství.
 
-Její téma je především sociální politika a zapojení občanů do veřejného života. 
+Její téma je především sociální politika a zapojení občanů do veřejného života.

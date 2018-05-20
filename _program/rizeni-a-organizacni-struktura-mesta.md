@@ -1,6 +1,9 @@
 ---
-title: Otevřenost a zpojení občanů
+uid: rizeni-a-organizacni-struktura-mesta
+title: Řízení a organizační struktura města
+img: people/anna-vavreckova.jpg
 perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+order: 3
 ---
 
 Vystudoval zdejší Gymnázium Dašická a svoje studium završil získáním titulu Ing. na Českém vysokém učení technickém v Praze v oboru Softwarové inženýrství. Během studií se zaměřoval na webové technologie a na metodiky řízení softwarových projektů.

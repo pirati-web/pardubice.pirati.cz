@@ -8,11 +8,12 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mo5
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: registrovaný příznivce # kratký popis, max 160 znaků
+cityCandidatePosition: 2
 profiles:
-  github: 
-  facebook: 
+  github:
+  facebook:
   twitter:
-  linkedin: 
+  linkedin:
 ---
 **Ivana Böhmová** (* 6.ledna 1987 v Pardubicích).
 
@@ -20,4 +21,4 @@ Vystudovala střední ekonomické Lyceum v Liberci, poté získala bakalářský
 
 V Pardubicích spoluzakládala občanské sdružení Město na kole (nyní zapsaný spolek), které se zabývá udržitelnou městskou mobilitou. Je členkou výkonné rady spolku. Do veřejného života Pardubic se zapojuje prostřednictvím pořádání veřejných akcí (například shromáždění “NE Ondráčkovi…” či demonstrace “milion chvilek pro demokracii”). V roce 2016 podpořila koalici Piráti, Zelení, Změna účastí na kandidátní listině. K Pirátum v Pardubicích se připojila v lednu roku 2018 v průběhu vznikání místní buňky, v současnosti je žadatelkou o členství v Pirátské straně.
 
-Zabývá se především tématy vzdělávání, sociální politika, ekologie a kultura. 
+Zabývá se především tématy vzdělávání, sociální politika, ekologie a kultura.

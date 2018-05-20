@@ -42,24 +42,45 @@ $program-item-ns: '';
     display: flex;
     margin-bottom: 20px;
 
-    .#{$program-item-ns}c-program-candidate-badge--rank {
-        display: block;
-        min-width: 60px;
-        font-size: 2em;
-        color: $secondary-color;
-    }
 
-    .#{$program-item-ns}c-program-candidate-badge--body {
+    .#{$program-item-ns}c-program-candidate-badge__body {
         width: 100%;
         display: flex;
 
-        a {
-            margin-right: 20px;
-            flex-shrink: 0;
-        }
-
-        h4 {
+        .#{$program-item-ns}c-program-candidate-badge__name {
             font-size: 1.5rem;
         }
     }
+
+    .#{$program-item-ns}c-program-candidate-badge__avatar {
+        position: relative;
+        margin-right: 20px;
+        flex-shrink: 0;
+
+        .#{$program-item-ns}c-program-candidate-badge__rank {
+            display: block;
+            position: absolute;
+            right: 0;
+            top: -5px; // ~ in-line with candidate name
+            background-color: $primary-color;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            font-size: 1em;
+            font-weight: bold;
+            color: $white;
+
+            span {
+                // Compensate for the dot sign.
+                padding-left: 3px;
+            }
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__avatar-image {
+            border-radius: 50%;
+        }
+    }
+
 }

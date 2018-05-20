@@ -23,105 +23,41 @@ rbar:
 
             <div class="o-section o-section-block">
                 <h3>Program</h3>
+
                 <div class="c-program-items">
+                    {% assign programCategories = site.program | sort:"order" %}
+                    {% for category in programCategories %}
                     <div class="c-program-item">
                         <div class="c-program-item-wrap">
                             <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Otevřenost a zpojení občanů</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <a href="{{ category.url | relative_url }}">
+                                    <h3>{{ category.title }}</h3>
+                                    <p>{{ category.perex }}</p>
                                 </a>
                             </div>
                         </div>
                     </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Smart City</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Řízení a organizační struktura města</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Územní rozvoj</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Doprava</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Veřejný prostor a zeleň</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Vzdělávání</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="">
-                                    <h3>Kultura a sport</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+                    {% endfor %}
                 </div>
             </div>
 
             <div class="o-section o-section-block">
                 <h3>Kandidáti</h3>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'clen-pce'" %}
+                {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat-pce-mesto'" | sort:"cityCandidatePosition" %}
                 {% for candidate in team %}
                     {% capture candidate_name %}
                         {% if candidate.name %}{{ candidate.name }}{% else %}{{ candidate.title }}{% endif %}
                     {% endcapture %}
                     <div class="c-program-candidate-badge">
-                        <span class="c-program-candidate-badge--rank">{{ forloop.index }}.</span>
-                        <div class="c-program-candidate-badge--body">
-                            <a href="{{ candidate.url | relative_url }}">
-                                {% asset '{{ candidate.img }}' magick:resize='120x120^' magick:gravity='center' magick:crop='120x120+0+0' alt='{{ candidate_name }}' %}
-                            </a>
-                            <div class="c-program-candidate-badge--description">
-                                <h4><a href="{{ candidate.url | relative_url }}">{{ candidate_name }}</a></h4>
+                        <div class="c-program-candidate-badge__body">
+                            <div class="c-program-candidate-badge__avatar">
+                                <a href="{{ candidate.url | relative_url }}">
+                                    <span class="c-program-candidate-badge__rank"><span>{{ candidate.cityCandidatePosition }}.</span></span>
+                                    {% asset '{{ candidate.img }}' magick:resize='120x120^' magick:gravity='center' magick:crop='120x120+0+0' alt='{{ candidate_name }}' class=c-program-candidate-badge__avatar-image %}
+                                </a>
+                            </div>
+                            <div class="c-program-candidate-badge__description">
+                                <h4 class="c-program-candidate-badge__name"><a href="{{ candidate.url | relative_url }}">{{ candidate_name }}</a></h4>
                                 <p>{{ candidate.content | truncatewords: 30 }}</p>
                             </div>
                         </div>

@@ -42,10 +42,21 @@ collections:
     output: true
     permalink: /lide/:path/
 
+  program:
+    output: true
+    permalink: /program/:path/
+
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+
+  -
+    scope:
+      path: "_program"
     values:
       layout: "page"
       rbar: "people, foto"
