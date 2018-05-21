@@ -2,7 +2,7 @@
 uid: verejny-prostor-a-zelen
 title: Veřejný prostor a zeleň
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží.
 order: 6
 ---
 

@@ -59,7 +59,8 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "people"
+      class: "c-program-page"
+      rbar: "program"
 
 organization:
   name: Česká pirátská strana - KS Pardubický kraj

@@ -2,7 +2,7 @@
 uid: uzemni-rozvoj
 title: Územní rozvoj
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky.
 order: 4
 ---
 

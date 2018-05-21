@@ -2,7 +2,7 @@
 uid: vzdelavani
 title: Vzdělávání
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 order: 7
 ---
 

@@ -1,5 +1,19 @@
 $program-item-ns: '';
 
+.#{$program-item-ns}c-program-key-point-list {
+    dt:not(:first-of-type)::before {
+        content: "\A";
+        white-space: pre-wrap;
+        display: block;
+        height: 1em;
+    }
+
+    dt, dd {
+        display: inline;
+        margin: 0;
+    }
+}
+
 .#{$program-item-ns}c-program-items {
     display: flex;
     flex-wrap: wrap;

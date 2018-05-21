@@ -2,7 +2,7 @@
 uid: smart-city
 title: Smart City
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
 order: 2
 ---
 

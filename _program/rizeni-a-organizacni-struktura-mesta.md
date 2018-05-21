@@ -2,7 +2,7 @@
 uid: rizeni-a-organizacni-struktura-mesta
 title: Řízení a organizační struktura města
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
 order: 3
 ---
 

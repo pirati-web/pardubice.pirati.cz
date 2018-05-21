@@ -2,7 +2,7 @@
 uid: kultura-a-sport
 title: Kultura a sport
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Život není jen o práci, ale i o volném čase. Chceme město, ve kterém si každý vybere z široké nabídky různých kulturních a sportovních aktivit.
 order: 8
 ---
 

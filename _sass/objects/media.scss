@@ -1,25 +1,13 @@
 .o-media {
-    display: table;
+    display: flex;
     width: 100%;
 }
 
 .o-media__image,
 .o-media__body {
-    display: table-cell;
-    vertical-align: middle;
-
-    .o-media--top & {
-        vertical-align: top;
-    }
-
-    .o-media--bottom & {
-        vertical-align: bottom;
-    }
-
     @include breakpoint(mobile down) {
         display: block;
     }
-
 }
 
 .o-media__image {
@@ -27,7 +15,7 @@
 
     > img {
         display: block;
-        max-width: none;
+        max-width: 100%;
     }
 
     .o-media--rev & {
@@ -43,6 +31,10 @@
 
 .o-media__body {
     width: 100%;
+
+    > p:last-of-type {
+        margin-bottom: 0;
+    }
 
     @include breakpoint(mobile down) {
         margin-top: 2rem;

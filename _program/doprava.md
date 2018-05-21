@@ -2,7 +2,7 @@
 uid: doprava
 title: Doprava
 img: people/anna-vavreckova.jpg
-perex: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 order: 5
 ---
 

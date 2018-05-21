@@ -239,6 +239,11 @@ $wa-ns: '';
   a {
     color: $primary-color;
   }
+
+  .#{$wa-ns}c-widget-accordion-list__seen {
+    color: #343434;
+    font-weight: bold;
+  }
 }
 
 .#{$wa-ns}c-widget-accordion ul {
