@@ -1,6 +1,6 @@
 # pardubicky.pirati.cz
 
-[![Build Status](https://api.travis-ci.org/pirati-web/pardubicky.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pardubicky.pirati.cz)
+[![Build Status](https://travis-ci.org/pirati-web/pardubice.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pardubice.pirati.cz)
 
 ## Instalace
 
