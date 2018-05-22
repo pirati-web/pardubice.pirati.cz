@@ -45,3 +45,9 @@
         color: $primary-color;
     }
 }
+
+.o-media__body-inner {
+    &.o-media__body-inner--padded {
+        padding: 1.2rem 1.2rem 1.2rem 0;
+    }
+}
