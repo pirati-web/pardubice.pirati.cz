@@ -1,13 +1,55 @@
 ---
 uid: doprava
+garant: vojtech.jirsa
 title: Doprava
 img: people/anna-vavreckova.jpg
 perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 order: 5
 ---
 
-Vystudoval zdejší Gymnázium Dašická a svoje studium završil získáním titulu Ing. na Českém vysokém učení technickém v Praze v oboru Softwarové inženýrství. Během studií se zaměřoval na webové technologie a na metodiky řízení softwarových projektů.
+**Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!**
 
-Od roku 2008 je zaměstnán u softwarové společnosti zabývající se vývojem webových aplikaci. V rámci svého zaměstnání se věnuje hlavně propagaci agilních metodik vývoje sofwaru (SCRUM, Kanban) a pracuje jako fullstack web developer.
+## Pěšky a na kole
 
-Kromě záliby v programování a softwaru obecně má také rád hudbu (je aktivním členem reggae-dub kapely Ra), počítačové hry, jógu a běhání. Během léta ujíždí na pěstování chilli paprik a na grilování.
+<dl class="c-program-key-point-list">
+    <dt>Rodiče se nebudou bát pustit svoje dítě do školy.</dt>
+    <dd>Zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů (například přechod na Masarykově náměstí).</dd>
+    <dt>Umožníme obousměrný provoz cyklistů</dt>
+    <dd> ve většině jednosměrek. Doděláme infrastrukturu na Dašické, 17. listopadu, Jana Palacha a Chrudimské, propojíme Polabiny a Rosice. Vybudujeme část Labské stezky a stezky podle Chrudimky.</dd>
+    <dt>Osadíme kvalitní stojany na kola</dt>
+    <dd>všude u obchodů, úřadů, služeb apod.</dd>
+</dl>
+
+## MHD
+
+<dl class="c-program-key-point-list">
+    <dt>Zavedeme přestupní jízdenky</dt>
+    <dd>a budeme prosazovat integraci v rámci kraje, celkově zlevníme lítačky a zavedeme jízdné zdarma pro doprovod dětí do šesti let (včetně).</dd>
+    <dt>Zlepšíme vedení linek a jejich jízdní řády</dt>
+    <dd>ve spolupráci s DPMP a experty v oblasti modelování. Linky se budou doplňovat, ne jezdit ve stejném směru za sebou. Zrevidujeme prázdninové jízdní řády.</dd>
+    <dt>Zvýšíme plynulost a dochvilnost MHD</dt>
+    <dd>pomocí inteligentního řízení dopravy. MHD by neměla stát v kolonách.</dd>
+    <dt>Prosadíme železniční zastávku Pardubice, centrum</dt>
+    <dd>v prostoru za Kávovinami. Jako součást Ostřešanské spojky výrazně zkrátí cestu z centra města do Hradce Králové nebo Chrudimi.</dd>
+</dl>
+
+## Autem
+
+<dl class="c-program-key-point-list">
+    <dt>Prověříme napojení Kyjevské a rychlodráhy</dt>
+    <dd>v prostoru nadjezdu u nemocnice. Město zaspalo a teď šije řešení horkou jehlou.</dd>
+    <dt>Vybudujeme Parkovací dům</dt>
+    <dd>pro odstavení vozidel lidí, kteří potřebují do centra (například lokality: u nádraží, 17.listopadu, u Rychlodráhy).</dd>
+    <dt>Zvýšíme dostupnost parkovacích míst.</dt>
+    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v aplikaci.</dd>
+    <dt>Prosadíme zákaz kamionů na Dašické.</dt>
+    <dd>V souvislosti s dobudováním úseku D35 Opatovice – Časy. Nákladní doprava tak zmizí nejen z Dašické, ale také z přednádraží, rychlodráhy a ul. Na Drážce.</dd>
+    <dt>Parkovací lístek ze záchytného parkoviště</dt>
+    <dd>bude sloužit jako jízdenka na MHD.</dd>
+    <dt>Aktivně pomůžeme s přípravou obchvatů.</dt>
+    <dd>Zapojíme se do výkupu pozemků. Podporujeme realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
+</dl>
+
+## Přehledná mapa našich záměrů
+
+Projděte si <a href="https://drive.google.com/open?id=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n&usp=sharing" target="_blank" title="Mapka pirátských záměrů">mapku našich záměrů</a>.

@@ -44,7 +44,7 @@ collections:
 
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /komunalni-volby-2018/program/:path/
 
 defaults:   # defaults values for collection scope
   -
