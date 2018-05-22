@@ -1,6 +1,7 @@
 .o-media {
     display: flex;
     width: 100%;
+    background-color: $white;
 }
 
 .o-media__image,
@@ -12,8 +13,9 @@
 
 .o-media__image {
     padding-right: 0.85rem;
+    flex-shrink: 0;
 
-    > img {
+    img {
         display: block;
         max-width: 100%;
     }
@@ -48,6 +50,10 @@
 
 .o-media__body-inner {
     &.o-media__body-inner--padded {
-        padding: 1.2rem 1.2rem 1.2rem 0;
+        padding: .85rem .85rem .85rem 0;
     }
+}
+
+.o-media-list + .o-media-list {
+    margin-top: .65rem;
 }

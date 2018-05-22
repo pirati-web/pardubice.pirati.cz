@@ -8,8 +8,11 @@
         </span>
       </a>
       <div class="c-widget-accordion-content" data-tab-content="">
-        <div class="c-widget-accordion-content-inner">
-          <div id="people"></div>
+        <div class="c-widget-accordion-content-inner c-widget-accordion-content-inner--unpadded c-widget-accordion-content-inner--nofill">
+            {% assign persons = site.people | where_exp:"item","item.categories contains 'clen-pce'" | sample:3 %}
+            {% for person in persons %}
+              {% include people/profile_badge.html item=person style='card' showContactInfo=false %}
+            {% endfor %}
         </div>
         <div class="c-widget-accordion-content__cta">
           <a class="expanded button large" href="{{ '/lide/' | relative_url }}"> Poznejte celý náš tým! </a>

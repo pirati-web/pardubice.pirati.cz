@@ -21,24 +21,22 @@ rbar:
         <div class="columns medium-9">
             <h2>Zastupitelstvo</h2>
 
-            <div class="o-section o-section-block">
-                <h3>Program</h3>
+            <h3>Program</h3>
 
-                <div class="c-program-items">
-                    {% assign programCategories = site.program | sort:"order" %}
-                    {% for category in programCategories %}
-                    <div class="c-program-item">
-                        <div class="c-program-item-wrap">
-                            <div class="c-program-item-inner">
-                                <a href="{{ category.url | relative_url }}">
-                                    <h3>{{ category.title }}</h3>
-                                    <p>{{ category.perex }}</p>
-                                </a>
-                            </div>
+            <div class="c-program-items">
+                {% assign programCategories = site.program | sort:"order" %}
+                {% for category in programCategories %}
+                <div class="c-program-items__item">
+                    <div class="c-program-items__item-wrap">
+                        <div class="c-program-items__item-inner">
+                            <a href="{{ category.url | relative_url }}">
+                                <h3>{{ category.title }}</h3>
+                                <p>{{ category.perex }}</p>
+                            </a>
                         </div>
                     </div>
-                    {% endfor %}
                 </div>
+                {% endfor %}
             </div>
 
             <div class="o-section o-section-block">
@@ -58,7 +56,7 @@ rbar:
                             </div>
                             <div class="c-program-candidate-badge__description">
                                 <h4 class="c-program-candidate-badge__name"><a href="{{ candidate.url | relative_url }}">{{ candidate_name }}</a></h4>
-                                <p>{{ candidate.content | truncatewords: 30 }}</p>
+                                <p class="c-program-candidate-badge__bio">{{ candidate.candidateDescription }}</p>
                             </div>
                         </div>
                     </div>
@@ -68,8 +66,8 @@ rbar:
         <div class="columns medium-3">
             <h2>Obvody</h2>
             <ul>
-                <li><a href="/komunalni-volby-2018/obvod-pardubice-i/">Pardubice I</a></li>
-                <li><a href="/komunalni-volby-2018/obvod-pardubice-ii/">Pardubice II</a></li>
+                <li><a href="{% link komunalni-volby-2018/obvod-pardubice-i.html %}">Pardubice I</a></li>
+                <li><a href="{% link komunalni-volby-2018/obvod-pardubice-ii.html %}">Pardubice II</a></li>
             </ul>
         </div>
     </div>

@@ -10,7 +10,7 @@
       </a>
       <div class="c-widget-accordion-content" data-tab-content="" id="toc">
         <div class="c-widget-accordion-content-inner c-widget-accordion-content-inner--unpadded">
-          {% assign garant = site.people | where_exp:"person","person.uid == page.garant" | first %}
+          {% assign garant = site.people | where:"uid",page.garant | first %}
           {% include people/profile_badge.html item=garant style='card' showDescription=false %}
         </div>
       </div>
@@ -23,7 +23,7 @@
     <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
       <li class="c-widget-accordion-item is-active" data-accordion-item="">
         <a href="#toc" class="c-widget-accordion-link">
-          <span class="c-widget-accordion__title">Program</span>
+          <span class="c-widget-accordion__title">Komunální volby 2018</span>
           <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
             <i class="fa fa-list"></i>
           </span>

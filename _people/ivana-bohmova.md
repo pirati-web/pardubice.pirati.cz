@@ -3,12 +3,13 @@ uid: ivana.bohmova
 name:     Ivana Böhmová   		# běžně používáné jméno
 fullname: Bc. Ivana Böhmová		# jméno s tituly etc.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivce-pce
+- clen-pce
 - kandidat-pce-mesto
 - kandidat-pce-mo5
 img: people/ivana-bohmova.jpg           # 165 x 220
-description: registrovaný příznivce # kratký popis, max 160 znaků
+description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 cityCandidatePosition: 2
+candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github:
   facebook:

@@ -40,7 +40,7 @@ img: brand/logo.svg
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
                   {% for person in contactPersons %}
                     {% capture desc %}{{ person.contactDescription | newline_to_br }}{% endcapture %}
-                    {% include people/profile_badge.html item=person description=desc %}
+                    {% include people/profile_badge.html item=person description=desc imgSize='big' %}
                   {% endfor %}
                 </div>
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">

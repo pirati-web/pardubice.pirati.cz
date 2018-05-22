@@ -5,9 +5,11 @@ fullname: Ing. Ondřej Karas		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto
+- kandidate-pce-mo6
 img: people/ondrej-karas.jpg           # 165 x 220
-description: pirát # kratký popis, max 160 znaků
+description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 cityCandidatePosition: 1
+candidateDescription: Ondřej Karas je lídr na pardubické kandidádce a zároveň náš kandidát na pozici Primátora.
 mail:
 - ondrej.karas@pirati.cz
 mob:

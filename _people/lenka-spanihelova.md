@@ -3,11 +3,12 @@ uid: lenka.spanihelova
 name:     Lenka Španihelová   		# běžně používáné jméno
 fullname: Bc. Lenka Španihelová		# jméno s tituly etc.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivce-pce
+- clen-pce
 - kandidat-pce-mesto
 img: people/lenka-spanihelova.jpg           # 165 x 220
-description: registrovaný příznivce # kratký popis, max 160 znaků
+description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 cityCandidatePosition: 10
+candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github:
   facebook:

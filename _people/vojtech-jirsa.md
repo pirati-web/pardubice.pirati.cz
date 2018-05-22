@@ -7,10 +7,11 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 - kandidat-pce-mo1
 img: people/vojtech-jirsa.jpg           # 165 x 220
-description: pirát # kratký popis, max 160 znaků
+description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:
 - vojtech.jirsa@pirati.cz
 cityCandidatePosition: 3
+candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github:
   facebook:

@@ -154,6 +154,10 @@ $wa-ns: '';
     padding: 0;
   }
 
+  &.#{$wa-ns}c-widget-accordion-content-inner--nofill {
+    background: transparent;
+  }
+
   &.#{$wa-ns}c-widget-accordion-content-inner--bigp p {
     font-size: 1.15rem;
   }

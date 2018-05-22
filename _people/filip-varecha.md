@@ -7,10 +7,11 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 - kandidat-pce-mo5
 img: people/filip-varecha.jpg           # 165 x 220
-description: pirát # kratký popis, max 160 znaků
+description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:
 - filip.varecha@pirati.cz
 cityCandidatePosition: 8
+candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github:
   facebook:
@@ -24,3 +25,4 @@ Vystudoval zdejší Gymnázium Dašická a svoje studium završil získáním ti
 Od roku 2008 je zaměstnán u softwarové společnosti zabývající se vývojem webových aplikaci. V rámci svého zaměstnání se věnuje hlavně propagaci agilních metodik vývoje sofwaru (SCRUM, Kanban) a pracuje jako fullstack web developer.
 
 Kromě záliby v programování a softwaru obecně má také rád hudbu (je aktivním členem reggae-dub kapely Ra), počítačové hry, jógu a běhání. Během léta ujíždí na pěstování chilli paprik a na grilování.
+

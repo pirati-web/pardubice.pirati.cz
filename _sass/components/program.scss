@@ -17,16 +17,25 @@ $program-item-ns: '';
 .#{$program-item-ns}c-program-items {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
+
+    @include breakpoint(medium down) {
+        flex-direction: column;
+    }
 }
 
-.#{$program-item-ns}c-program-item {
+.#{$program-item-ns}c-program-items__item {
     display: flex;
     max-width: 33.33%;
     // padding-right: 1.25rem;
     // padding-bottom: 1.25rem;
+
+    @include breakpoint(medium down) {
+        max-width: 100%;
+    }
 }
 
-.#{$program-item-ns}c-program-item-wrap {
+.#{$program-item-ns}c-program-items__item-wrap {
     display: flex;
     margin-right: 0.75rem;
     margin-bottom: 0.75rem;
@@ -39,7 +48,7 @@ $program-item-ns: '';
     }
 }
 
-.#{$program-item-ns}c-program-item-inner {
+.#{$program-item-ns}c-program-items__item-inner {
     padding: 1.25rem;
 
     h4 {
@@ -54,7 +63,7 @@ $program-item-ns: '';
 
 .#{$program-item-ns}c-program-candidate-badge {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 
 
     .#{$program-item-ns}c-program-candidate-badge__body {
@@ -62,7 +71,10 @@ $program-item-ns: '';
         display: flex;
 
         .#{$program-item-ns}c-program-candidate-badge__name {
-            font-size: 1.5rem;
+            font-size: 1.45rem;
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__bio {
         }
     }
 
@@ -75,16 +87,17 @@ $program-item-ns: '';
             display: block;
             position: absolute;
             right: 0;
-            top: -5px; // ~ in-line with candidate name
-            background-color: $primary-color;
+            top: -6px; // ~ in-line with candidate name
+            background-color: $black;
             border-radius: 50%;
             width: 40px;
             height: 40px;
-            line-height: 40px;
+            line-height: 36px;
             text-align: center;
             font-size: 1em;
             font-weight: bold;
             color: $white;
+            border: 2px $white solid;
 
             span {
                 // Compensate for the dot sign.
