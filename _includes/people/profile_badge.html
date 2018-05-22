@@ -7,11 +7,7 @@
     {% assign url = include.item.url | relative_url %}
 {% endif %}
 <div class="o-media o-media--top">
-    <!-- <a href="{{ url }}"> -->
-        <div class="o-media__image o-media__image--lgspace">
-            {% asset '{{ include.item.img }}' magick:resize='165x220' alt='{{ label }}' %}
-        </div>
-    <!-- </a> -->
+    <div class="o-media__image o-media__image--lgspace"><a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='165x220' alt='{{ label }}' %}</a></div>
     <div class="o-media__body">
         <div class="o-media__body-inner {% if include.style == 'card' %}o-media__body-inner--padded{% endif %}">
             <h2 class="o-media__headline">
