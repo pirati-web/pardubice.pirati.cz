@@ -7,7 +7,7 @@
     {% assign url = include.item.url | relative_url %}
 {% endif %}
 <div class="o-media o-media-list">
-    <div class="o-media__image o-media__image--lgspace">
+    <div class="o-media__image o-media__image--lgspace {% if include.imgStyle == 'round' %}o-media__image--round{% endif %}">
         {% if include.imgSize != 'big' %}
             <a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' alt='{{ label }}' %}</a>
         {% else %}

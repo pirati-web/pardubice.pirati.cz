@@ -77,12 +77,12 @@ calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&a
 
 facebook:
   profilePage: https://www.facebook.com/Piráti-Pardubice-339242666586738/
-  loadSDK: false
-  # appId: 1526197851008996
+  loadSDK: true
+  appId: 1526197851008996
 
 twitter:
   profile: PiratskaStrana
-  loadSDK: false
+  loadSDK: true
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/

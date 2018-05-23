@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
 img: people/pavel-stepanek.jpg   # 165 x 220
 description: koordinátor KS Pardubický kraj # kratký popis, max 160 znaků
+profession: ''
 contactDescription: |
   Koodrinátor dobrovolníků pro Pardubický kraj
   Kontakt pro zájemce o členství a dobrovolníky

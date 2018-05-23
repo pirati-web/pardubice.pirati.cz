@@ -7,7 +7,7 @@
         <!-- BlogPosting image -->
         <a href="{{ article.url | relative_url }}">
           <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-            {% capture imgPath %}{% asset '{{ article.image }}' magick:resize="751x422" @path %}{% endcapture %}
+            {% capture imgPath %}{% asset '{{ article.image }}' magick:resize="348x232^" magick:gravity='center' magick:crop='348x232+0+0' @path %}{% endcapture %}
             <img src="{{ imgPath }}" alt="{{ article.title }}">
             <meta itemprop="url" content="{{ imgPath }}">
           </div>

@@ -8,6 +8,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mo5
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
+profession: ''
 cityCandidatePosition: 2
 candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:

@@ -8,8 +8,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidate-pce-mo6
 img: people/ondrej-karas.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+profession: vývojář HW
 cityCandidatePosition: 1
-candidateDescription: Ondřej Karas je lídr na pardubické kandidádce a zároveň náš kandidát na pozici Primátora.
+candidateDescription: lídr kandidátky a kandidát na pozici primátora
 mail:
 - ondrej.karas@pirati.cz
 mob:

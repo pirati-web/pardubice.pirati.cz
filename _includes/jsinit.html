@@ -15,7 +15,7 @@ var page_tags = {% if page.tags %}{{ page.tags | split: ' ' }}{% else %}[]{%endi
 {% asset 'libs.min.js' %}
 {% asset 'site.min.js' %}
 
-{% if facebook.loadSDK %}
+{% if site.facebook.loadSDK %}
 <script>
 /* Facebook */
 window.fbAsyncInit = function() {
@@ -36,7 +36,7 @@ window.fbAsyncInit = function() {
 </script>
 {% endif %}
 
-{% if twitter.loadSDK %}
+{% if site.twitter.loadSDK %}
 <script>
 /* Twitter */
 window.twttr = (function(d, s, id) {

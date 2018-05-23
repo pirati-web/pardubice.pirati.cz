@@ -25,16 +25,18 @@
 
   .top-bar-title {
     margin-right: 4.5rem;
-  }
 
-  .top-bar-title img {
-    width: 100px;
-  }
+    @include breakpoint(mobile down) {
+      display: none;
+    }
 
-  @include breakpoint(large) {
-    .top-bar-title img {
-      transform: scale(1.3);
-      transform-origin: left center;
+    img {
+      width: 100px;
+
+      @include breakpoint(large) {
+        transform: scale(1.3);
+        transform-origin: left center;
+      }
     }
   }
 }

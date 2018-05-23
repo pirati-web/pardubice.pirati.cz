@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mo5
 img: people/filip-varecha.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
 cityCandidatePosition: 8

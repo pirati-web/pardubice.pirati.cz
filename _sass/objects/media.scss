@@ -29,6 +29,10 @@
         padding-right: 1.75rem;
     }
 
+    &.o-media__image--round img {
+        border-radius: 50%;
+    }
+
 }
 
 .o-media__body {

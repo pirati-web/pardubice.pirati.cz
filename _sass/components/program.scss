@@ -55,7 +55,7 @@ $program-item-ns: '';
         font-weight: bold;
     }
 
-    a {
+    a:not(.button) {
         color: $white;
         text-decoration: none;
     }
@@ -71,10 +71,17 @@ $program-item-ns: '';
         display: flex;
 
         .#{$program-item-ns}c-program-candidate-badge__name {
-            font-size: 1.45rem;
+            font-size: 1.4rem;
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__profession {
+            display: block;
+            margin-bottom: .25rem;
+            font-weight: 600;
         }
 
         .#{$program-item-ns}c-program-candidate-badge__bio {
+            margin-bottom: 0;
         }
     }
 

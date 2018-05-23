@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+profession: student VŠCHT
 mail:
 - jan.hrubes@pirati.cz
 cityCandidatePosition: 7

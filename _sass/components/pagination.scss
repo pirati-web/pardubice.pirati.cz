@@ -1,4 +1,9 @@
 .pagination {
+  margin-top: 4rem;
+
+  @include breakpoint(mobile down) {
+    margin-top: 1rem;
+  }
 
   a {
     padding: $button-padding;

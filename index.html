@@ -19,7 +19,7 @@ rbar: cal, people, video
               <!-- BlogPosting image -->
               <a href="{{ article.url | relative_url }}">
                 <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
-                  {% capture imgPath %}{% asset '{{ article.image }}' magick:resize="263x147" @path %}{% endcapture %}
+                  {% capture imgPath %}{% asset '{{ article.image }}' magick:resize='263^x147' magick:gravity='center' magick:crop='263x147+0+0' @path %}{% endcapture %}
                   <a href="{{ article.url | relative_url }}"><img src="{{ imgPath }}" alt="{{ article.title }}"></a>
                   <meta itemprop="url" content="{{ imgPath }}">
                 </div>
