@@ -100,7 +100,7 @@ gulp.task('dev', gulp.series(gulp.parallel(['scripts', 'styles', 'cleancache']),
 
 // Runs Jekyll dev server with incremental builds
 gulp.task('dev:incremental', gulp.series(gulp.parallel(['scripts', 'styles', 'cleancache']), function() {
-  const shellCommand = 'bundle exec jekyll serve --incremental --livereload';
+  const shellCommand = 'bundle exec jekyll serve --livereload';
   return run(shellCommand, {verbosity: 3}).exec();
 }));
 
