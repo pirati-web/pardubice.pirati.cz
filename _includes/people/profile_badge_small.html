@@ -1,0 +1,20 @@
+{% capture label %}
+    {% if include.item.name %}{{ include.item.name }}{% else %}{{ include.item.title }}{% endif %}
+{% endcapture %}
+{% if include.item.url contains 'http' %}
+    {% assign url = include.item.url %}
+{% else %}
+    {% assign url = include.item.url | relative_url %}
+{% endif %}
+<div class="o-media o-media--top">
+    <a href="{{ url }}">
+    <div class="o-media__image o-media__image--lgspace">
+        {% asset '{{ include.item.img }}' magick:resize='120x120' alt='{{ label }}' %}
+    </div>
+    </a>
+    <div class="o-media__body">
+        <h2 class="o-media__headline">
+            <a href="{{ url }}">{{ label }}</a>
+        </h2>
+    </div>
+</div>

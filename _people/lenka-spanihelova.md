@@ -3,15 +3,18 @@ uid: lenka.spanihelova
 name:     Lenka Španihelová   		# běžně používáné jméno
 fullname: Bc. Lenka Španihelová		# jméno s tituly etc.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivce-pce
+- clen-pce
 - kandidat-pce-mesto
 img: people/lenka-spanihelova.jpg           # 165 x 220
-description: registrovaný příznivce # kratký popis, max 160 znaků
+description: členka KS Pardubický kraj # kratký popis, max 160 znaků
+profession: ''
+cityCandidatePosition: 10
+candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
-  github: 
-  facebook: 
+  github:
+  facebook:
   twitter:
-  linkedin: 
+  linkedin:
 ---
 **Lenka Španihelová** (*19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
 
@@ -23,4 +26,4 @@ V současné době je na mateřské dovolené se dvěma dětmi. Zabývá se jako
 
 K Pirátům se připojila oficiálně v lednu 2018 při zakládání Pardubických Pirátů a v současnosti je žadatelkou o členství.
 
-Její téma je především sociální politika a zapojení občanů do veřejného života. 
+Její téma je především sociální politika a zapojení občanů do veřejného života.

@@ -6,28 +6,42 @@
 {% else %}
     {% assign url = include.item.url | relative_url %}
 {% endif %}
-<div class="o-media o-media--top">
-    <a href="{{ url }}">
-    <div class="o-media__image o-media__image--lgspace">
-        {% asset '{{ include.item.img }}' magick:resize='165x220' alt='{{ label }}' %}
-    </div>
-    </a>
-    <div class="o-media__body">
-    <h2 class="o-media__headline">
-        <a href="{{ url }}">{{ label }}</a>
-    </h2>
-    <p>
-        {% if include.description %}
-            {{ include.description }}
+<div class="o-media o-media-list">
+    <div class="o-media__image o-media__image--lgspace {% if include.imgStyle == 'round' %}o-media__image--round{% endif %}">
+        {% if include.imgSize != 'big' %}
+            <a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' alt='{{ label }}' %}</a>
         {% else %}
-            {{ include.item.description }}
+            <a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' alt='{{ label }}' %}</a>
         {% endif %}
-    </p>
-    {% if include.item.mob or include.item.mail %}
-        <p>
-        {% if include.item.mob %}<a href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a><br>{% endif %}
-        {% if include.item.mail %}<a href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a>{% endif %}
-        </p>
-    {% endif %}
+    </div>
+    <div class="o-media__body">
+        <div class="o-media__body-inner {% if include.style == 'card' %}o-media__body-inner--padded{% endif %}">
+            <h2 class="o-media__headline">
+                <a href="{{ url }}">{{ label }}</a>
+            </h2>
+            {% unless include.showDescription == false %}
+            <p>
+                {% if include.description %}
+                    {{ include.description }}
+                {% else %}
+                    {{ include.item.description }}
+                {% endif %}
+            </p>
+            {% endunless %}
+
+            {% unless include.showContactInfo == false %}
+                {% if include.item.mob or include.item.mail %}
+                    <p>
+                        {% if include.item.mob %}
+                            <i class="fa fa-phone"></i> <a href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a>
+                            <br>
+                        {% endif %}
+                        {% if include.item.mail %}
+                            <i class="fa fa-envelope-o"></i> <a href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a>
+                        {% endif %}
+                    </p>
+                {% endif %}
+            {% endunless %}
+        </div>
     </div>
 </div>

@@ -7,7 +7,7 @@
 {% if 1 == include.items.size %}
   <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
     {% assign item = include.items | first %}
-    {% include people/item.html param='item' %}
+    {% include people/item.html item=item %}
   </div>
 {% else %}
   {% for item in include.items %}
@@ -15,7 +15,7 @@
     {% if loopindex == 1 %}
       <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
     {% endif %}
-    {% include people/item.html param='item' %}
+    {% include people/item.html item=item %}
     {% if loopindex == 0 %}
       </div>
     {% endif %}

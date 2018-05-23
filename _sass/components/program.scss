@@ -1,0 +1,120 @@
+$program-item-ns: '';
+
+.#{$program-item-ns}c-program-key-point-list {
+    dt:not(:first-of-type)::before {
+        content: "\A";
+        white-space: pre-wrap;
+        display: block;
+        height: 1em;
+    }
+
+    dt, dd {
+        display: inline;
+        margin: 0;
+    }
+}
+
+.#{$program-item-ns}c-program-items {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    @include breakpoint(medium down) {
+        flex-direction: column;
+    }
+}
+
+.#{$program-item-ns}c-program-items__item {
+    display: flex;
+    max-width: 33.33%;
+    // padding-right: 1.25rem;
+    // padding-bottom: 1.25rem;
+
+    @include breakpoint(medium down) {
+        max-width: 100%;
+    }
+}
+
+.#{$program-item-ns}c-program-items__item-wrap {
+    display: flex;
+    margin-right: 0.75rem;
+    margin-bottom: 0.75rem;
+    color: $white;
+    background-color: $secondary-color;
+    transition: background-color .3s ease-in-out;
+
+    &:hover {
+        background-color: $primary-color;
+    }
+}
+
+.#{$program-item-ns}c-program-items__item-inner {
+    padding: 1.25rem;
+
+    h4 {
+        font-weight: bold;
+    }
+
+    a:not(.button) {
+        color: $white;
+        text-decoration: none;
+    }
+}
+
+.#{$program-item-ns}c-program-candidate-badge {
+    display: flex;
+    margin-bottom: 2rem;
+
+
+    .#{$program-item-ns}c-program-candidate-badge__body {
+        width: 100%;
+        display: flex;
+
+        .#{$program-item-ns}c-program-candidate-badge__name {
+            font-size: 1.4rem;
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__profession {
+            display: block;
+            margin-bottom: .25rem;
+            font-weight: 600;
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__bio {
+            margin-bottom: 0;
+        }
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__avatar {
+        position: relative;
+        margin-right: 20px;
+        flex-shrink: 0;
+
+        .#{$program-item-ns}c-program-candidate-badge__rank {
+            display: block;
+            position: absolute;
+            right: 0;
+            top: -6px; // ~ in-line with candidate name
+            background-color: $black;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            line-height: 36px;
+            text-align: center;
+            font-size: 1em;
+            font-weight: bold;
+            color: $white;
+            border: 2px $white solid;
+
+            span {
+                // Compensate for the dot sign.
+                padding-left: 3px;
+            }
+        }
+
+        .#{$program-item-ns}c-program-candidate-badge__avatar-image {
+            border-radius: 50%;
+        }
+    }
+
+}

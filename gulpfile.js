@@ -43,10 +43,10 @@ gulp.task('scripts-site', function() {
       .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('scripts', ['scripts-libs', 'scripts-site']);
+gulp.task('scripts', gulp.parallel(['scripts-libs', 'scripts-site']));
 
 // Deploy css
-gulp.task('styles-foundation', function() {
+gulp.task('styles-foundation', function () {
     return gulp.src([nodeModulesPath('foundation-sites/scss/**/*')])
       .pipe(gulp.dest('_sass/vendor/foundation'));
 });
@@ -67,33 +67,42 @@ gulp.task('styles-font-awesome-font', function() {
       .pipe(gulp.dest('assets/fonts'));
 });
 
-gulp.task('styles', ['styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui']);
+gulp.task('styles', gulp.parallel(['styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui']));
 
 gulp.task('cleancache', function () {
   return del(['.jekyll-cache']);
 });
 
-// Runs Jekyll build
-gulp.task('build', ['scripts', 'styles', 'cleancache'], function() {
-  var shellCommand = 'bundle exec jekyll build';
-
-  return gulp.src('.')
-    .pipe(run(shellCommand));
+gulp.task('cleansite', function () {
+  return del(['_site/**/*']);
 });
 
+// Runs Jekyll build
+gulp.task('build', gulp.series(gulp.parallel(['scripts', 'styles', 'cleancache', 'cleansite']), function() {
+  const shellCommand = 'bundle exec jekyll build';
+  return run(shellCommand, {verbosity: 3}).exec();
+}));
+
+// Runs htmlproofer that validates the build.
+gulp.task('htmlproof', function () {
+  const shellCommand = 'bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --file-ignore "./_site/assets/snippet/profile.html" ./_site';
+  return run(shellCommand, {verbosity: 3}).exec();
+});
+
+gulp.task('dist', gulp.series('build', 'htmlproof'));
+
 // Runs Jekyll dev server
-gulp.task('dev', ['scripts', 'styles', 'cleancache'], function() {
+gulp.task('dev', gulp.series(gulp.parallel(['scripts', 'styles', 'cleancache']), function() {
   const shellCommand = 'bundle exec jekyll serve --livereload';
 
   return run(shellCommand, {verbosity: 3}).exec();
-});
+}));
 
 // Runs Jekyll dev server with incremental builds
-gulp.task('dev:incremental', ['scripts', 'styles', 'cleancache'], function() {
-  const shellCommand = 'bundle exec jekyll serve --incremental --livereload';
-
+gulp.task('dev:incremental', gulp.series(gulp.parallel(['scripts', 'styles', 'cleancache']), function() {
+  const shellCommand = 'bundle exec jekyll serve --livereload';
   return run(shellCommand, {verbosity: 3}).exec();
-});
+}));
 
 // Default Task
-gulp.task('default', ['scripts', 'styles', 'cleancache']);
+gulp.task('default', gulp.series(['build']));

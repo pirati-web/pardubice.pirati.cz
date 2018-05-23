@@ -150,6 +150,14 @@ $wa-ns: '';
     font-weight: bold;
   }
 
+  &.#{$wa-ns}c-widget-accordion-content-inner--unpadded {
+    padding: 0;
+  }
+
+  &.#{$wa-ns}c-widget-accordion-content-inner--nofill {
+    background: transparent;
+  }
+
   &.#{$wa-ns}c-widget-accordion-content-inner--bigp p {
     font-size: 1.15rem;
   }
@@ -238,6 +246,11 @@ $wa-ns: '';
 
   a {
     color: $primary-color;
+  }
+
+  .#{$wa-ns}c-widget-accordion-list__seen {
+    color: #343434;
+    font-weight: bold;
   }
 }
 

@@ -82,7 +82,9 @@ img: miscellaneous/cpice.jpg
             <div class="o-section-block">
               <h2>Kontaktní osoba</h2>
               {% assign contactPersons = site.people | where_exp: "item","item.categories contains 'kontaktni_osoba'" | sort:"ordpak" %}
-              {% include people/list-2col.html items=contactPersons %}
+              {% for person in contactPersons %}
+                {% include people/profile_badge.html item=person imgSize='big' %}
+              {% endfor %}
             </div>
           </div>
         </section>

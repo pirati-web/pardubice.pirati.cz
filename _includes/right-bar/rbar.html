@@ -2,8 +2,6 @@
   <div class="o-section-inner o-section-inner--rightBlock">
     {% if page.rbar contains 'foto' %}
       {% include right-bar/bar_foto.html %}
-    {% endif %}
-    {% if page.rbar contains 'foto' %}
       {% include right-bar/bar_person_contact.html %}
     {% endif %}
     {% if page.rbar contains 'cal' %}
@@ -11,6 +9,9 @@
     {% endif %}
     {% if page.rbar contains 'people' %}
       {% include right-bar/bar_people.html %}
+    {% endif %}
+    {% if page.rbar contains 'program' %}
+      {% include right-bar/bar_program.html %}
     {% endif %}
     {% if page.rbar contains 'video' %}
       {% include right-bar/bar_video.html %}
