@@ -14,10 +14,10 @@ mail:
 cityCandidatePosition: 8
 candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
-  github:
-  facebook:
-  twitter:
-  linkedin:
+  github: xaralis
+  facebook: filip.varecha
+  twitter: xaralis
+  linkedin: filip-vařecha-51625031
 ---
 **Filip Vařecha** (* 1. května 1986) je členem Krajského sdružení Pardubický kraj. Pochází z Pardubic a po deseti letech strávených v Praze zde znovu žije od roku 2016.
 
