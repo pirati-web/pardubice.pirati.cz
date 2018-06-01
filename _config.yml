@@ -24,10 +24,16 @@ paginate_path: "/aktuality/:num/"
 paginate: 11
 
 exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
   - readme.md
   - Gemfile
   - Gemfile.lock
   - package.json
+  - package-lock.json
   - bower.json
   - gulpfile.js
   - node_modules
