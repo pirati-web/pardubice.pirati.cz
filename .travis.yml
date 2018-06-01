@@ -1,21 +1,18 @@
 language: ruby
 rvm: 2.5.1
-
 before_install:
-  - gem install bundler
-  - nvm install node
-  - npm install -g gulp-cli
-
+- openssl aes-256-cbc -K $encrypted_dc982276292c_key -iv $encrypted_dc982276292c_iv
+  -in deploy_rsa_sandbox.enc -out deploy_rsa_sandbox -d
+- gem install bundler
+- nvm install node
+- npm install -g gulp-cli
 before_script:
-  - npm install
-
+- npm install
 script:
-  - npm run build:production
-
+- npm run build:production
 branches:
   only:
-    - master
-
+  - master
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
