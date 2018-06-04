@@ -7,9 +7,9 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
-profession: ''
-cityCandidatePosition: 4
-candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
+profession: dopravní specialista
+cityCandidatePosition: 2
+candidateDescription: člen spolku Město na kole, Strany zelených a Iniciativy Přírodní park Červeňák
 profiles:
   github:
   facebook:

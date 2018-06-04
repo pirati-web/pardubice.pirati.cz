@@ -4,11 +4,10 @@ name:     Jan Bednář   		# běžně používáné jméno
 fullname: Jan Bednář		# jméno s tituly etc.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
-- kandidat-pce-mesto
 img: people/jan-bednar.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: grafický designér
-cityCandidatePosition: 14
+cityCandidatePosition:
 candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github:

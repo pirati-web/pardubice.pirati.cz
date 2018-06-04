@@ -15,7 +15,7 @@ Do komunálních voleb v roce 2014 se Pirátům v Chrudimi podařilo kandidovat 
 V krajských volbách jsme jako koalice *Pro Otevřený kraj* (Piráti, Zelení a Změna) získali v pardubickém kraji 3,87%.
 
 
-* [Lidé v našem týmu]({{ '/lide/' | relative_url }})
+* [Lidé v našem týmu]({{ '/clenove/' | relative_url }})
 * [Program](https://www.pirati.cz/program/){:target="_blank"} - otevření v novém okně
 * [Stanovy Pirátské strany](https://www.pirati.cz/o-nas/stanovy.html){:target="_blank"} - otevření v novém okně
 

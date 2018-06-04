@@ -4,23 +4,28 @@
       {% include right-bar/bar_foto.html %}
       {% include right-bar/bar_person_contact.html %}
     {% endif %}
+    {% comment %}
     {% if page.rbar contains 'cal' %}
       {% include right-bar/bar_cal.html %}
     {% endif %}
-    {% if page.rbar contains 'people' %}
-      {% include right-bar/bar_people.html %}
-    {% endif %}
+    {% endcomment %}
+
     {% if page.rbar contains 'program' %}
       {% include right-bar/bar_program.html %}
     {% endif %}
+    {% comment %}
     {% if page.rbar contains 'video' %}
       {% include right-bar/bar_video.html %}
     {% endif %}
+    {% endcomment %}
     {% if page.rbar contains 'fb' %}
       {% include right-bar/bar_fb.html %}
     {% endif %}
     {% if page.rbar contains 'tw' %}
       {% include right-bar/bar_tw.html %}
+    {% endif %}
+    {% if page.rbar contains 'people' %}
+      {% include right-bar/bar_people.html %}
     {% endif %}
   </div>
 </aside>

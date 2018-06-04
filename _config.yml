@@ -46,7 +46,7 @@ permalink: /tiskove-zpravy/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /clenove/:path/
 
   program:
     output: true

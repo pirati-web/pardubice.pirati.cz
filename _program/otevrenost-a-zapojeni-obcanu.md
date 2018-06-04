@@ -1,7 +1,7 @@
 ---
 uid: otevrenost-a-zapojeni-obcanu
 garant: filip.varecha
-title: Otevřenost a zpojení občanů
+title: Otevřenost a zapojení občanů
 img: people/anna-vavreckova.jpg
 perex: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
 order: 1

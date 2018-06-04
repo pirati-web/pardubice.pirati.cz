@@ -4,14 +4,12 @@ name:     Filip Vařecha      		# běžně používáné jméno
 fullname: Ing. Filip Vařecha		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
-- kandidat-pce-mesto
-- kandidat-pce-mo5
 img: people/filip-varecha.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
-cityCandidatePosition: 8
+cityCandidatePosition:
 candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
 profiles:
   github: https://github.com/xaralis

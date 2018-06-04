@@ -1,6 +1,6 @@
 ---
 uid: uzemni-rozvoj
-garant: vojtech.jirsa
+garant: jakub.kutilek
 title: Územní rozvoj
 img: people/anna-vavreckova.jpg
 perex: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky.

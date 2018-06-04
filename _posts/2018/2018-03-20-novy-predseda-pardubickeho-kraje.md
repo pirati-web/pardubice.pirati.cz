@@ -10,7 +10,7 @@ image: miscellaneous/pivo-v-holicich.jpg #751x422
 ---
 
 Koncem minulého týdne si zvolili členové krajského sdružení České pirátské strany
-svého nového předsedu. Stal se jím [Mgr. Jiří Jansa]({{ site.url }}/lide/jiri-jansa/).
+svého nového předsedu. Stal se jím [Mgr. Jiří Jansa](http://pardubicky.pirati.cz/lide/jiri-jansa/).
 Dosavadní předseda
 Pavel Štěpánek se vzdal funkce, protože se stal krajským koordinátorem.
 

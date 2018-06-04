@@ -42,7 +42,7 @@ layout: default
   </div>
   <div class="o-section-block o-section-block-fill">
     <div class="c-BasicPage-headline-img">
-      {% capture imgPath %}{% asset '{{ page.image }}' @path %}{% endcapture %}
+      {% capture imgPath %}{% asset '{{ page.image }}' magick:resize='751x422' @path %}{% endcapture %}
       <div class="c-BasicPage-headline-bg">
         <img src="{{ imgPath }}" alt="{{ page.title }}"> </div>
       <div class="row small-collapse medium-uncollapse">
