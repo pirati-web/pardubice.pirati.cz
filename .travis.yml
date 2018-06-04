@@ -17,11 +17,16 @@ before_script:
 script:
   - npm run build:production
 deploy:
-  provider: script
-  skip_cleanup: true
-  script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
-  on:
-    branch: master
+  - provider: script
+    skip_cleanup: true
+    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
+    on:
+      branch: master
+  - provider: script
+    skip_cleanup: true
+    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
+    on:
+      branch: production
 branches:
   only:
     - master
