@@ -7,11 +7,7 @@
         <div class="c-program-candidate-badge__avatar">
             <a href="{{ include.candidate.url | relative_url }}">
                 <span class="c-program-candidate-badge__rank"><span>{{ include.candidate.cityCandidatePosition }}.</span></span>
-                {% if include.leader %}
-                    {% asset '{{ include.candidate.img }}' magick:resize='240x240^' magick:gravity='center' magick:crop='240x240+0+0' alt='{{ candidate_name }}' class=c-program-candidate-badge__avatar-image %}
-                {% else %}
-                    {% asset '{{ include.candidate.img }}' magick:resize='240x240^' magick:gravity='center' magick:crop='240x240+0+0' alt='{{ candidate_name }}' class=c-program-candidate-badge__avatar-image %}
-                {% endif %}
+                {% asset '{{ include.candidate.img }}' magick:resize='240x240^' magick:gravity='center' magick:crop='240x240+0+0' alt='{{ candidate_name }}' class=c-program-candidate-badge__avatar-image %}
             </a>
         </div>
         <div class="c-program-candidate-badge__description">

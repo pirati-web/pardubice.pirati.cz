@@ -32,11 +32,6 @@ $program-item-ns: '';
 .#{$program-item-ns}c-program-items__item {
     display: flex;
     max-width: 100%;
-    // padding-right: 1.25rem;
-    // padding-bottom: 1.25rem;
-
-    // @include breakpoint(medium down) {
-    // }
 }
 
 .#{$program-item-ns}c-program-items__item-wrap {
@@ -147,9 +142,26 @@ $program-item-ns: '';
             padding-left: 3px;
         }
     }
+}
 
-    .#{$program-item-ns}c-program-candidate-badge__avatar-image {
-        // border-radius: 50%;
+@mixin candidate-landscape {
+    width: 100%;
+
+    .#{$program-item-ns}c-program-candidate-badge__body {
+        flex-direction: row;
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__avatar {
+        width: calc(33.3333% - 0.75rem);
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__rank {
+        bottom: 10px;
+        right: -20px;
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__description {
+        padding-left: 1.5rem;
     }
 }
 
@@ -163,36 +175,12 @@ $program-item-ns: '';
         margin-bottom: 1.5rem;
 
         // note: match leader layout
-        .#{$program-item-ns}c-program-candidate-badge__body {
-            flex-direction: row;
-        }
-
-        .#{$program-item-ns}c-program-candidate-badge__avatar {
-            margin-right: 20px;
-        }
-
-        .#{$program-item-ns}c-program-candidate-badge__rank {
-            top: 10px;
-            right: -20px;
-        }
+        @include candidate-landscape();
     }
 }
 
 .#{$program-item-ns}c-program-candidate-badge.c-program-candidate-badge--leader {
-    width: 100%;
-
-    .#{$program-item-ns}c-program-candidate-badge__body {
-        flex-direction: row;
-    }
-
-    .#{$program-item-ns}c-program-candidate-badge__avatar {
-        margin-right: 20px;
-    }
-
-    .#{$program-item-ns}c-program-candidate-badge__rank {
-        top: 10px;
-        right: -20px;
-    }
+    @include candidate-landscape();
 }
 
 .#{$program-item-ns}c-program-candidate-badge.c-program-candidate-badge--leader + .#{$program-item-ns}c-program-candidates__row {
