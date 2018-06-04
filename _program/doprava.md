@@ -2,7 +2,7 @@
 uid: doprava
 garant: vojtech.jirsa
 title: Doprava
-img: people/anna-vavreckova.jpg
+img: miscellaneous/volebni-rozcestnik.png
 perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 order: 5
 ---
@@ -41,7 +41,7 @@ order: 5
     <dt>Vybudujeme Parkovací dům</dt>
     <dd>pro odstavení vozidel lidí, kteří potřebují do centra (například lokality: u nádraží, 17.listopadu, u Rychlodráhy).</dd>
     <dt>Zvýšíme dostupnost parkovacích míst.</dt>
-    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v aplikaci.</dd>
+    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v mobilní aplikaci.</dd>
     <dt>Prosadíme zákaz kamionů na Dašické.</dt>
     <dd>V souvislosti s dobudováním úseku D35 Opatovice – Časy. Nákladní doprava tak zmizí nejen z Dašické, ale také z přednádraží, rychlodráhy a ul. Na Drážce.</dd>
     <dt>Parkovací lístek ze záchytného parkoviště</dt>
