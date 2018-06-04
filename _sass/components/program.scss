@@ -136,12 +136,12 @@ $program-item-ns: '';
         border-radius: 50%;
         width: 40px;
         height: 40px;
-        line-height: 36px;
+        line-height: 34px;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.15em;
         font-weight: bold;
         color: $white;
-        border: 2px $white solid;
+        border: 3px $white solid;
 
         span {
             // Compensate for the dot sign.
