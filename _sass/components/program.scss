@@ -37,13 +37,15 @@ $program-item-ns: '';
 .#{$program-item-ns}c-program-items__item-wrap {
     display: flex;
     color: $white;
-    background-color: $secondary-color;
-    transition: background-color .3s ease-in-out;
+    border: 1px $light-gray solid;
+    transition: border-color .2s ease-in-out;
 
     &:hover {
-        background-color: $primary-color;
+        border-color: $primary-color;
+        color: $white;
     }
 }
+
 
 .#{$program-item-ns}c-program-items__item + .#{$program-item-ns}c-program-items__item {
     margin-top: 1.5rem;
@@ -52,12 +54,16 @@ $program-item-ns: '';
 .#{$program-item-ns}c-program-items__item-inner {
     padding: 1.25rem;
 
-    h4 {
-        font-weight: bold;
+    .#{$program-item-ns}c-program-items__item-title {
+        color: $primary-color;
+        text-decoration: underline;
+        font-weight: 600;
+        font-size: 1.5rem;
     }
 
     a:not(.button) {
-        color: $white;
+        color: $black;
+        // color: $white;
         text-decoration: none;
     }
 }
