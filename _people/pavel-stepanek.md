@@ -15,7 +15,7 @@ contactDescription: |
 ordpak:
 mail:
 - pavel.stepanek@pirati.cz
-mob:
+mob: +420 770 113 647
 profiles:
   github:
   facebook:
