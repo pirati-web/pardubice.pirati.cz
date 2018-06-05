@@ -42,7 +42,7 @@ order: 5
     <dd>pro odstavení vozidel lidí, kteří potřebují do centra (například lokality: u nádraží, 17.listopadu, u Rychlodráhy).</dd>
     <dt>Zvýšíme dostupnost parkovacích míst.</dt>
     <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v mobilní aplikaci.</dd>
-    <dt>Prosadíme zákaz kamionů na Dašické.</dt>
+    <dt>Budeme prosazovat zákaz kamionů na Dašické.</dt>
     <dd>V souvislosti s dobudováním úseku D35 Opatovice – Časy. Nákladní doprava tak zmizí nejen z Dašické, ale také z přednádraží, rychlodráhy a ul. Na Drážce.</dd>
     <dt>Parkovací lístek ze záchytného parkoviště</dt>
     <dd>bude sloužit jako jízdenka na MHD.</dd>

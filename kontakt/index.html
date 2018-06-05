@@ -4,6 +4,8 @@ img: miscellaneous/cpice.jpg
 title: Kontaktní informace
 ---
 
+{% assign contactPersons = site.people | where_exp: "item","item.categories contains 'kontaktni_osoba'" | sort:"ordpak" %}
+
 <div class="c-BasicPage">
   <div class="c-BasicPage-content">
     <div class="row o-section-block o-section-block--divided">
@@ -82,7 +84,6 @@ title: Kontaktní informace
           <div class="o-section-inner">
             <div class="o-section-block">
               <h2>Kontaktní osoba</h2>
-              {% assign contactPersons = site.people | where_exp: "item","item.categories contains 'kontaktni_osoba'" | sort:"ordpak" %}
               {% for person in contactPersons %}
                 {% include people/profile_badge.html item=person imgSize='big' %}
               {% endfor %}

@@ -70,7 +70,7 @@ defaults:   # defaults values for collection scope
 
 organization:
   name: Česká pirátská strana - KS Pardubický kraj
-  email: pardubice@pirati.cz
+  email: pavel.stepanek@pirati.cz
   phone: +420 770 113 647
   address: |
     Radoušova 14

@@ -7,7 +7,7 @@ perex: Smart City pro nás není město nabité nepotřebnými technologiemi z d
 order: 2
 ---
 
-**SSmart City pro nás není město nabité nepotřebnými technologiemi z dotačních
+**Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních
 peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
 Chceme být tzv. smart, aby se nám žilo dobře, ne proto, že se o to snaží
 všichni. Proto odmítáme současný koncept Strategie Smart City, jako něco, co
@@ -24,7 +24,7 @@ dotačních projektů. Toto jsou naše vize, jak být “smart”.**
     <dt>Zlepšíme přístupnost veřejných informací</dt>
     <dd>z magistrátu, úřadů městských obvodů a městských firem. Informace vzniklé za veřejné podpory, by měly být z principu veřejné. Podklady zastupitelstva budou k dispozici všem.</dd>
     <dt>Hlášení místního rozhlasu budou dostupná i jinými kanály</dt>
-    <dd>budou dostupná i jinými kanály (např. e-mail, u důležitých hlášení SMS). Prověříme správnou funkci a srozumitelnost místního rozhlasu.</dd>
+    <dd>(např. e-mail, u důležitých hlášení SMS). Prověříme správnou funkci a srozumitelnost místního rozhlasu.</dd>
     <dt>Podpoříme distribuci informací třetích stran</dt>
     <dd>jako jsou provozovatelé sítí (ČEZ, RWE, VAK,...), pořadatelé sportovních a kulturních akcí.</dd>
     <dt>Maximální digitalizace a zjednodušení styku občanů s úřady.</dt>
