@@ -42,6 +42,8 @@ order: 4
     <dd>Zvýšíme povědomí široké veřejnosti o smyslu a podobě územního plánu města. Předejdeme tak kontroverzím z neočekávaných staveb a ochráníme místní obyvatele a charakter lokalit před necitlivou výstavbou.</dd>
 </dl>
 
+{% comment %}
 ## Přehledná mapa našich záměrů
 
 Projděte si <a href="https://drive.google.com/open?id=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n&usp=sharing" target="_blank" title="Mapka pirátských záměrů">mapku našich záměrů</a>.
+{% endcomment %}

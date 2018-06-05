@@ -50,6 +50,8 @@ order: 5
     <dd>Zapojíme se do výkupu pozemků. Podporujeme realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
 </dl>
 
+{% comment %}
 ## Přehledná mapa našich záměrů
 
 Projděte si <a href="https://drive.google.com/open?id=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n&usp=sharing" target="_blank" title="Mapka pirátských záměrů">mapku našich záměrů</a>.
+{% endcomment %}
