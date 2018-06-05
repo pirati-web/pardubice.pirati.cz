@@ -11,6 +11,7 @@ description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: pedagožka
 cityCandidatePosition: 3
 candidateDescription:
+mail: ivana.bohmova@pirati.cz
 profiles:
   github:
   facebook:

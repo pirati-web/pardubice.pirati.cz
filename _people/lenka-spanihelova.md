@@ -9,6 +9,7 @@ description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: sociální pedagožka
 cityCandidatePosition:
 candidateDescription:
+mail: lenka.spanihelova@pirati.cz
 profiles:
   github:
   facebook:

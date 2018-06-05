@@ -14,7 +14,7 @@ candidateDescription: lídr kandidátky a kandidát na pozici primátora
 mail:
 - ondrej.karas@pirati.cz
 mob:
-- 733 519 515
+- +420 733 519 515
 profiles:
   github:
   facebook: https://www.facebook.com/karri84
