@@ -2,19 +2,20 @@
 uid: ondrej.karas
 name:     Ondřej Karas      		# běžně používáné jméno
 fullname: Ing. Ondřej Karas		# jméno s tituly etc.
+title: Ing. Ondřej Karas
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto
 - kandidate-pce-mo6
 img: people/ondrej-karas.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
-profession: vývojář HW
+profession: vývojář
 cityCandidatePosition: 1
 candidateDescription: lídr kandidátky a kandidát na pozici primátora
 mail:
 - ondrej.karas@pirati.cz
 mob:
-- 733 519 515
+- +420 733 519 515
 profiles:
   github:
   facebook: https://www.facebook.com/karri84

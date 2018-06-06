@@ -14,6 +14,11 @@ $program-item-ns: '';
     }
 }
 
+.o-section-header + .c-program-candidates,
+.o-section-header + .c-program-items {
+    margin-top: 1.5rem;
+}
+
 .#{$program-item-ns}c-program-items {
     display: flex;
     flex-wrap: wrap;
@@ -26,52 +31,78 @@ $program-item-ns: '';
 
 .#{$program-item-ns}c-program-items__item {
     display: flex;
-    max-width: 33.33%;
-    // padding-right: 1.25rem;
-    // padding-bottom: 1.25rem;
-
-    @include breakpoint(medium down) {
-        max-width: 100%;
-    }
+    max-width: 100%;
 }
 
 .#{$program-item-ns}c-program-items__item-wrap {
     display: flex;
-    margin-right: 0.75rem;
-    margin-bottom: 0.75rem;
     color: $white;
-    background-color: $secondary-color;
-    transition: background-color .3s ease-in-out;
+    border: 1px $light-gray solid;
+    transition: border-color .2s ease-in-out;
 
     &:hover {
-        background-color: $primary-color;
+        border-color: $primary-color;
+        color: $white;
     }
+}
+
+
+.#{$program-item-ns}c-program-items__item + .#{$program-item-ns}c-program-items__item {
+    margin-top: 1.5rem;
 }
 
 .#{$program-item-ns}c-program-items__item-inner {
     padding: 1.25rem;
 
-    h4 {
-        font-weight: bold;
+    .#{$program-item-ns}c-program-items__item-title {
+        color: $primary-color;
+        text-decoration: underline;
+        font-weight: 600;
+        font-size: 1.5rem;
     }
 
     a:not(.button) {
-        color: $white;
+        color: $black;
+        // color: $white;
         text-decoration: none;
     }
 }
 
-.#{$program-item-ns}c-program-candidate-badge {
+.#{$program-item-ns}c-program-candidates {
     display: flex;
-    margin-bottom: 2rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 
+.#{$program-item-ns}c-program-candidates__row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.#{$program-item-ns}c-program-candidate-badge {
+    display: flex; // keep the height uniform
 
     .#{$program-item-ns}c-program-candidate-badge__body {
         width: 100%;
         display: flex;
+        flex-direction: column;
+        border: 1px $light-gray solid;
+
+        .#{$program-item-ns}c-program-candidate-badge__description {
+            padding: 1rem;
+        }
 
         .#{$program-item-ns}c-program-candidate-badge__name {
-            font-size: 1.4rem;
+            font-size: 1.5rem;
+            font-weight: 600;
+
+            @include breakpoint(medium down) {
+                font-size: 1.25rem;
+            }
         }
 
         .#{$program-item-ns}c-program-candidate-badge__profession {
@@ -81,40 +112,83 @@ $program-item-ns: '';
         }
 
         .#{$program-item-ns}c-program-candidate-badge__bio {
+            margin-top: 1rem;
             margin-bottom: 0;
+
+            @include breakpoint(medium down) {
+                display: none;
+            }
         }
     }
 
     .#{$program-item-ns}c-program-candidate-badge__avatar {
         position: relative;
-        margin-right: 20px;
         flex-shrink: 0;
 
-        .#{$program-item-ns}c-program-candidate-badge__rank {
-            display: block;
-            position: absolute;
-            right: 0;
-            top: -6px; // ~ in-line with candidate name
-            background-color: $black;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            line-height: 36px;
-            text-align: center;
-            font-size: 1em;
-            font-weight: bold;
-            color: $white;
-            border: 2px $white solid;
-
-            span {
-                // Compensate for the dot sign.
-                padding-left: 3px;
-            }
-        }
-
-        .#{$program-item-ns}c-program-candidate-badge__avatar-image {
-            border-radius: 50%;
-        }
     }
 
+    .#{$program-item-ns}c-program-candidate-badge__rank {
+        display: block;
+        position: absolute;
+        right: 10px;
+        bottom: -20px;
+        background-color: $black;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 34px;
+        text-align: center;
+        font-size: 1.15em;
+        font-weight: bold;
+        color: $white;
+        border: 3px $white solid;
+
+        span {
+            // Compensate for the dot sign.
+            padding-left: 3px;
+        }
+    }
+}
+
+@mixin candidate-landscape {
+    width: 100%;
+
+    .#{$program-item-ns}c-program-candidate-badge__body {
+        flex-direction: row;
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__avatar {
+        width: calc(33.3333% - 0.75rem);
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__rank {
+        bottom: 10px;
+        right: -20px;
+    }
+
+    .#{$program-item-ns}c-program-candidate-badge__description {
+        padding-left: 1.5rem;
+    }
+}
+
+.#{$program-item-ns}c-program-candidates__row .#{$program-item-ns}c-program-candidate-badge {
+    width: 33.3333333%;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+
+    @include breakpoint(small down) {
+        width: 100%;
+        margin-bottom: 1.5rem;
+
+        // note: match leader layout
+        @include candidate-landscape();
+    }
+}
+
+.#{$program-item-ns}c-program-candidate-badge.c-program-candidate-badge--leader {
+    @include candidate-landscape();
+}
+
+.#{$program-item-ns}c-program-candidate-badge.c-program-candidate-badge--leader + .#{$program-item-ns}c-program-candidates__row {
+    margin-top: 1.5rem;
 }

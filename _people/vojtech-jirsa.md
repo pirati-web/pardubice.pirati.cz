@@ -2,17 +2,18 @@
 uid: vojtech.jirsa
 name:     Vojtěch Jirsa      		# běžně používáné jméno
 fullname: Ing. Vojtěch Jirsa, Ph.D.		# jméno s tituly etc.
+title: Ing. Vojtěch Jirsa, Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto
 - kandidat-pce-mo1
 img: people/vojtech-jirsa.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
-profession: expert na udržitelnou mobilitu
+profession: dopravní urbanista
 mail:
 - vojtech.jirsa@pirati.cz
-cityCandidatePosition: 3
-candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
+cityCandidatePosition: 4
+candidateDescription: expert na dopravní plánování a urbanismus
 profiles:
   github:
   facebook:

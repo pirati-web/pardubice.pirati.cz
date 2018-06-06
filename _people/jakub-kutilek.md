@@ -1,15 +1,18 @@
 ---
 uid: jakub.kutilek
-name:     Jakub Kutílek   		# běžně používáné jméno
+name: Jakub Kutílek   		# běžně používáné jméno
 fullname: Ing. Jakub Kutílek		# jméno s tituly etc.
+title: Ing. Jakub Kutílek
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivce-pce
 - kandidat-pce-mesto
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
-profession: ''
-cityCandidatePosition: 4
-candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
+profession: dopravní specialista
+cityCandidatePosition: 2
+candidateDescription: člen spolku Město na kole, Strany zelených a Iniciativy Přírodní park Červeňák
+mail: jakub.kutilek@zeleni.cz
+mob: +420 776 253 591
 profiles:
   github:
   facebook:

@@ -2,7 +2,7 @@
 uid: vzdelavani
 garant: ivana.bohmova
 title: Vzdělávání
-img: people/anna-vavreckova.jpg
+img: miscellaneous/volebni-rozcestnik.png
 perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 order: 7
 ---
@@ -18,8 +18,8 @@ order: 7
     <dd>Reagujeme na poptávku po péči o nejmenší. Zajistíme dostatek míst i vhodné podmínky, jako například snížení počtu dvouletých dětí na jednoho pedagoga.</dd>
     <dt>Možnost výběru</dt>
     <dd>považujeme za důležitou. Proto podporujeme vznik dětských skupin, mateřských center, lesních školek i škol jiných zřizovatelů.</dd>
-    <dt>Bezpečná cesta do školy</dt>
-    <dd>TODO</dd>
+    <!-- <dt>Bezpečná cesta do školy</dt>
+    <dd>TODO</dd> -->
 </dl>
 
 ## Transparentnost

@@ -2,12 +2,12 @@
 uid: verejny-prostor-a-zelen
 garant: jakub.kutilek
 title: Veřejný prostor a zeleň
-img: people/anna-vavreckova.jpg
+img: miscellaneous/volebni-rozcestnik.png
 perex: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží.
 order: 6
 ---
 
-**Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží. Zeleň město zkrášluje a pomáhá mu, upravuje teplotu, prašnost a vlhkost. Aby nám mohla dobře sloužit, potřebuje přiměřenou péči.**
+**Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnujeme pozornost, jakou si zaslouží. Zeleň město zkrášluje a pomáhá mu, upravuje teplotu, prašnost a vlhkost. Aby nám mohla dobře sloužit, potřebuje přiměřenou péči.**
 
 ## Město pro lidi
 
@@ -19,7 +19,7 @@ order: 6
     <dt>Městská nábřeží.</dt>
     <dd>Zejména v centru města využijeme potenciál nábřeží našich krásných řek a přivedeme k nim městský život. Na levém břehu Labe zřídíme promenádu od soutoku kolem zdymadla a telefonní ústředny a dále podél Závodu míru.</dd>
     <dt>Akce na podporu sousedské pospolitosti.</dt>
-    <dd>Veřejný prostor chápeme jako platformu pro sbližování občanů. Podpoříme akce, které tomu napomáhají a zasadíme se o to, aby se Pardubice účastnily např. celorepublikových sousedských slavností Zažít město jinak. Obnovíme tradici Města na Míru.</dd>
+    <dd>Veřejný prostor chápeme jako platformu pro sbližování občanů. Podpoříme akce, které tomu napomáhají a zasadíme se o to, aby se Pardubice účastnily např. celorepublikových sousedských slavností <a href="https://zazitmestojinak.cz/" target="_blank">Zažít město jinak</a>. Obnovíme tradici Města na Míru.</dd>
 </dl>
 
 ## Obnova a údržba zeleně

@@ -7,22 +7,36 @@ rbar:
 
 <div class="row">
     <blockquote class="c-blockquote c-blockquote--wicon">
-        <p>Letošní volby jsou, nejen pro Piráty, důležitým milníkem. Letos se rozhodne, ponecháme-li tuto zemi tradičním a zpravidla zkorumpovaným partajím, vložíme-li ji do rukou všemožným populistickým hnutím, které si z politiky dělají bussines a které nezřídka kdy otevřeně opovrhují demokratickými tradicemi.i</p>
-        <p> Anebo se rozhodneme pro skutečnou změnu a zvolíme stranu, která i když je zatím malá a pro mnohé má divné jméno, přináší do politiky zcela nové mechanismy, sama na sobě aplikuje pravidla otevřené a odpovědné politiky a ze svých zásad nesejde ani o kousek. Volit Piráty znamená volit rozumem. Zjistěte si víc a dejte nám šanci, my vás nezklameme</p>
-        {% comment %}
-                <p>Mikulas nebo Pavel sem neco reknou(nebo nekdo jiny)</p>
-                <p>Pusťte nás na ně!</p>
-        {% endcomment %}
-        <cite>Pavel Štěpánek, předseda KS Pardubický kraj</cite>
+        <p>Po úspěšných volbách do poslanecké sněmovny pociťují Piráti velký zájem ze strany veřejnosti. Rádi bychom tuto přízeň společnosti vrátili a v nadcházejících podzimních volbách vpluli do zastupitelstev měst a obvodů.</p>
+        <p>Otevřenost je nejlepším lékem na korupci a plýtvání. To, že být transparentní, není nic těžkého, dokazujeme sami na sobě - už jen proto sami dobře víme, jak na to, a společně to dokážeme i Pardubicích.</p>
+        <cite>Ondřej Karas, kandidát na primátora města Pardubic</cite>
     </blockquote>
 
-
     <div class="o-section">
-        <div class="columns medium-9">
-            <h2>Zastupitelstvo</h2>
+        <div class="columns medium-8">
+            <div class="o-section-header">
+                <h3 class="o-section__heading o-section__heading--small">Kandidátní listina</h3>
+            </div>
+            <div class="c-program-candidates">
+                {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat-pce-mesto'" | sort:"cityCandidatePosition" %}
+                {% assign leader_candidate = team  | first %}
+                {% assign other_candidates = team | slice:1,team.size %}
 
-            <h3>Program</h3>
+                {% include program/candidate_badge.html candidate=leader_candidate leader=true %}
 
+                {% for candidate in other_candidates %}
+                    {% assign loopindex = forloop.index | modulo: 3 %}
+                    {% if loopindex == 1 %}<div class="c-program-candidates__row">{% endif %}
+                        {% include program/candidate_badge.html candidate=candidate leader=false %}
+                    {% if loopindex == 0 or forloop.last %}</div>{% endif %}
+                {% endfor %}
+            </div>
+            <p><strong>Pozn.:</strong> Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.</p>
+        </div>
+        <div class="columns medium-4">
+            <div class="o-section-header">
+                <h3 class="o-section__heading o-section__heading--small">Program</h3>
+            </div>
             <div class="c-program-items">
                 {% assign programCategories = site.program | sort:"order" %}
                 {% for category in programCategories %}
@@ -30,7 +44,7 @@ rbar:
                     <div class="c-program-items__item-wrap">
                         <div class="c-program-items__item-inner">
                             <a href="{{ category.url | relative_url }}">
-                                <h3>{{ category.title }}</h3>
+                                <h3 class="c-program-items__item-title">{{ category.title }}</h3>
                                 <p>{{ category.perex }}</p>
                             </a>
                         </div>
@@ -39,40 +53,18 @@ rbar:
                 {% endfor %}
             </div>
 
-            <div class="o-section o-section-block">
-                <h3>Kandidáti</h3>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat-pce-mesto'" | sort:"cityCandidatePosition" %}
-                {% for candidate in team %}
-                    {% capture candidate_name %}
-                        {% if candidate.name %}{{ candidate.name }}{% else %}{{ candidate.title }}{% endif %}
-                    {% endcapture %}
-                    <div class="c-program-candidate-badge">
-                        <div class="c-program-candidate-badge__body">
-                            <div class="c-program-candidate-badge__avatar">
-                                <a href="{{ candidate.url | relative_url }}">
-                                    <span class="c-program-candidate-badge__rank"><span>{{ candidate.cityCandidatePosition }}.</span></span>
-                                    {% asset '{{ candidate.img }}' magick:resize='120x120^' magick:gravity='center' magick:crop='120x120+0+0' alt='{{ candidate_name }}' class=c-program-candidate-badge__avatar-image %}
-                                </a>
-                            </div>
-                            <div class="c-program-candidate-badge__description">
-                                <h4 class="c-program-candidate-badge__name"><a href="{{ candidate.url | relative_url }}">{{ candidate_name }}</a></h4>
-                                <strong class="c-program-candidate-badge__profession">{{ candidate.profession }}</strong>
-                                <p class="c-program-candidate-badge__bio">{{ candidate.candidateDescription }}</p>
-                            </div>
-                        </div>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="columns medium-3">
-            <h2>Obvody</h2>
-            <ul>
-                <li><a href="{% link komunalni-volby-2018/obvod-pardubice-i.html %}">Pardubice I</a></li>
-                <li><a href="{% link komunalni-volby-2018/obvod-pardubice-ii.html %}">Pardubice II</a></li>
-            </ul>
         </div>
     </div>
+
 </div>
+
+{% comment %}
+<h2>Obvody</h2>
+<ul>
+    <li><a href="{% link komunalni-volby-2018/obvod-pardubice-i.html %}">Pardubice I</a></li>
+    <li><a href="{% link komunalni-volby-2018/obvod-pardubice-ii.html %}">Pardubice II</a></li>
+</ul>
+{% endcomment %}
 <!-- <section class="o-section">
     <h2>Piráti v Pardubicích</h2>
     <p>Mnozí z vás si jistě všimli, že v Pardubicích zakotvila pirátská loď a nabírá posádku. Po úspěšných volbách do poslanecké sněmovny pociťují Piráti velký zájem ze strany veřejnosti. Rádi bychom tuto přízeň společnosti vrátili a v nadcházejících podzimních volbách vpluli do zastupitelstev měst a obvodů.</p>

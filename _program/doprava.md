@@ -2,7 +2,7 @@
 uid: doprava
 garant: vojtech.jirsa
 title: Doprava
-img: people/anna-vavreckova.jpg
+img: miscellaneous/volebni-rozcestnik.png
 perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 order: 5
 ---
@@ -41,8 +41,8 @@ order: 5
     <dt>Vybudujeme Parkovací dům</dt>
     <dd>pro odstavení vozidel lidí, kteří potřebují do centra (například lokality: u nádraží, 17.listopadu, u Rychlodráhy).</dd>
     <dt>Zvýšíme dostupnost parkovacích míst.</dt>
-    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v aplikaci.</dd>
-    <dt>Prosadíme zákaz kamionů na Dašické.</dt>
+    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v mobilní aplikaci.</dd>
+    <dt>Budeme prosazovat zákaz kamionů na Dašické.</dt>
     <dd>V souvislosti s dobudováním úseku D35 Opatovice – Časy. Nákladní doprava tak zmizí nejen z Dašické, ale také z přednádraží, rychlodráhy a ul. Na Drážce.</dd>
     <dt>Parkovací lístek ze záchytného parkoviště</dt>
     <dd>bude sloužit jako jízdenka na MHD.</dd>
@@ -50,6 +50,8 @@ order: 5
     <dd>Zapojíme se do výkupu pozemků. Podporujeme realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
 </dl>
 
+{% comment %}
 ## Přehledná mapa našich záměrů
 
 Projděte si <a href="https://drive.google.com/open?id=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n&usp=sharing" target="_blank" title="Mapka pirátských záměrů">mapku našich záměrů</a>.
+{% endcomment %}

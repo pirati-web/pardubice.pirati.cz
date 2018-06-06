@@ -1,21 +1,23 @@
 ---
 uid: lenka.spanihelova
 name:     Lenka Španihelová   		# běžně používáné jméno
-fullname: Bc. Lenka Španihelová		# jméno s tituly etc.
+fullname: Mgr. Lenka Španihelová		# jméno s tituly etc.
+title: Mgr. Lenka Španihelová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
-- kandidat-pce-mesto
 img: people/lenka-spanihelova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
-profession: ''
-cityCandidatePosition: 10
-candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
+profession: sociální pedagožka
+cityCandidatePosition:
+candidateDescription:
+mail: lenka.spanihelova@pirati.cz
 profiles:
   github:
   facebook:
   twitter:
   linkedin:
 ---
+
 **Lenka Španihelová** (*19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
 
 Vystudovala Střední průmyslovou školu mlékárenskou v Kroměříži obor analýza potravin. Vysokou školu vystudovala v Praze, bakalářský obor sociální a pastorační práce na Evangelické teologické fakultě Univerzity Karlovy, magisterský obor sociální pedagogika na Filozofické fakultě Univerzity Karlovy. Během studia se věnovala práci se seniory v České Alzheimerovské společnosti, práci s lidmi s duševním onemocněním ve společnosti Vida a práci s ohroženou mládeží v organizaci Barevný svět dětí.

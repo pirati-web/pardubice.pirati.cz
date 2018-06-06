@@ -2,6 +2,7 @@
 uid: pavel.stepanek
 name:     Pavel Štěpánek  	# běžně používáné jméno
 fullname: Pavel Štěpánek  	# jméno s tituly etc.
+title: Pavel Štěpánek
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - koordinatori
@@ -15,7 +16,7 @@ contactDescription: |
 ordpak:
 mail:
 - pavel.stepanek@pirati.cz
-mob:
+mob: +420 770 113 647
 profiles:
   github:
   facebook:

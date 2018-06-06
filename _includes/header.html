@@ -1,8 +1,8 @@
-<div class='thetop'></div>
+<div class="thetop"></div>
 <aside class="o-section o-section--smaller c-header-bar u-inverted u-inverted--darker u-center-860-down">
   <div class="row">
     <div class="o-section-inner" style="padding: 3px;">
-      <div class="small-10 columns">
+      <div class="small-12 columns">
         <ul class="c-header-bar-items">
           <li class="c-header-bar__item c-header-bar__item--smallerSpace"><a href="{{ site.url }}/">{{ site.title }}</a></li>
           <div class="c-header-bar-divider"></div>
@@ -41,73 +41,53 @@
     </div>
   </div>
 </aside>
-<div class="c-top-bar">
-  <div class="row">
-    <div class="c-top-bar-inner u-cf">
-      <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
-        <li>
-          <input type="search" id="search" placeholder="Hledaný výraz">
-        </li>
-        <li class="c-top-bar-searchbar__submit">
-          <button type="button" class="button" id="searchsub">
-            <i class="fa fa-search" aria-hidden="true"></i>
-          </button>
-        </li>
-      </ul>
-      {% if page.url != '/' %}
-      <div class="top-bar-title">
+
+<div class="row">
+  <div class="columns small-12">
+    <div class="c-top-bar">
+      <div class="c-top-bar__brand">
         <a href="{{ '/' | relative_url }}">
           {% asset 'brand/logo.png' alt='Česká pirátská strana' %}
         </a>
       </div>
-      {% endif %}
-      <div class="menu-toggle-container hide-for-large">
+
+      <div class="c-top-bar__search">
+        <div class="c-search">
+          <input class="c-search__input" type="search" id="search" placeholder="Hledaný výraz">
+          <button type="button" class="c-search__confirm" id="searchsub"><i class="fa fa-search" aria-hidden="true"></i></button>
+        </div>
+      </div>
+
+      <div id="responsive-menu" class="c-responsive-menu">
+        <ul class="c-responsive-menu__items" data-dropdown-menu="">
+          <li class="c-responsive-menu__item {% if page.url contains 'aktuality' %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
+          </li>
+          <li class="c-responsive-menu__item {% if page.url contains 'clenove' %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{ '/clenove/' | relative_url }}">Naši členové</a>
+          </li>
+          <li class="c-responsive-menu__item {% if page.url contains 'komunalni-volby-2018' %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{ '/komunalni-volby-2018/' | relative_url }}">Komunální volby 2018</a>
+          </li>
+          <li class="c-responsive-menu__item {% if page.url contains 'pripoj-se' %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
+          </li>
+          <li class="c-responsive-menu__item {% if page.url contains 'kontakt' %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="c-responsive-menu-toggle hide-for-large">
         <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
-          <button class="" type="button" data-toggle="">
-            <span class="menu-toggle-inner">
-              <span class="menu-toggle-description">Menu</span>
-              <i class="menu-icon dark"></i>
-            </span>
+          <button class="c-responsive-menu-toogle__button" type="button" data-toggle="">
+            <span class="c-responsive-menu-toggle__caption">Menu</span>
+            <i class="menu-icon dark"></i>
           </button>
         </span>
-      </div>
-      <div id="responsive-menu" class="c-top-bar-menu">
-        <div class="responsive-menu-inner">
-          <div class="top-bar-left top-bar-footer-group">
-            <ul class="dropdown menu" data-dropdown-menu="">
-              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
-                <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
-              </li>
-              <li{% if page.url contains 'o-nas' or page.url contains 'lide' %} class="is-active"{% endif %}>
-                <a href="{{ '/lide/' | relative_url }}">O nás</a>
-              </li>
-              <li{% if page.url contains 'komunalni-volby'%} class="is-active"{% endif %}>
-                <a href="{{ '/komunalni-volby-2018/' | relative_url }}">Komunální volby 2018</a>
-              </li>
-              {% comment %}
-              <li{% if page.url contains 'kandidati'%} class="is-active"{% endif %}>
-                <a href="{{ '/kandidati/' | relative_url }}">Naši kandidáti</a>
-              </li>
-              <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
-                <a href="{{ '/program/' | relative_url }}">Program</a>
-              </li>
-              {% endcomment %}
-              <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
-                <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
-              </li>
-	      {% comment %}
-              <li{% if page.url contains 'pircentra' %} class="is-active"{% endif %}>
-                <a href="{{ '/pircentra/' | relative_url }}">Pirátská centra</a>
-              </li>
-	      {% endcomment %}
-              <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
-                <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
-              </li>
-            </ul>
-          </div>
-        </div>
       </div>
     </div>
   </div>
 </div>
-<div class="c-top-bar-border"> </div>
+
+<div class="c-top-bar__divider"></div>
