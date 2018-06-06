@@ -2,6 +2,7 @@
 uid: lenka.spanihelova
 name:     Lenka Španihelová   		# běžně používáné jméno
 fullname: Mgr. Lenka Španihelová		# jméno s tituly etc.
+title: Mgr. Lenka Španihelová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 img: people/lenka-spanihelova.jpg           # 165 x 220
@@ -16,6 +17,7 @@ profiles:
   twitter:
   linkedin:
 ---
+
 **Lenka Španihelová** (*19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
 
 Vystudovala Střední průmyslovou školu mlékárenskou v Kroměříži obor analýza potravin. Vysokou školu vystudovala v Praze, bakalářský obor sociální a pastorační práce na Evangelické teologické fakultě Univerzity Karlovy, magisterský obor sociální pedagogika na Filozofické fakultě Univerzity Karlovy. Během studia se věnovala práci se seniory v České Alzheimerovské společnosti, práci s lidmi s duševním onemocněním ve společnosti Vida a práci s ohroženou mládeží v organizaci Barevný svět dětí.

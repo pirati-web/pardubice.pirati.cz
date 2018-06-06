@@ -2,6 +2,7 @@
 uid: ondrej.karas
 name:     Ondřej Karas      		# běžně používáné jméno
 fullname: Ing. Ondřej Karas		# jméno s tituly etc.
+title: Ing. Ondřej Karas
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto

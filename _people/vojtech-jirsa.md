@@ -2,6 +2,7 @@
 uid: vojtech.jirsa
 name:     Vojtěch Jirsa      		# běžně používáné jméno
 fullname: Ing. Vojtěch Jirsa, Ph.D.		# jméno s tituly etc.
+title: Ing. Vojtěch Jirsa, Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto

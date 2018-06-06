@@ -2,6 +2,7 @@
 uid: jan.bednar
 name:     Jan Bednář   		# běžně používáné jméno
 fullname: Jan Bednář		# jméno s tituly etc.
+title: Jan Bednář
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 img: people/jan-bednar.jpg           # 165 x 220

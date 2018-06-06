@@ -2,6 +2,7 @@
 uid: jan.hrubes
 name:     Jan Hrubeš      		# běžně používáné jméno
 fullname: Jan Hrubeš		# jméno s tituly etc.
+title: Jan Hrubeš
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 img: people/jan-hrubes.jpg           # 165 x 220
