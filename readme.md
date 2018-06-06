@@ -135,7 +135,12 @@ Web pak běží na [http://localhost:4000](http://localhost:4000/).
 │   ├── footer.html                     -- patička stránky
 │   ├── header.html                     -- hlavička stránky
 │   └── head.html                       -- meta hlavička stránky
-├── _layouts                        - kompletní šablony stránek
+├── _layouts                        - šablony jednotlivých typů stránek
+│   ├── blank.html                      -- zcela prázdná stránka
+│   ├── compress.html                   -- layout, který komprimuje obsah
+│   ├── default.html                    -- výchozí layout (použitelný pro většinu stránek)
+│   ├── page.html                       -- běžná stránka, rozšiřuje default.html
+│   └── post.html                       -- layout pro článek
 ├── _people                         - vlastní kolekce obsahující stránky jednotlivých osob
 │   ├── osoba.md
 │   └── ...
@@ -201,6 +206,7 @@ Díky tomu je vše velmi jednoduché:
 
 - články jsou markdown soubory v adresaři `_posts`
 - profily lidí z týmu jsou markdown soubory v adresaři `_pepople`
+- programové body lze upravovat v `_program`
 - stránky jsou klasické html soubory (mohou být i markdown)
 
 ### Git
