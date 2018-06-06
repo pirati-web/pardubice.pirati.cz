@@ -170,11 +170,11 @@ Web pak běží na [http://localhost:4000](http://localhost:4000/).
 
 Výsledný web je staticky vygenerovaný za použití [Jekyllu](http://jekyllrb.com/). Během buildu (lokálního, nebo produkčního) se provede následující:
 
-    1. Kompilace JS dependencies (jQuery, jQuery UI)
-    2. Agregace CSS dependencies (Foundation, FontAwesome, jQuery UI)
-    3. Vyčištění cachí (`.jekyll-cache`)
-    4. Vyčištění `_site` adresáře
-    5. Spuštění Jekyll build commandu: `bundle exec jekyll build`
+1. Kompilace JS dependencies (jQuery, jQuery UI)
+2. Agregace CSS dependencies (Foundation, FontAwesome, jQuery UI)
+3. Vyčištění cachí (`.jekyll-cache`)
+4. Vyčištění `_site` adresáře
+5. Spuštění Jekyll build commandu: `bundle exec jekyll build`
 
 Produkční build má navíc ještě jeden krok,
 [htmlproofer](https://github.com/gjtorikian/html-proofer), který ověří, že
@@ -228,8 +228,8 @@ request**.
 
 Probíhá to tedy takto:
 
-    1. Vytvoření vlastního forku
-    2. Provedení změn v kódu.
-    3. Vytvoření commitu. Kroky 2. a 3. mohou probíhat vícekrát.
-    4. Po dokončení všech úprav vytvoření pull requestu.
-    5. Pull request je schválen správce hlavního repository, tím jsou vaše změny provedeny.
+1. Vytvoření vlastního forku
+2. Provedení změn v kódu.
+3. Vytvoření commitu. Kroky 2. a 3. mohou probíhat vícekrát.
+4. Po dokončení všech úprav vytvoření pull requestu.
+5. Pull request je schválen správce hlavního repository, tím jsou vaše změny provedeny.
