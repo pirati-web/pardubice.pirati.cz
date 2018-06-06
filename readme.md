@@ -207,7 +207,7 @@ Díky tomu je vše velmi jednoduché:
 
 Pro publikaci změn se používá Git. Ten rozděluje "změny" na tzv. commity.
 
-Rychlé intro do Gitu lze najít [třeba](http://rogerdudler.github.io/git-guide/).
+Rychlé intro do Gitu lze najít [třeba tady](http://rogerdudler.github.io/git-guide/).
 Pro obsluhu Gitu na GitHubu je nejsnazší si stáhnout [GitHub
 Desktop](https://desktop.github.com/).
 
