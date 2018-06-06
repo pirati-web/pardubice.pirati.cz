@@ -1,11 +1,11 @@
-# pardubicky.pirati.cz
+# pardubice.pirati.cz
 
 [![Build Status](https://travis-ci.org/pirati-web/pardubice.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pardubice.pirati.cz)
 
 Web Pirátů ve městě Pardubice.
 
 ## Obsah
-- [pardubicky.pirati.cz](#pardubickypiraticz)
+- [pardubice.pirati.cz](#pardubicepiraticz)
     - [Obsah](#obsah)
     - [Instalace](#instalace)
         - [Varianta 1 - Docker](#varianta-1---docker)
