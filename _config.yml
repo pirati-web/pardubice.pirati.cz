@@ -98,7 +98,7 @@ facebook:
   appId: 1526197851008996
 
 twitter:
-  profile: PiratskaStrana
+  # profile: PiratskaStrana
   loadSDK: true
 
 instagram:

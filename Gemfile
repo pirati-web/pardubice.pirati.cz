@@ -45,3 +45,7 @@ gem "image_optim_bin" # Optional
 gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
+
+group :development, :test do
+  gem "html-proofer"
+end
