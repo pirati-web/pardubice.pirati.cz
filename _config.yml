@@ -25,6 +25,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-environment-variables
 
 paginate_path: "/aktuality/:num/"
 paginate: 11
@@ -44,6 +45,7 @@ permalink: /tiskove-zpravy/:title.html
 collections:
   people:
     output: true
+    root: /clenove/
     permalink: /clenove/:path/
 
   program:
@@ -55,13 +57,13 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "foto"
+      layout: "person"
+      rbar: "people, foto, personContact"
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
+      layout: "program-post"
       rbar: "garant, program"
 
 organization:
@@ -132,7 +134,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.5.1/_sass
     - assets/css
     - assets/fonts
     - assets/video

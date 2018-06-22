@@ -2,6 +2,7 @@
 layout: komunalni-volby
 title: Komunální volby 2018
 note: Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+category: radnice
 ---
 
 <blockquote class="c-blockquote c-blockquote--wicon">

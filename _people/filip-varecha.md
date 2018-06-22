@@ -5,6 +5,7 @@ fullname: Ing. Filip Vařecha		# jméno s tituly etc.
 title: Ing. Filip Vařecha
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
+- radnice
 img: people/filip-varecha.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
