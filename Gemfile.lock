@@ -8,33 +8,37 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    autoprefixer-rails (8.6.3)
+      execjs
     colorator (1.1.0)
-    colorize (0.8.1)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    ethon (0.11.0)
-      ffi (>= 1.3.0)
     eventmachine (1.2.7)
     execjs (2.7.0)
+    exifr (1.3.4)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.3)
-    ffi (1.9.23)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
-    html-proofer (3.8.0)
-      activesupport (>= 4.2, < 6.0)
-      addressable (~> 2.3)
-      colorize (~> 0.8)
-      mercenary (~> 0.3.2)
-      nokogiri (~> 1.8.1)
-      parallel (~> 1.3)
-      typhoeus (~> 1.3)
-      yell (~> 2.0)
+    fspath (3.1.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
+    image_optim (0.26.1)
+      exifr (~> 1.2, >= 1.2.2)
+      fspath (~> 3.0)
+      image_size (~> 1.5)
+      in_threads (~> 1.3)
+      progress (~> 3.0, >= 3.0.1)
+    image_optim_bin (0.0.7)
+    image_optim_pack (0.5.1)
+      fspath (>= 2.1, < 4)
+      image_optim (~> 0.19)
+    image_size (1.5.0)
+    in_threads (1.5.0)
     jekyll (3.7.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -59,7 +63,9 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
-    jekyll-feed (0.9.1)
+    jekyll-environment-variables (1.0.0)
+      jekyll (~> 3.0)
+    jekyll-feed (0.10.0)
       jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
     jekyll-sanity (1.2.0)
@@ -68,9 +74,12 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
+    jekyll-theme-pirati (3.2.2)
+      jekyll (~> 3.6)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
-    kramdown (1.16.2)
+    json (2.1.0)
+    kramdown (1.17.0)
     liquid (4.0.0)
     liquid-tag-parser (1.9.0)
       extras (~> 0.3)
@@ -83,11 +92,11 @@ GEM
     mini_magick (4.8.0)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
-    nokogiri (1.8.2)
+    nokogiri (1.8.3)
       mini_portile2 (~> 2.3.0)
-    parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    progress (3.4.0)
     public_suffix (3.0.2)
     rack (2.0.5)
     rb-fsevent (0.10.3)
@@ -101,32 +110,35 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sprockets (4.0.0.beta7)
+    sprockets (4.0.0.beta8)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     thread_safe (0.3.6)
-    typhoeus (1.3.0)
-      ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     uglifier (4.0.2)
       execjs (>= 0.3.0, < 3)
-    yell (2.0.7)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  html-proofer
-  jekyll (= 3.7.3)
+  autoprefixer-rails
+  image_optim
+  image_optim_bin
+  image_optim_pack
+  jekyll (~> 3.7.3)
   jekyll-assets (= 3.0.11)
-  jekyll-feed (= 0.9.1)
-  jekyll-paginate (= 1.1.0)
-  jekyll-sass-converter
-  jekyll-sitemap (= 1.2.0)
+  jekyll-environment-variables
+  jekyll-feed (~> 0.6)
+  jekyll-paginate
+  jekyll-sitemap
+  jekyll-theme-pirati (~> 3.2.2)
+  json
   mini_magick
   sprockets (~> 4.0.0.beta)
+  tzinfo-data
   uglifier (~> 4.0.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
