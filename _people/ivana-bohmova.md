@@ -7,6 +7,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mesto
 - kandidat-pce-mo5
+- radnice
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: pedagožka

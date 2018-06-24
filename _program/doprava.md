@@ -2,6 +2,7 @@
 uid: doprava
 garant: vojtech.jirsa
 title: Doprava
+category: radnice
 img: miscellaneous/volebni-rozcestnik.png
 perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 order: 5

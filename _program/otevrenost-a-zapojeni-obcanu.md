@@ -2,6 +2,7 @@
 uid: otevrenost-a-zapojeni-obcanu
 garant: filip.varecha
 title: Otevřenost a zapojení občanů
+category: radnice
 img: miscellaneous/volebni-rozcestnik.png
 perex: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
 order: 1

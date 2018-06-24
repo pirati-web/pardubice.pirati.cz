@@ -2,6 +2,7 @@
 uid: smart-city
 garant: ondrej.karas
 title: Smart City
+category: radnice
 img: miscellaneous/volebni-rozcestnik.png
 perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
 order: 2
