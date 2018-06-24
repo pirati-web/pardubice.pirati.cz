@@ -11,6 +11,7 @@ description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
+cityCandidatePosition: 6
 profiles:
   github: https://github.com/xaralis
   facebook: https://www.facebook.com/filip.varecha
