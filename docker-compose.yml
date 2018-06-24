@@ -1,11 +1,11 @@
-site:
-  command: >
-    bash -c "npm install && npm run build:assets && jekyll serve --incremental --livereload"
-  # image: jekyll/jekyll:latest
-  build: .
-  volumes:
-    - .:/srv/jekyll
-    - ./vendor/bundle:/usr/local/bundle
-  ports:
-    - 4000:4000
-    - 35729:35729
+version: '3'
+services:
+  site:
+    command: >
+      bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload"
+    build: .
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+      - 35729:35729
