@@ -10,11 +10,6 @@ description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: student VŠCHT
 mail:
 - jan.hrubes@pirati.cz
-cityCandidatePosition: 7
-<<<<<<< HEAD
-candidateDescription: Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus quidem ducimus, corrupti omnis veniam. Voluptas ipsum excepturi accusantium provident reiciendis tempora consequuntur, voluptatum optio magni molestiae cumque cupiditate eaque?
-=======
->>>>>>> master
 profiles:
   github:
   facebook:

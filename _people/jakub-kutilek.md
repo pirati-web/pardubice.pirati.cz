@@ -10,7 +10,6 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: dopravní specialista
-cityCandidatePosition: 2
 candidateDescription: člen spolku Město na kole, Strany zelených a Iniciativy Přírodní park Červeňák
 mail: jakub.kutilek@zeleni.cz
 mob: +420 776 253 591

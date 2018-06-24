@@ -13,7 +13,6 @@ description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: dopravní urbanista
 mail:
 - vojtech.jirsa@pirati.cz
-cityCandidatePosition: 4
 candidateDescription: expert na dopravní plánování a urbanismus
 profiles:
   github:

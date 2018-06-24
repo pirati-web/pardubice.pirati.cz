@@ -11,8 +11,6 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: pedagožka
-cityCandidatePosition: 3
-candidateDescription:
 mail: ivana.bohmova@pirati.cz
 profiles:
   github:
