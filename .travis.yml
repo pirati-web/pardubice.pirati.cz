@@ -10,12 +10,9 @@ before_install:
   - chmod 600 /tmp/deploy_rsa_sandbox
   - ssh-add /tmp/deploy_rsa_sandbox
   - gem install bundler
-  - nvm install node
-  - npm install -g gulp-cli
-before_script:
-  - npm install
+  - bundle install --path vendor/bundle
 script:
-  - npm run build:production
+  - rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build
 deploy:
   - provider: script
     skip_cleanup: true

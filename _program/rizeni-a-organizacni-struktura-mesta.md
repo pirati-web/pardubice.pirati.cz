@@ -2,6 +2,7 @@
 uid: rizeni-a-organizacni-struktura-mesta
 garant: vojtech.jirsa
 title: Řízení a organizační struktura města
+category: radnice
 img: miscellaneous/volebni-rozcestnik.png
 perex: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
 order: 3

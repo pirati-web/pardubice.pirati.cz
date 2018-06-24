@@ -7,7 +7,7 @@
       "name"     : "{{ person.name | escape }}",
       "fullname" : "{{ person.fullname }}",
       "category" : "{{ person.categories | join: ' ' }}",
-      "img"      : "{% asset '{{ person.img }}' magick:resize='92x' alt='{{ person.name }}' @path %}",
+      "img"      : "{{ person.img | prepend: '/assets/img/' | relative_url }}",
       "mail"     : "{{ person.mail | join: ','}}",
       "mob"      : "{{ person.mob | join: ','}}",
       "description" : "{{ person.description | escape }}",

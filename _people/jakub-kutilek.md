@@ -6,6 +6,7 @@ title: Ing. Jakub Kutílek
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivce-pce
 - kandidat-pce-mesto
+- radnice
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: dopravní specialista
