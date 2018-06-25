@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-pce-mesto
 - kandidat-pce-mo1
 - radnice
+ordPce: 4
 img: people/vojtech-jirsa.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: dopravní urbanista
