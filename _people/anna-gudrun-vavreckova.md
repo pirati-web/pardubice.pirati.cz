@@ -6,6 +6,7 @@ title: Anna Vavrečková
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen-pce
 - kandidat-pce-mo5
+ordPce: 8
 img: people/anna-vavreckova.jpg           # 165 x 220
 description: členka KS Pardubický kraj			# kratký popis, max 160 znaků
 profession: ''

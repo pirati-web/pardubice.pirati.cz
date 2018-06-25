@@ -3,6 +3,14 @@ layout: komunalni-volby
 title: Komunální volby 2018
 note: Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 category: radnice
+candidates:
+    - ondrej.karas
+    - jakub.kutilek
+    - ivana.bohmova
+    - vojtech.jirsa
+    - lenka.spanihelova
+    - filip.varecha
+    - jan.hrubes
 ---
 
 <blockquote class="c-blockquote c-blockquote--wicon">
