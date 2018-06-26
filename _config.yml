@@ -52,6 +52,10 @@ collections:
     output: true
     permalink: /komunalni-volby-2018/program/:path/
 
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
 defaults:   # defaults values for collection scope
   -
     scope:
@@ -134,7 +138,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.6.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.0/_sass
     - assets/css
     - assets/fonts
     - assets/video

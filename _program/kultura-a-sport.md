@@ -2,7 +2,8 @@
 uid: kultura-a-sport
 garant: jan.hrubes
 title: Kultura a sport
-category: radnice
+campaignCategoryUid: magistrat
+campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí.
 order: 8
