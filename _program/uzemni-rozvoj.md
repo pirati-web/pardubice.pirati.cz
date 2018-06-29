@@ -2,7 +2,8 @@
 uid: uzemni-rozvoj
 garant: jakub.kutilek
 title: Územní rozvoj
-category: radnice
+campaignCategoryUid: magistrat
+campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky.
 order: 4

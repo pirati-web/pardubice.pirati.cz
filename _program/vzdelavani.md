@@ -2,7 +2,8 @@
 uid: vzdelavani
 garant: ivana.bohmova
 title: Vzdělávání
-category: radnice
+campaignCategoryUid: magistrat
+campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 order: 7
