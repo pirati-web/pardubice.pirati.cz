@@ -68,6 +68,8 @@ npm install
 ```
 #### macOS
 
+
+
 ##### Instalace závislostí
 
 ```
