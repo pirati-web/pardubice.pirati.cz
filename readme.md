@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/pirati-web/pardubice.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pardubice.pirati.cz)
 
-Web Pirátů ve městě Pardubice.
+Web Pardubické pirátské buňky.
 
 ## Obsah
 - [pardubice.pirati.cz](#pardubicepiraticz)
