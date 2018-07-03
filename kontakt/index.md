@@ -1,6 +1,8 @@
 ---
 layout: contacts
 residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
+description: Chcete se zapojit, nebo jenom vědět co se děje? Kontaktujte nás na Facebooku, nebo sledujte fórum Pardubického kraje.
+keywords: kontakt, facebook, telefon, email, koordinátor
 ---
 
 ## Přidejte se

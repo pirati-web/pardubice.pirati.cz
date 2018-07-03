@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
+description: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
+keywords: veřejná správa, služby, řízení města
 order: 3
 ---
 

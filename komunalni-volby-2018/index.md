@@ -4,6 +4,8 @@ title: Komunální volby 2018
 note: Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 campaignCategoryUid: magistrat
 candidateListUid: magistrat
+description: V komunálních volbách 2018 Piráti budou kandidovat v Pardubicích. Jak na magistrát, tak i na jednotlivé městské obvody. Prosazujeme transparentní veřejnou správu, participaci veřejnosti, férový přístup ke všem způsobům dopravy a politiku, která využívá možností technologií 21. století pro otevřenou a demokratickou společnost.
+keywords: volby, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
 <blockquote class="c-blockquote c-blockquote--wicon">

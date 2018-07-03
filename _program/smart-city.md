@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
+description: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
+keywords: smart city, technologie, chytrý, město
 order: 2
 ---
 

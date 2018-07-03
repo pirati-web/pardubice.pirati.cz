@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží.
+description: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží.
+keywords: zeleň, veřejný prostor, stromy, urbanismus
 order: 6
 ---
 

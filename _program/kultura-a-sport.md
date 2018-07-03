@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí.
+description: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí.
+keywords: kultura, sport
 order: 8
 ---
 
