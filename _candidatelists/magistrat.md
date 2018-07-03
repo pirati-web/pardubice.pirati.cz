@@ -13,7 +13,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jakub.kutilek
     profession: dopravní specialista
     description: člen spolku Město na kole, Strany zelených a Iniciativy Přírodní park Červeňák
-    party: Strana Zelených
+    party: Zelení
   - uid: ivana.bohmova
     profession: pedagožka
     party: Piráti
