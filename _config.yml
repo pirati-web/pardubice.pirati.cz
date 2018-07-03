@@ -9,6 +9,7 @@
 title: Piráti Pardubice
 email: pardubice@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+keywords: pardubice, piráti, pirátská strana, politická strana, politika, otevřenost, transparentnost
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pardubice.pirati.cz" # the base hostname & protocol for your site
 
@@ -63,12 +64,14 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar: "people, foto, personContact"
+      keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar: "garant, program"
+      keywords: program, volby, 2018, komunální volby
 
 organization:
   name: Česká pirátská strana - KS Pardubický kraj

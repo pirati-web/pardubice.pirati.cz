@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
+description: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
+keywords: vzdělávání, škola, školka, mateřská škola
 order: 7
 ---
 

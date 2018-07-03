@@ -6,6 +6,8 @@ campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
+description: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
+keywords: participace, participativní rozpočet, transparentnost, občané, open data
 order: 1
 ---
 
