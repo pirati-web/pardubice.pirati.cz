@@ -4,10 +4,7 @@ name:     Ondřej Karas      		# běžně používáné jméno
 fullname: Ing. Ondřej Karas		# jméno s tituly etc.
 title: Ing. Ondřej Karas
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clen-pce
-- kandidat-pce-mesto
-- kandidate-pce-mo6
-- radnice
+- clenove
 ordPce: 5
 img: people/ondrej-karas.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
