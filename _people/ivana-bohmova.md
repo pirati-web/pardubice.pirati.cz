@@ -4,9 +4,7 @@ name:     Ivana Böhmová   		# běžně používáné jméno
 fullname: Bc. Ivana Böhmová		# jméno s tituly etc.
 title: Bc. Ivana Böhmová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clen-pce
-- kandidat-pce-mesto
-- kandidat-pce-mo5
+- clenove
 - radnice
 ordPce: 2
 img: people/ivana-bohmova.jpg           # 165 x 220

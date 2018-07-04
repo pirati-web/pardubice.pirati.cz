@@ -4,8 +4,7 @@ name: Jakub Kutílek   		# běžně používáné jméno
 fullname: Ing. Jakub Kutílek		# jméno s tituly etc.
 title: Ing. Jakub Kutílek
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivce-pce
-- kandidat-pce-mesto
+- priznivci
 - radnice
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků

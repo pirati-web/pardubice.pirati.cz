@@ -4,7 +4,7 @@ name:     Jan Hrubeš      		# běžně používáné jméno
 fullname: Jan Hrubeš		# jméno s tituly etc.
 title: Jan Hrubeš
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clen-pce
+- clenove
 ordPce: 3
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků

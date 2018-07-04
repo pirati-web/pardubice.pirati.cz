@@ -4,7 +4,7 @@ name:     Filip Vařecha      		# běžně používáné jméno
 fullname: Ing. Filip Vařecha		# jméno s tituly etc.
 title: Ing. Filip Vařecha
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clen-pce
+- clenove
 - radnice
 ordPce: 7
 img: people/filip-varecha.jpg           # 165 x 220
