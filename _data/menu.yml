@@ -19,6 +19,13 @@ main:
   - link: /komunalni-volby-2018/
     name: Komunální volby 2018
     match: komunalni-volby-2018
+    submenu:
+      - link: /komunalni-volby-2018
+        name: Radnice
+        match: komunalni-volby-2018
+      - link: /komunalni-volby-2018/mo-v
+        name: MO V
+        match: mo-v
   - link: /kontakt/
     name: Kontakt
     match: kontakt

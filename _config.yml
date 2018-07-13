@@ -66,14 +66,19 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: "people, foto, personContact"
+      rbar:
+        - foto
+        - personContact
+        - people
       keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: "garant, program"
+      rbar:
+        - garant
+        - program
       keywords: program, volby, 2018, komunální volby
 
 organization:
@@ -88,15 +93,23 @@ organization:
   residenceImg: miscellaneous/cpice.jpg
   mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
   redmineLink: https://redmine.pirati.cz/projects/pardubicky-kraj
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
 
-homepageBanner:
-  display: true
-  link: /komunalni-volby-2018/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-    default: header/komunal-banner-large.png
-    mobile: header/komunal-banner-small.png
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/Piráti-Pardubice-339242666586738/" target="_blank">Piráti - Pardubice</a>
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková skupina
+    body: <a href="https://www.facebook.com/groups/pirati.pardubice/" target="_blank">Piráti a přátelé Pardubice</a>
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
@@ -144,7 +157,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.1.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
