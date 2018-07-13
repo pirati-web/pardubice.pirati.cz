@@ -23,7 +23,7 @@ main:
       - link: /komunalni-volby-2018
         name: Radnice
         match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/mo-v
+      - link: /komunalni-volby-2018/mo-v.html
         name: MO V
         match: mo-v
   - link: /kontakt/
