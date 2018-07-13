@@ -13,6 +13,9 @@ keywords: pardubice, piráti, pirátská strana, politická strana, politika, ot
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pardubice.pirati.cz" # the base hostname & protocol for your site
 
+administrator:
+  email: filip.varecha@pirati.cz # mail kam pujdou chybove vystupy
+
 theme: jekyll-theme-pirati
 
 sass:
