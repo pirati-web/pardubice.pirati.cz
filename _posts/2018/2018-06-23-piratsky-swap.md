@@ -15,13 +15,13 @@ neudržitelné spotřeby textilu.
 
 ## Co to je SWAP?
 
-“SWAP funguje naprosto jednoduše. Doma vyberete věci, které už nenosíte nebo nepotřebujete,
+"SWAP funguje naprosto jednoduše. Doma vyberete věci, které už nenosíte nebo nepotřebujete,
 přinesete, a místo nich si vyberete něco, co se vám líbí a co vám udělá radost. Je samozřejmě
-možné vybrat si toho víc, nebo věci pouze přinést a neodnést si nic - nikdo vás kontrolovat nebude”
+možné vybrat si toho víc, nebo věci pouze přinést a neodnést si nic - nikdo vás kontrolovat nebude"
 vysvětluje fungování SWAPu jedna z pořadatelek Lenka Španihelová a dodává, že lidé mohou nosit
 jak oblečení, tak i knihy a hračky. Veškeré přebytky budou darovány charitativním organizacím.
 
-Akce bude probíhat v nově vzniklém kreativním prostoru “[Ve mlejnech][1]” (na adrese Mezi mosty 436 v Pardubicích),
+Akce bude probíhat v nově vzniklém kreativním prostoru "[Ve mlejnech][1]" (na adrese Mezi mosty 436 v Pardubicích),
 během celého odpoledne od 15 do 20 hodin. Ke spokojené výměně napomůže dobré občerstvení, kvalitní káva,
 dětský koutek s tzv. recydílničkami či fotokoutek pro dospělé. Více na [fecebookové události][2].
 
@@ -31,7 +31,7 @@ O své kandidatuře již informovali na [tiskové konferenci][3]. Ve veřejné o
 především sociální politikou a vzděláváním. Jako zásadní vnímají také právě podporu komunitního života a
 sousedská setkávání či rozvíjení debaty na aktuální palčivá témata. Výměnný bazar aneb SWAP je právě
 spojením těchto dvou benefitů. Dámský klub plánuje pořádat takovéto akce pravidelně a nově vzniklý
-prostor “Ve mlejnech” je pro tento druh události ideální.
+prostor "Ve mlejnech" je pro tento druh události ideální.
 
 Výměnné bazary nejsou v čechách úplnou novinkou, podobné akce pořádají organizace či  skupiny mladých
 lidí, kteří chtějí pravidelně obnovovat svůj šatník a zároveň se vyhnout nakupování nových věcí, které
