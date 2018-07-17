@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ordPce: 3
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
-profession: student VŠCHT
+profession: student FChT UPa
 mail:
 - jan.hrubes@pirati.cz
 profiles:
