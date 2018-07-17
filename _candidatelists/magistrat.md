@@ -30,7 +30,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 32
     party: Piráti
   - uid: jan.hrubes
-    profession: student VŠCHT
+    profession: student FChT UPa
     party: Piráti
 tail:
 note: # poznámka pod kanidátku
