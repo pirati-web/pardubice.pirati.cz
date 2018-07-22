@@ -6,7 +6,7 @@ title: Aneta Jelínková
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 img: people/aneta-jelinkova.jpg           # 165 x 220
-description: příznivkyně KS Pardubický kraj # kratký popis, max 160 znaků
+description: příznivce KS Pardubický kraj # kratký popis, max 160 znaků
 mail:
 profiles:
   github:
