@@ -23,7 +23,7 @@ main:
     name: Komunální volby 2018
     match: komunalni-volby-2018
     submenu:
-      - link: /komunalni-volby-2018
+      - link: /komunalni-volby-2018/
         name: Radnice
         match: komunalni-volby-2018
       - link: /komunalni-volby-2018/mo-i/
