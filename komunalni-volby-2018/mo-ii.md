@@ -7,5 +7,6 @@ description: V komunálních volbách 2018 Piráti budou kandidovat v Pardubicí
 keywords: volby, mo ii, Polabiny, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
-Obvod zahrnuje oblasti Polabiny a Cihelna.
-## Piráti, Naše Pardubice a Zelení
+Kandidujeme jako sdružení České pirátské strany a nezávislých kandidátů pod
+názvem <q>**Piráti, Naše Pardubice a Zelení**</q>. Obvod zahrnuje oblasti
+**Polabiny** a **Cihelna**.

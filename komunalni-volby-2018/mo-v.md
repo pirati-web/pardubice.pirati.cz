@@ -7,4 +7,4 @@ description: V komunálních volbách 2018 Piráti budou kandidovat v Pardubicí
 keywords: volby, mo v, dukla, jesničánky, višňovka, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
-Obvod zahrnuje oblasti Dukla, Jesničánky, Višňovka a Dražkovice.
+Obvod zahrnuje oblasti **Dukla**, **Jesničánky**, **Višňovka** a **Dražkovice**.

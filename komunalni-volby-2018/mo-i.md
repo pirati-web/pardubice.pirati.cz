@@ -7,4 +7,4 @@ description: V komunálních volbách 2018 Piráti budou kandidovat v Pardubicí
 keywords: volby, mo i, střed, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
-Obvod zahrnuje oblasti Pardubice-Staré Město, Zámek, Bílé Předměstí (část) a Zelené Předměstí (část).
+Obvod zahrnuje oblasti **Pardubice-Staré Město**, **Zámek**, **Bílé Předměstí** (část) a **Zelené Předměstí** (část).
