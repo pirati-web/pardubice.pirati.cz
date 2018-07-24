@@ -5,7 +5,7 @@ fullname: Bc. Jan Hrubeš, DiS		# jméno s tituly etc.
 title: Bc. Jan Hrubeš, DiS
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 3
+ordPce: 4
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: student FChT UPa

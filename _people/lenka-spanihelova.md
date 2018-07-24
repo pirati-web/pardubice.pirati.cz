@@ -5,7 +5,7 @@ fullname: Mgr. Lenka Španihelová		# jméno s tituly etc.
 title: Mgr. Lenka Španihelová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 7
+ordPce: 8
 img: people/lenka-spanihelova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: sociální pedagožka

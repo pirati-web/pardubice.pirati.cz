@@ -6,7 +6,7 @@ title: Bc. Ivana Böhmová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-ordPce: 2
+ordPce: 3
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 mail: ivana.bohmova@pirati.cz

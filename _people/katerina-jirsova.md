@@ -5,7 +5,7 @@ fullname: MgA. Kateřina Jirsová		# jméno s tituly etc.
 title: MgA. Kateřina Jirsová
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 4
+ordPce: 5
 img: people/katerina-jirsova.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: umělkyně

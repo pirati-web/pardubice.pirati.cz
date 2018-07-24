@@ -65,7 +65,7 @@ tail:
   - name: Bc. Dominik Bečka
     age: 27
     profession: bankovní specialista
-    party: BEZPP
+    party: Piráti
   - name: Matěj Drajer
     age: 25
     profession: kavárník

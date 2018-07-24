@@ -5,7 +5,7 @@ fullname: Ing. Vojtěch Jirsa, Ph.D.		# jméno s tituly etc.
 title: Ing. Vojtěch Jirsa, Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 5
+ordPce: 6
 img: people/vojtech-jirsa.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:

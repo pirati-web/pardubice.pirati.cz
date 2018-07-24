@@ -5,7 +5,7 @@ fullname: Jan Bednář		# jméno s tituly etc.
 title: Jan Bednář
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 1
+ordPce: 2
 img: people/jan-bednar.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: grafický designér
