@@ -1,8 +1,8 @@
 ---
 uid: zuzana.machackova
 name: Zuzana Macháčková
-fullname: Bc. Zuzana Macháčková
-title: Bc. Zuzana Macháčková
+fullname: Bc. et Bc. Zuzana Macháčková
+title: Bc. et Bc. Zuzana Macháčková
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/zuzana-machackova.jpg
 profiles:

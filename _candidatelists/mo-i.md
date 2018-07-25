@@ -25,7 +25,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: dominik.becka
     age: 27
     profession: bankovní specialista
-    party: BEZPP
+    party: Piráti
   - uid: katerina.jirsova
     age: 32
     profession: umělkyně

@@ -4,7 +4,12 @@ name: Dominik Bečka
 fullname: Bc. Dominik Bečka
 title: Bc. Dominik Bečka
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
+- clenove
+- radnice
+ordPce: 1
 img: people/dominik-becka.jpg
+description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+profession: bankovní specialista
 profiles:
   github:
   facebook:
