@@ -7,7 +7,7 @@ leader:
   age: 32
   profession: dopravní specialista
   description: lídr kandidátky
-  party: Zeleni
+  party: Zelení
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: katerina.kosova
