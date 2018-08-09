@@ -12,7 +12,7 @@ before_install:
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 script:
-  - rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" ./_site
+  - rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
 deploy:
   - provider: script
     skip_cleanup: true
