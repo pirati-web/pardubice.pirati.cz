@@ -1,14 +1,15 @@
 ---
 uid: vilem.kubac
 name: Vilém Kubáč   		# běžně používáné jméno
-fullname: Bc. Vilém Kubáč		# jméno s tituly etc.
-title: Bc. Vilém Kubáč
+titles:
+  before: Bc.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 img: people/vilem-kubac.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: student dějin umění a komparatistiky
-candidateDescription: 
+candidateDescription:
 profiles:
   github:
   facebook:

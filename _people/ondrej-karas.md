@@ -1,8 +1,9 @@
 ---
 uid: ondrej.karas
 name:     Ondřej Karas      		# běžně používáné jméno
-fullname: Ing. Ondřej Karas		# jméno s tituly etc.
-title: Ing. Ondřej Karas
+titles:
+  before: Ing.
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 7

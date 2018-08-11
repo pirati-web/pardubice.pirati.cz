@@ -1,8 +1,9 @@
 ---
 uid: bohdan.seda
 name: Bohdan Šeda   		# běžně používáné jméno
-fullname: Mgr. Bohdan Šeda		# jméno s tituly etc.
-title: Mgr. Bohdan Šeda
+titles:
+  before: Mgr.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 img: people/bohdan-seda.jpg

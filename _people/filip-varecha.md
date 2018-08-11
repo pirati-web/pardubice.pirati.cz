@@ -1,8 +1,9 @@
 ---
 uid: filip.varecha
 name:     Filip Vařecha      		# běžně používáné jméno
-fullname: Ing. Filip Vařecha		# jméno s tituly etc.
-title: Ing. Filip Vařecha
+titles:
+  before: Ing.
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice

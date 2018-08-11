@@ -1,8 +1,9 @@
 ---
 uid: jan.bohm
 name: Jan Böhm
-fullname: Bc. Jan Böhm
-title: Bc. Jan Böhm
+titles:
+  before: Bc.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-bohm.jpg
 profiles:

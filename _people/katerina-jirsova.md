@@ -1,8 +1,9 @@
 ---
 uid: katerina.jirsova
 name:     Kateřina Jirsová   		# běžně používáné jméno
-fullname: MgA. Kateřina Jirsová		# jméno s tituly etc.
-title: MgA. Kateřina Jirsová
+titles:
+  before: MgA.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 5

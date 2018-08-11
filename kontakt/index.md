@@ -5,7 +5,9 @@ keywords: kontakt, facebook, telefon, email, koordinátor
 contentSize: even
 ---
 
-## Přidejte se
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Přidejte se</h1>
+</div>
 
 Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
 

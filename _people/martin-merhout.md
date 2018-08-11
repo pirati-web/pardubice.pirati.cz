@@ -1,14 +1,15 @@
 ---
 uid: martin.merhout
 name: Martin Merhout   		# běžně používáné jméno
-fullname: Martin Merhout		# jméno s tituly etc.
-title: Martin Merhout
+titles:
+  before:
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 img: people/martin-merhout.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: telefonista
-candidateDescription: 
+candidateDescription:
 profiles:
   github:
   facebook:
@@ -19,4 +20,4 @@ profiles:
 
 Absolvoval Obchodní akademii a dále pokračoval studiem Religionistiky na Univerzitě Pardubice, které však nedokončil. Ve svém posledním zaměstnání telefonicky odbavoval požadavky zákazníků na anglické lince v komunikačním centru jednoho z telefonních operátorů.
 
-Zajímá se o veřejné a společenské dění ve městě a v zemi, kde žije, což bylo i důvodem angažovat ve v politice. Snaží se o ekologicky šetrný způsob života a ve volném čase se zajímá o současnou kinematografii a si rád zahraje deskovou hru s přáteli. 
+Zajímá se o veřejné a společenské dění ve městě a v zemi, kde žije, což bylo i důvodem angažovat ve v politice. Snaží se o ekologicky šetrný způsob života a ve volném čase se zajímá o současnou kinematografii a si rád zahraje deskovou hru s přáteli.

@@ -1,8 +1,9 @@
 ---
 uid: pavel.stepanek
 name:     Pavel Štěpánek  	# běžně používáné jméno
-fullname: Pavel Štěpánek  	# jméno s tituly etc.
-title: Pavel Štěpánek
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - koordinatori

@@ -1,8 +1,9 @@
 ---
 uid: kamila.skalecka
 name: Kamila Skalecká
-fullname: Mgr. Kamila Skalecká
-title: Mgr. Kamila Skalecká
+titles:
+  before: Mgr.
+  after:
 img: people/kamila-skalecka.jpg           # 165 x 220
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 profiles:

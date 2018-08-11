@@ -1,8 +1,9 @@
 ---
 uid: jan.bednar
 name:     Jan Bednář   		# běžně používáné jméno
-fullname: Jan Bednář		# jméno s tituly etc.
-title: Jan Bednář
+titles:
+  before:
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 2

@@ -1,8 +1,9 @@
 ---
 uid: ivana.bohmova
 name:     Ivana Böhmová   		# běžně používáné jméno
-fullname: Bc. Ivana Böhmová		# jméno s tituly etc.
-title: Bc. Ivana Böhmová
+titles:
+  before: Bc.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice

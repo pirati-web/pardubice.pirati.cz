@@ -1,8 +1,9 @@
 ---
 uid: ondrej.beran
-name:     Ondřej Beran      		# běžně používáné jméno
-fullname: Mgr. Ondřej Beran, Ph.D.		# jméno s tituly etc.
-title: Mgr. Ondřej Beran, Ph.D.
+name:     Ondřej Beran
+titles:
+  before: Mgr.
+  after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 ordPce:
@@ -23,5 +24,5 @@ Vystudoval klasickou filologii a filosofii na UK v Praze, kde také získal titu
 
 Pracoval v akademické sféře jako vědec a občasný učitel, příležitostně se věnoval rovněž překládání, editorské a redakční práci, nebo tvorbě filmových titulků pro kinodistribuci. V současnosti působí na univerzitě v Pardubicích jako koordinátor mezinárodního výzkumného projektu.
 
-Kromě různých zelených politických kampaní se angažoval také v různých občanských aktivitách (plzeňské referendum, iniciativa Plzeň na kole). Hrával na trubku, a když má čas, pokouší se učit cizí jazyky, cvičit tai-či, nebo psát detektivní román.  
+Kromě různých zelených politických kampaní se angažoval také v různých občanských aktivitách (plzeňské referendum, iniciativa Plzeň na kole). Hrával na trubku, a když má čas, pokouší se učit cizí jazyky, cvičit tai-či, nebo psát detektivní román.
 

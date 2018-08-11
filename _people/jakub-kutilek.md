@@ -1,8 +1,9 @@
 ---
 uid: jakub.kutilek
 name: Jakub Kutílek   		# běžně používáné jméno
-fullname: Ing. Jakub Kutílek		# jméno s tituly etc.
-title: Ing. Jakub Kutílek
+titles:
+  before: Ing.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 - radnice

@@ -1,8 +1,9 @@
 ---
 uid: lucie.prochazkova
 name: Lucie Procházková
-fullname: JUDr. Lucie Procházková, Ph.D.
-title: JUDr. Lucie Procházková, Ph.D.
+titles:
+  before: JUDr.
+  after: Ph.D.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lucie-prochazkova.jpg
 profiles:

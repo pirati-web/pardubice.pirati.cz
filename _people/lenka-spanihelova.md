@@ -1,8 +1,9 @@
 ---
 uid: lenka.spanihelova
 name:     Lenka Španihelová   		# běžně používáné jméno
-fullname: Mgr. Lenka Španihelová		# jméno s tituly etc.
-title: Mgr. Lenka Španihelová
+titles:
+  before: Mgr.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 8

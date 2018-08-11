@@ -1,8 +1,9 @@
 ---
 uid: vladan.hanulik
 name: Vladan Hanulík
-fullname: Mgr. Vladan Hanulík, Ph.D.
-title: Mgr. Vladan Hanulík, Ph.D.
+titles:
+  before: Mgr.
+  after: Ph.D.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vladan-hanulik.jpg
 profiles:

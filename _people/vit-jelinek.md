@@ -1,8 +1,9 @@
 ---
 uid: vit.jelinek
 name: Vít Jelínek
-fullname: Ing. Vít Jelínek
-title: Ing. Vít Jelínek
+titles:
+  before: Ing.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vit-jelinek.jpg
 profiles:

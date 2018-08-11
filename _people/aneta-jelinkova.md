@@ -1,8 +1,9 @@
 ---
 uid: aneta.jelinkova
 name: Aneta Jelínková   		# běžně používáné jméno
-fullname: Aneta Jelínková		# jméno s tituly etc.
-title: Aneta Jelínková
+titles:
+  before: Ing.
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 img: people/aneta-jelinkova.jpg           # 165 x 220

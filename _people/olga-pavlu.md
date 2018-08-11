@@ -1,8 +1,9 @@
 ---
 uid: olga.pavlu
 name: Olga Pavlů
-fullname: Olga Pavlů
-title: Olga Pavlů
+titles:
+  before:
+  after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/olga-pavlu.jpg
 profiles:
