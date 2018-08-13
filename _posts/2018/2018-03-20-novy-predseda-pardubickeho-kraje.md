@@ -6,7 +6,6 @@ date: 2018-03-20T10:10:00+01:00
 tags: Pardubice PKS Volby
 author: Piráti Pardubického kraje
 image: miscellaneous/pivo-v-holicich.jpg #751x422
-
 ---
 
 Koncem minulého týdne si zvolili členové krajského sdružení České pirátské strany

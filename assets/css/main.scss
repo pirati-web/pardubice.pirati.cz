@@ -1,30 +1,11 @@
 @import 'pirati';
 
-.pardubice-intention-map__header-wrap {
-    position: relative;
-    max-width: $global-width;
-    margin-left: auto;
-    margin-right: auto;
+.c-widget-share-box + .c-pardubice-infobox,
+.c-pardubice-infobox + .c-pardubice-infobox {
+    margin-top: 2rem;
 }
 
-.pardubice-intention-map__header {
-    position: absolute;
-    z-index: 2;
-    padding: 1rem 1.5rem .2rem;
-    background: transparentize($color: $body-background, $amount: .2);
-
-    @include breakpoint(small down) {
-        position: static;
-        text-align: center;
-    }
-}
-
-.pardubice-intention-map {
-    .c-custom-layer-map__map, .c-custom-layer-map__map .map-view {
-        min-height: 700px;
-
-        @include breakpoint(small down) {
-            min-height: 500px;
-        }
-    }
+.c-pardubice-infobox {
+    background: $light-gray;
+    padding: 2rem;
 }
