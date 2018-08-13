@@ -13,21 +13,25 @@ before_install:
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 
-script:
+script: rm -rf _site
 
-stages:
-  - name: build-sandbox
-    script: rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts && bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
-    if: branch == master
-  - name: deploy-sandbox
-    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
-    if: branch == master
-  - name: build-production
-    script: rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' && bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
-    if: branch == production
-  - name: deploy-production
-    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
-    if: branch == master
+jobs:
+  include:
+    stages:
+      - name: build-sandbox
+        script: JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts
+        if: branch == master
+      - name: build-production
+        script: JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml'
+        if: branch == production
+      - name: htmlproofer
+        script: bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
+      - name: deploy-sandbox
+        script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
+        if: branch == master
+      - name: deploy-production
+        script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
+        if: branch == production
 
 branches:
   only:
