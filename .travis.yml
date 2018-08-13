@@ -13,25 +13,23 @@ before_install:
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 
-jobs:
-  include:
-    stages:
-      - name: cleanup
-        script: rm -rf _site
-      - name: build-sandbox
-        script: JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts
-        if: branch == master
-      - name: build-production
-        script: JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml'
-        if: branch == production
-      - name: htmlproofer
-        script: bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
-      - name: deploy-sandbox
-        script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
-        if: branch == master
-      - name: deploy-production
-        script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
-        if: branch == production
+script:
+  - rm -rf _site
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts; fi
+  - if [ "$TRAVIS_BRANCH" == "production" ]; then JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml'; fi
+  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
+
+deploy:
+  - provider: script
+    skip_cleanup: true
+    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
+    on:
+      branch: master
+  - provider: script
+    skip_cleanup: true
+    script: rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
+    on:
+      branch: production
 
 branches:
   only:
