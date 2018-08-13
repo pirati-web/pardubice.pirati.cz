@@ -4,8 +4,8 @@ category: CLANKY
 title: Hloupý plán? Raději chytré město krátkých vzdáleností a využitých brownfieldů
 date: 2018-08-01T12:00:00+01:00
 tags:
-    - uzemní plán
-    - hloupý plán
+    - uzemní-plán
+    - hloupý-plán
     - bydlení
 author: Jakub Kutílek
 image: articles/2018/hloupy-plan-radeji-chytre-mesto-kratkych-vzdalenosti-a-vyuzitych-brownfieldu-01.jpg
@@ -72,7 +72,7 @@ Dnes rozsáhlá pole protkaná remízky, Haldou, Spojilským odpadem a cestami.
 Dle návrhu prakticky kompletně k zastavění v růžové ploše „B – bydlení“.*
 
 
-Přehledné informace najdete na webu [http://www.hloupyplan.cz](www.hloupyplan.cz).
+Přehledné informace najdete na webu [www.hloupyplan.cz](http://www.hloupyplan.cz).
 
 ## Jak Hloupý plán vznikl?
 

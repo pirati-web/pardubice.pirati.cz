@@ -7,7 +7,7 @@ tags:
     - příroda
     - červeňák
     - propojka
-    - hloupý plán
+    - hloupý-plán
 author: Jakub Kutílek
 image: articles/2018/cervenak-prirodni-poklad-na-jihu-mesta-02.jpg
 infoboxes:
@@ -76,6 +76,6 @@ přímo na místě nejen formou naučné stezky.
 Bubeníkovy sady, Vinice) a volnou krajinou za městem.
 
 Podrobnější informace naleznete na webu Iniciativy Přírodní park Červeňák
-[http://www.ppcervenak.cz](www.ppcervenak.cz). K silniční propojce a s ní
+[www.ppcervenak.cz](http://www.ppcervenak.cz). K silniční propojce a s ní
 související změnou územního plánu pak na webu
-[http://www.hloupapropojka.cz](www.hloupapropojka.cz).
+[www.hloupapropojka.cz](http://www.hloupapropojka.cz).

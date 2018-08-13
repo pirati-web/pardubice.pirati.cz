@@ -6,7 +6,7 @@ date: 2018-08-01T12:00:00+01:00
 tags:
     - doprava
     - cyklodoprava
-    - územní plán
+    - územní-plán
 author: Jakub Kutílek
 image: articles/2018/udrzitelna-mobilita-reseni-dopravy-ve-meste-pro-21-stoleti-01.jpg
 infoboxes:
