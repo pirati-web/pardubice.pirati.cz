@@ -13,11 +13,11 @@ before_install:
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 
-script: rm -rf _site
-
 jobs:
   include:
     stages:
+      - name: cleanup
+        script: rm -rf _site
       - name: build-sandbox
         script: JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts
         if: branch == master
