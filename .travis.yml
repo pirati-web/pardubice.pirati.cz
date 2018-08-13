@@ -13,6 +13,8 @@ before_install:
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 
+script:
+
 stages:
   - name: build-sandbox
     script: rm -rf _site && JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts && bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
