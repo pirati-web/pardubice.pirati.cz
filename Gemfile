@@ -35,6 +35,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+gem "rake"
 gem "json" # For gem building
 gem 'sprockets', '~> 4.0.0.beta'
 gem 'uglifier', '~> 4.0.0'
