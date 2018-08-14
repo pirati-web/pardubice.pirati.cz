@@ -9,7 +9,7 @@ tags:
   - veřejný-prostor
   - zeleň
 author: Vojtěch Jirsa
-image: articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-03.png
+image: articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-03.jpg
 infoboxes:
   - content: >
       <ul>
@@ -32,7 +32,7 @@ dodaly místu potřebný stín. Z Masarykova náměstí mohl vzniknout velice
 atraktivní a současný městský prostor, který by šel vstříc potřebám obyvatel
 města. To se však nepodařilo.
 
-{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-02.png' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
+{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-02.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
 
 Nikdo se nezabýval tím, jaké možnosti prostor nabízí, co je zde dobře a co
 naopak špatně. Místo toho byl jen opraven povrch a nainstalován semafor.
@@ -52,7 +52,7 @@ Nabízíme stručný popis toho, jak by vypadalo pirátské řešení:
 
     Nikdo nemá patent na rozum, projektanti dělají chyby a každý má jiný pohled na věc. Návrh je třeba posoudit ve světle dalších možností a vybrat kombinaci těch nejlepších nápadů. Až následně lze přistoupit k detailnímu projektu a realizaci.
 
-{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-01.png'  magick:resize='751' %}
+{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-01.jpg'  magick:resize='751' %}
 
 Mnoho lidí intuitivně využívá obdobný přístup i při nákupu domácích spotřebičů. Nikoliv však vedení města Pardubice během realizace zásadních projektů.
 Tohle vše chceme změnit. I proto Vás prosíme o podporu.
