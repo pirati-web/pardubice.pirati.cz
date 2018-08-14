@@ -46,7 +46,7 @@ Nabízíme stručný popis toho, jak by vypadalo pirátské řešení:
 
 2. **Analýzy a účast stakeholderů**
 
-    Součástí zadání pro projektanty musí být soupis potřeb veřejnosti a dalších, kteří mají s územím co dočinění (Atrium Palác Pardubice, ČSOB Pojišťovna, Dopravní podnik města Pardubic, a další). V předstihu před tím, než se začne projektovat, je třeba definovat cíle  co od prostoru očekáváme a jaké jsou naše priority.
+    Součástí zadání pro projektanty musí být soupis potřeb veřejnosti a dalších, kteří mají s územím co dočinění (Atrium Palác Pardubice, ČSOB Pojišťovna, Dopravní podnik města Pardubic, a další). V předstihu před tím, než se začne projektovat, je třeba definovat cíle: co od prostoru očekáváme a jaké jsou naše priority.
 
 3. **Variantní návrh**
 
