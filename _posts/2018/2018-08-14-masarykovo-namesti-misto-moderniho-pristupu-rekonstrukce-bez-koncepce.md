@@ -52,8 +52,7 @@ Nabízíme stručný popis toho, jak by vypadalo pirátské řešení:
 
     Nikdo nemá patent na rozum, projektanti dělají chyby a každý má jiný pohled na věc. Návrh je třeba posoudit ve světle dalších možností a vybrat kombinaci těch nejlepších nápadů. Až následně lze přistoupit k detailnímu projektu a realizaci.
 
-{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-01.jpg'  magick:resize='751' %}
-
 Mnoho lidí intuitivně využívá obdobný přístup i při nákupu domácích spotřebičů. Nikoliv však vedení města Pardubice během realizace zásadních projektů.
 Tohle vše chceme změnit. I proto Vás prosíme o podporu.
 
+{% asset 'articles/2018/masarykovo-namesti-zakonzervovano-na-roky-dopredu-pirati-oponuji-pristupem-dle-soucasnych-trendu-01.jpg'  magick:resize='751' %}
