@@ -95,6 +95,7 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects/pardubicky-kraj
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 190801
 
 contactSummaryItems:
   - type: organizationEmail
@@ -105,7 +106,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková stránka
-    body: <a href="https://www.facebook.com/Piráti-Pardubice-339242666586738/" target="_blank">Piráti - Pardubice</a>
+    body: <a href="https://www.facebook.com/PiratiPardubice/" target="_blank">Piráti - Pardubice</a>
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková skupina
@@ -118,7 +119,8 @@ calendar:
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
-  profilePage: https://www.facebook.com/Piráti-Pardubice-339242666586738/
+  profilePage: https://www.facebook.com/Piráti-Pardubice/
+  groupPage: https://www.facebook.com/groups/pirati.pardubice/
   loadSDK: true
   appId: 1526197851008996
 

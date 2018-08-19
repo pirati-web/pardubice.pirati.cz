@@ -20,7 +20,7 @@ main:
     name: Naši členové
     match: clenove
   - link: /komunalni-volby-2018/
-    name: Komunální volby 2018
+    name: Volby 2018
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
@@ -31,10 +31,13 @@ main:
         match: mo-i
       - link: /komunalni-volby-2018/mo-ii/
         name: MO II
-        match: mo-ii        
+        match: mo-ii
       - link: /komunalni-volby-2018/mo-v/
         name: MO V
         match: mo-v
+  - link: /podporte-nas/
+    name: Podpořte nás
+    match: kontakt
   - link: /kontakt/
     name: Kontakt
     match: kontakt
