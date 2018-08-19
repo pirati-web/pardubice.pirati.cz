@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Hloupý plán? Raději chytré město krátkých vzdáleností a využitých brownfieldů
-date: 2018-08-01T12:00:00+01:00
+date: 2018-08-19T06:00:00+01:00
 tags:
     - uzemní-plán
     - hloupý-plán

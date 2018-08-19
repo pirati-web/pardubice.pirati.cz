@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: SMART neznamená draze a zbytečně
-date: 2018-08-01T12:00:00+01:00
+date: 2018-08-27T06:00:00+01:00
 tags:
     - smartcity
 author: Piráti Pardubice

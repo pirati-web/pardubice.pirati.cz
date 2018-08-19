@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pozor na neplatný hlas
-date: 2018-08-01T12:00:00+01:00
+date: 2018-09-01T06:00:00+01:00
 tags:
     - volby
 author: Piráti Pardubice

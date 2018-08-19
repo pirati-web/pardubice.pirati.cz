@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Dostupné bydlení i vzdělávání, to jsou témata pardubických pirátek
-date: 2018-08-01T12:00:00+01:00
+date: 2018-08-23T06:00:00+01:00
 tags:
     - rodina
     - bydlení

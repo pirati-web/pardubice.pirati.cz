@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Udržitelná mobilita: řešení dopravy ve městě pro 21. století'
-date: 2018-08-01T12:00:00+01:00
+date: 2018-08-21T06:00:00+01:00
 tags:
     - doprava
     - cyklodoprava
