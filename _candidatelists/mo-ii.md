@@ -55,15 +55,15 @@ tail:
     age: 31
     profession: koordinátorka vzdělávacích projektů
     party: BEZPP
-- name: Ing. Jindřich Mašín
+  - name: Ing. Jindřich Mašín
     age: 29
     profession: bezpečnostní inženýr
     party: BEZPP
-- name: Ing. Jitka Šídlová
+  - name: Ing. Jitka Šídlová
     age: 31
     profession: zahradní architektka
     party: BEZPP
-- name: Květa Kosová
+  - name: Květa Kosová
     age: 55
     profession: laborantka
     party: BEZPP
