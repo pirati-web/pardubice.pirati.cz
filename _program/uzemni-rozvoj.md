@@ -19,7 +19,7 @@ order: 4
     <dt>Usnadníme a budeme iniciovat výstavbu v zastavěné části města.</dt>
     <dd>Město, které se roztahuje do šířky, je drahé na provoz. Zrychlíme využití tzv. brownfieldů, tedy ploch již jednou zastavěných (Prokopka, Masarykova kasárna, Milheimova ad.).</dd>
     <dt>Město bude pro stavebníky partnerem.</dt>
-    <dd>Pomocí územních studií, koncepcí a manuálů stanovíme srozumitelná pravidla pro novou výstavby i přestavby uvnitř města. Budeme úzce spolupracovat s developery, abychom jejich představy skloubili s potřebami města. Budeme vyžadovat, aby se podíleli na veřejné infrastruktuře.</dd>
+    <dd>Pomocí územních studií, koncepcí a manuálů stanovíme srozumitelná pravidla pro novou výstavbu i přestavby uvnitř města. Budeme úzce spolupracovat s developery, abychom jejich představy skloubili s potřebami města. Budeme vyžadovat, aby se podíleli na veřejné infrastruktuře.</dd>
     <dt>Chceme jasnou vizi</dt>
     <dd>toho, kde se má stavět a kde ne. Znovu přehodnotíme náplň území Letního stadionu. Zapojíme širokou veřejnost do diskuze o jeho využití. Jedná se o příliš cenné území v centru města, než aby sloužilo pouze fotbalu.</dd>
     <dt>Budeme rozvoj Pardubic koordinovat s okolními obcemi.</dt>
