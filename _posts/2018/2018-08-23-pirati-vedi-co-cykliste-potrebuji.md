@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti vědí, co cyklisté potřebují
-date: 2018-08-29T06:00:00+01:00
+date: 2018-08-23T12:00:00+01:00
 tags: cyklodoprava doprava
 author: Piráti Pardubice
 image: articles/2018/pirati-vedi-co-cykliste-potrebuji.jpg #751x422
