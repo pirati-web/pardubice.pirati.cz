@@ -6,3 +6,5 @@
   campaigns:
     - title: Program na radnici   # individual campaigns within the group
       categoryUid: magistrat
+    - title: Program pro Pardubice V
+      categoryUid: mo-v
