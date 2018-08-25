@@ -34,8 +34,6 @@ order: 1
     <dt>Přechody pro pěší na Nemošické.</dt>
     <dd>Vybudujeme chybějící přechody pro pěší v obydlené části ul. Nemošická.</dd>
     <dt>Červeňák.</dt>
-    <dd>Vybudujeme bezpečný přechod na vlakovou zastávku na závodišti. Přebíhání osob přes silnici I/37 považujeme za krajně nebezpečné.</dd>
-    <dt>Oživení kina Dukla.</dt>
     <dd>Získáme bývalý vojenský prostor na Chrudimce do majetku města, aby zde mohl vzniknout přírodě blízký park, který bude sloužit pro každodenní rekreaci i jako pěší a cyklistická spojnice mezi Pardubičkami a Višňovkou.</dd>
 </dl>
 
