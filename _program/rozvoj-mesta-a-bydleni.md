@@ -1,7 +1,7 @@
 ---
-uid: uzemni-rozvoj
+uid: rozvoj-mesta-a-bydleni
 garant: jakub.kutilek
-title: Územní rozvoj
+title: Rozvoj města a bydlení
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
