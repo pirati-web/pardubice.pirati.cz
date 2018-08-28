@@ -42,8 +42,9 @@ každý starosta dnes chce mít kus svého „chytrého města“. Často to pro
 tak, že se třeba náhodně pořizují solární lavičky na místa, kde to nedává žádný
 smysl.
 
-Myslíš například ty u školy ve Svítkově? Zbytečně vyhozených 177 tisíc korun.
-Přitom na žádosti seniorů o ty obyčejné nikdo neslyší.
+### Myslíš například ty u školy ve Svítkově? 
+
+Zbytečně vyhozených 177 tisíc korun. Přitom na žádosti seniorů o ty obyčejné nikdo neslyší.
 
 ### Co pro tebe tedy Smart City znamená?
 
