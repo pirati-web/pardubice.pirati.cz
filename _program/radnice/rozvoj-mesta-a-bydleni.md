@@ -1,7 +1,7 @@
 ---
-uid: uzemni-rozvoj
+uid: rozvoj-mesta-a-bydleni
 garant: jakub.kutilek
-title: Územní rozvoj
+title: Rozvoj města a bydlení
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
@@ -9,6 +9,9 @@ perex: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší viz
 description: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky.
 keywords: územní rozvoj, město, plánování, urbanismus
 order: 4
+redirect_from:
+  - /komunalni-volby-2018/program/uzemni-rozvoj/
+  - /komunalni-volby-2018/program/radnice/uzemni-rozvoj/
 ---
 
 **Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky.  Chceme zásadně zvýšit povědomí veřejnosti o územním plánu a dalších nástrojích územního plánování a posílit její účast.**
