@@ -9,6 +9,8 @@ perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující spole
 description: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 keywords: vzdělávání, škola, školka, mateřská škola
 order: 7
+redirect_from:
+  - /komunalni-volby-2018/program/vzdelavani/
 ---
 
 **Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se město Pardubice jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**

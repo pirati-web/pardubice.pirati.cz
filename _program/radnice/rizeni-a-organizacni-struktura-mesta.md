@@ -9,6 +9,8 @@ perex: Veřejná správa je nezbytná k zajištění chodu města, veřejné inf
 description: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
 keywords: veřejná správa, služby, řízení města
 order: 3
+redirect_from:
+  - /komunalni-volby-2018/program/rizeni-a-organizacni-struktura-mesta/
 ---
 
 **Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.**

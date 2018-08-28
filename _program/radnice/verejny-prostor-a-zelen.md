@@ -9,6 +9,8 @@ perex: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je j
 description: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnuje pozornost, jakou si zaslouží.
 keywords: zeleň, veřejný prostor, stromy, urbanismus
 order: 6
+redirect_from:
+  - /komunalni-volby-2018/program/verejny-prostor-a-zelen/
 ---
 
 **Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnujeme pozornost, jakou si zaslouží. Zeleň město zkrášluje a pomáhá mu, upravuje teplotu, prašnost a vlhkost. Aby nám mohla dobře sloužit, potřebuje přiměřenou péči.**
