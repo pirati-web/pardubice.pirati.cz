@@ -9,7 +9,7 @@ author: Piráti Pardubice
 image: articles/2018/smart-neznamena-draze-a-zbytecne.jpg
 infoboxes:
   - content: >
-      <h5><a href="/clenove/jakub-kutilek/">Ondřej Karas</a></h5>
+      <h5><a href="/clenove/ondrej-karas/">Ondřej Karas</a></h5>
       <ul>
         <li>lídr kandidátky</li>
         <li>vývojář, projektový manažer garant programového bodu Smart City</li>
