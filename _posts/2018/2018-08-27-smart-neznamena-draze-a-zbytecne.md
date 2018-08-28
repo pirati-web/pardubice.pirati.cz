@@ -12,7 +12,8 @@ infoboxes:
       <h5><a href="/clenove/ondrej-karas/">Ondřej Karas</a></h5>
       <ul>
         <li>lídr kandidátky</li>
-        <li>vývojář, projektový manažer garant programového bodu Smart City</li>
+        <li>vývojář, projektový manažer</li>
+        <li>garant programového bodu Smart City</li>
         <li>zabývá se transparentností a veřejnými zakázkami</li>
       </ul>
 ---
