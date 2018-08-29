@@ -14,7 +14,7 @@ infoboxes:
       <h5><a href="/clenove/jakub-kutilek/">Jakub Kutílek</a></h5>
       <ul>
         <li>pracoval na odboru hlavního architekta v letech 2013–2015 jako koncepční specialista na dopravu</li>
-        <li>územnímu rozvoji Pardubic se vě- nuje soustavně od roku 2011, sleduje a účastní se procesu pořizování no- vého územního plánu i změn toho současného</li>
+        <li>územnímu rozvoji Pardubic se věnuje soustavně od roku 2011, sleduje a účastní se procesu pořizování nového územního plánu i změn toho současného</li>
         <li>podílel se na původním návrhu jako externí konzultant</li>
       </ul>
 ---

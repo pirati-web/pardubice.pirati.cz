@@ -15,8 +15,8 @@ mail: jakub.kutilek@zeleni.cz
 mob: +420 776 253 591
 profiles:
   github:
-  facebook:
-  twitter:
+  facebook: https://www.facebook.com/kuba.kutilek
+  twitter: https://twitter.com/kubakutilek
   linkedin:
 ---
 **Jakub Kutílek** (* 17. března 1986) je příznivcem Pirátské strany a členem Strany zelených. Jakub se narodil v Kolíně, ale většinu života žije v Pardubicích, které považuje za svůj domov.
