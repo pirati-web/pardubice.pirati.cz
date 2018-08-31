@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: magistrat
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 2
 leader:
   uid: ondrej.karas
   age: 33
