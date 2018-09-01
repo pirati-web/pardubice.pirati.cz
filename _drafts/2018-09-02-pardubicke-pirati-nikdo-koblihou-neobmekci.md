@@ -34,4 +34,6 @@ politické subjekty. Pokud se chcete podívat, jak si jednotlivé strany stojí,
 můžete mrknout na
 [hlidacstatu.cz](https://www.hlidacstatu.cz/ucty/hledat?Q=pardubice).
 
+Pokud nám chcete v kampani pomoct, vše potřebné naleznete na stránce
+[Podpořte nás]({{ '/podporte-nas/' | relative_url }}).
 
