@@ -13,10 +13,12 @@ hnutí a spolky, které se ucházejí o přízeň voličů. Existují ovšem rů
 jak takovou kampaň realizovat.**
 
 Pirátská volební kampaň pro volby do PČR v roce 2017 byla vůbec *nejefektivnější
-volební kampaní* v historii České republiky. V kampani pro komunální volby 2018
-v Pardubicích v tomto trendu pokračujeme. Maximální důraz klademe na to, aby
-finanční prostředky byly skutečně investovány, nikoliv pouze utraceny. To je
-princip, který se chystáme uplatňovat i během naší účasti na řízení Pardubic.
+volební kampaní* v historii České republiky. Jeden hlas nás vyšel pouze na 15&nbsp;Kč,
+což je zdaleka nejméně ze všech zúčasněných stran (např. hlas pro ANO stál 60&nbsp;Kč a pro
+TOP 09 neuvěřitelných 240&nbsp;Kč). V kampani pro komunální volby 2018 v Pardubicích v
+tomto trendu pokračujeme. Maximální důraz klademe na to, aby finanční prostředky
+byly skutečně investovány, nikoliv pouze utraceny. To je princip, který se
+chystáme uplatňovat i během naší účasti na řízení Pardubic.
 
 Proto neuvidíte žádné pirátské billboardy ani polepené autobusy. Naše cesta vede
 skrze efektivní a nízkonákladovou kampaň, která stojí na práci dobrovolníků:
