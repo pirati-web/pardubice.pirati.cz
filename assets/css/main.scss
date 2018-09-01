@@ -41,3 +41,29 @@
         margin: 0 1rem;
     }
 }
+
+
+.pce-im-teaser {
+    position: relative;
+
+    &:before {
+        display: block;
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, .35);
+    }
+}
+
+.pce-im-teaser__cta {
+    position: absolute;
+    display: flex;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}

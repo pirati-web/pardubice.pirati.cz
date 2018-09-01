@@ -35,6 +35,9 @@ main:
       - link: /komunalni-volby-2018/mo-v/
         name: MO V
         match: mo-v
+      - link: /komunalni-volby-2018/mapa-zameru/
+        name: Mapa záměrů
+        match: mapa-zameru
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
