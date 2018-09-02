@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pardubické Piráty nikdo koblihou neobměkčí
-date: 2018-09-01T06:00:00+01:00
+date: 2018-09-02T12:00:00+01:00
 tags: komunálky kampaň volby Pardubice
 author: Filip Vařecha
 image: articles/2018/pardubicke-pirati-nikdo-koblihou-neobmekci.jpg

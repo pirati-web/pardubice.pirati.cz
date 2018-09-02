@@ -15,7 +15,7 @@ before_install:
 
 script:
   - rm -rf _site
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts; fi
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml' --drafts --future; fi
   - if [ "$TRAVIS_BRANCH" == "production" ]; then JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.production.yml'; fi
   - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
 
