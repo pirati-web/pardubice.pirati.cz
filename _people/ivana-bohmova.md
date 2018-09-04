@@ -2,7 +2,7 @@
 uid: ivana.bohmova
 name:     Ivana Böhmová   		# běžně používáné jméno
 titles:
-  before: Bc.
+  before: Bc. et Bc.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove

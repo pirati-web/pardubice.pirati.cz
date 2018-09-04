@@ -140,7 +140,7 @@ forum:
   page: https://forum.pirati.cz/pardubicky-kraj-f85/
 
 github:
-  url: https://github.com/pirati-web/pardubice.pirati.cz
+  url: https://github.com/pirati-web/pardubice.pirati.cz/
   branch: master
 
 emptyArray: []

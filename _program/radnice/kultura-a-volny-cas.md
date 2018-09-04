@@ -24,8 +24,6 @@ redirect_from:
     <dd>Profesionální tělesa, jako Komorní filharmonie nebo Východočeské divadlo, jsou na špičkové úrovni. Alternativní scéna Divadla 29 a Galerie města Pardubic (GAMPA) patří mezi nejlepší v Česku. Budeme pokračovat ve vytváření tvůrčí atmosféry v těchto institucích.</dd>
     <dt>Spolupráce s Konzervatoří.</dt>
     <dd>V našem městě je škola, která vychovává profesionální hudebníky. Budeme se školou úžeji spolupracovat a v rámci různých městských akcí rozšiřovat prostor pro mladé a nadějné talenty.</dd>
-    <dt>Kulturní domy zvlášť.</dt>
-    <dd>Revidujeme rozhodnutí města svěřit správu kulturních domů do rukou domů dětí a mládeže. V dlouhodobém horizontu budeme prosazovat vznik organizace, která se bude zabývat pouze kulturními domy. Ta bude mít na starost dramaturgii kulturních domů.</dd>
 </dl>
 
 ## Umění lidem
