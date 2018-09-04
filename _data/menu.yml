@@ -32,6 +32,9 @@ main:
       - link: /komunalni-volby-2018/mo-ii/
         name: MO II
         match: mo-ii
+      - link: /komunalni-volby-2018/mo-iv/
+        name: MO IV
+        match: mo-iv
       - link: /komunalni-volby-2018/mo-v/
         name: MO V
         match: mo-v
