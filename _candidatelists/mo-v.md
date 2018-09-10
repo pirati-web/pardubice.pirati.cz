@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na MO V
 uid: mo-v
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 4 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: filip.varecha
   age: 32
