@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na MO II
 uid: mo-ii
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 1 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jakub.kutilek
   age: 32
