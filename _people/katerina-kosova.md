@@ -6,8 +6,9 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
+- priznivci
 img: people/katerina-kosova.jpg           # 165 x 220
-description: registrovaný příznivec # kratký popis, max 160 znaků
+description: registrovaná příznivkyně # kratký popis, max 160 znaků
 profession: studentka biochemie na pardubické univerzitě
 candidateDescription:
 profiles:
