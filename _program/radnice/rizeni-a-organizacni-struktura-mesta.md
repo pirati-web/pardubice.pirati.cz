@@ -36,5 +36,5 @@ redirect_from:
     <dt>Už žádné rozkopávání nově zrekonstruovaných ulic.</dt>
     <dd>Zajistíme koordinaci projektů mezi velkou radnicí, městskými obvody, správci sítí, správou a údržbou silnic a dalšími subjekty. Vytvoříme databázi připravovaných projektů, včetně veřejné mapové aplikace.</dd>
     <dt>Odborné komise rady</dt>
-    <dd>jsou dnes obsazovány často nekompetentními politiky. Do odborných komisí budeme obsazovat pouze experty v dané oblasti. Pozice v radách budeme obsazovat ve výběrových řízeních.</dd>
+    <dd>jsou dnes obsazovány často nekompetentními politiky. Do odborných komisí budeme obsazovat pouze experty v dané oblasti. Pozice v orgánech městských společností budeme obsazovat ve výběrových řízeních.</dd>
 </dl>

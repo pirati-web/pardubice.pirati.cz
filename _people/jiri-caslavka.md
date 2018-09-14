@@ -6,10 +6,12 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
+- priznivci
 ordPce:
 img: people/jiri-caslavka.jpg           # 165 x 220
-description: založením liberál # kratký popis, max 160 znaků
+description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: ekonom
+candidateDescription: založením liberál
 mail:
 profiles:
   github:
