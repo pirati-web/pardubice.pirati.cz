@@ -6,6 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavla-koukalova.jpg
+description: projektantka
 profiles:
   github:
   facebook:

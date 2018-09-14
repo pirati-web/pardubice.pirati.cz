@@ -8,5 +8,6 @@ keywords: volby, mo ii, Polabiny, 2018, program, kandidátka, kandidátní listi
 ---
 
 Kandidujeme jako sdružení České pirátské strany a nezávislých kandidátů pod
-názvem <q>**Piráti, Naše Pardubice a Zelení**</q>. Obvod zahrnuje oblasti
-**Polabiny** a **Cihelna**.
+názvem <q>**Piráti, Naše Pardubice a Zelení**</q>.
+
+Obvod zahrnuje části **Polabiny** (Polabiny I-V, Stavařov a Fáblovka) a **Cihelna**.

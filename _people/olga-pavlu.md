@@ -6,6 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/olga-pavlu.jpg
+description: kuchařka
 profiles:
   github:
   facebook:
