@@ -37,14 +37,16 @@ redirect_from:
     <dt>Dostupné bydlení.</dt>
     <dd>Vedle <a href="https://www.socialni-a-dostupne-bydleni.cz" target="_blank">sociálního bydlení</a> pro nejpotřebnější skupiny budeme rozvíjet i dostupné bydlení formou městských nájemních bytů, aby se právě na základě výdajů na bydlení nedostávali do tíživé finanční situace další z nás. Pro startovací bydlení pro mladé uvolníme ročně více bytů.</dd>
     <dt>Podpoříme rozvoj chybějící občanské vybavenosti na velkých sídlištích.</dt>
-    <dd>Ulevíme tak dopravě a usnadníme lidem život. Například v Polabinách žije bezmála 20 tisíc lidí. Polabiny by měly mít například vlastní bazén.</dd>
+    <dd>Ulevíme tak dopravě a usnadníme lidem život. Například v Polabinách žije bezmála 20 tisíc lidí. Považujeme za promarněnou příležitost, že se nový bazén nestaví zde.</dd>
+    <dt>Dukla sportovní.</dt>
+    <dd>Plně podporujeme projekt revitalizace dukelského sportoviště coby ukázkové zapojení odborné veřejnosti do hledání potřeb sportovních klubů. Trváme ale na tom, že tím kdo ponese většinu nákladů na realizaci nebude město.</dd>
 </dl>
 
 ## Územní plán
 
 <dl class="c-program-key-point-list">
     <dt>Dotáhneme pořízení nového územního plánu</dt>
-    <dd>s mottem <i>&bdquo;Návrat do města&#x201f;</i>.</dd>
+    <dd>s mottem <i>&bdquo;Návrat do města&#x201f;</i>. Budeme požadovat přepracování posledního návrhu a opakování veřejného projednání. Více v <a href="../../../../tiskove-zpravy/hloupy-plan-radeji-chytre-mesto-kratkych-vzdalenosti-a-vyuzitych-brownfieldu/">článku</a>.</dd>
     <dt>Územní plán jako společenská dohoda.</dt>
     <dd>Zvýšíme povědomí široké veřejnosti o smyslu a podobě územního plánu města. Předejdeme tak kontroverzím z neočekávaných staveb a ochráníme místní obyvatele a charakter lokalit před necitlivou výstavbou.</dd>
 </dl>
