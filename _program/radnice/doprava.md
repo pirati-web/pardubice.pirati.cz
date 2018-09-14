@@ -5,21 +5,21 @@ title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
-perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
-description: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
+perex: Chceme vyvážený podíl jednotlivých způsobů dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
+description: Chceme vyvážený podíl jednotlivých způsobů dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 keywords: doprava, město, pěšky, mhd, autem, na kole
 order: 5
 redirect_from:
   - /komunalni-volby-2018/program/doprava/
 ---
 
-**Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!**
+**Chceme vyvážený podíl jednotlivých způsobů dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!**
 
 ## Pěšky a na kole
 
 <dl class="c-program-key-point-list">
     <dt>Rodiče se nebudou bát pustit svoje dítě do školy.</dt>
-    <dd>Zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů (například přechod na Masarykově náměstí).</dd>
+    <dd>Zvýšíme bezpečnost chodců pomocí zvýšených křižovatek, chodníkových přejezdů nebo ochranných ostrůvků. Zlepšíme viditelnost přechodů (například přechod na Masarykově náměstí).</dd>
     <dt>Umožníme obousměrný provoz cyklistů</dt>
     <dd> ve většině jednosměrek. Doděláme infrastrukturu na Dašické, 17. listopadu, Jana Palacha a Chrudimské, propojíme Polabiny a Rosice. Vybudujeme část Labské stezky a stezky podle Chrudimky.</dd>
     <dt>Osadíme kvalitní stojany na kola</dt>
@@ -35,7 +35,7 @@ redirect_from:
     <dd>ve spolupráci s DPMP a experty v oblasti modelování. Linky se budou doplňovat, ne jezdit ve stejném směru za sebou. Zrevidujeme prázdninové jízdní řády.</dd>
     <dt>Zvýšíme plynulost a dochvilnost MHD</dt>
     <dd>pomocí inteligentního řízení dopravy. MHD by neměla stát v kolonách.</dd>
-    <dt>Prosadíme železniční zastávku Pardubice, centrum</dt>
+    <dt>Prosadíme železniční zastávku Pardubice-centrum</dt>
     <dd>v prostoru za Kávovinami. Jako součást Ostřešanské spojky výrazně zkrátí cestu z centra města do Hradce Králové nebo Chrudimi.</dd>
 </dl>
 
@@ -53,7 +53,7 @@ redirect_from:
     <dt>Parkovací lístek ze záchytného parkoviště</dt>
     <dd>bude sloužit jako jízdenka na MHD.</dd>
     <dt>Aktivně pomůžeme s přípravou obchvatů.</dt>
-    <dd>Zapojíme se do výkupu pozemků. Podporujeme realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
+    <dd>Zapojíme se do výkupu pozemků. Podporujeme probíhající realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
 </dl>
 
 {% comment %}
