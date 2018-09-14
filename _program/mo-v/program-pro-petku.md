@@ -21,7 +21,7 @@ order: 1
     <dt>Bezpečný přechod k vlakové zastávce Pardubice, závodiště.</dt>
     <dd>Vybudujeme bezpečný přechod na vlakovou zastávku na závodišti. Přebíhání osob přes silnici I/37 považujeme za krajně nebezpečné.</dd>
     <dt>Oživení kina Dukla.</dt>
-    <dd>Prozkoumáme možnosti využití kina Dukla. Věříme, že město velikosti Pardubic by alespoň jedno klubové kino po vzoru pražského Aera nebo hradeckého Centralu uživilo. Budeme prosazovat, aby kino ožilo nejen po stránce dramaturgie, ale aby nabídlo i přidružené služby (bar, posezení).</dd>
+    <dd>Kino Dukla je v soukromých rukách, ale bohužel strádá. Prozkoumáme možnosti, jak tuto situaci změnit. Věříme, že město velikosti Pardubic by alespoň jedno klubové kino po vzoru pražského Aera nebo hradeckého Centralu uživilo. Zasadíme se o to, aby kino ožilo nejen po stránce dramaturgie, ale aby nabídlo i přidružené služby (bar, posezení).</dd>
     <dt>Oživení chátrajícího objektu „U Bobra“.</dt>
     <dd>Zasadíme se o smysluplné využití chátrajícího objektu bývalé hospody „U Bobra“. Nesouhlasíme s jeho využitím coby tělocvičny pro Spolek Aikido Pardubice. Chceme, aby měl využití pro širokou veřejnost.</dd>
     <dt>Vyhrazený prostor pro grilování.</dt>
