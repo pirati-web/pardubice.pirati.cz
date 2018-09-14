@@ -23,9 +23,9 @@ redirect_from:
     <dt>Participace a architektonické soutěže.</dt>
     <dd>Do přípravy úprav veřejných prostranství zapojíme veřejnost. Pro významná prostranství formulujeme za účasti veřejnosti zadání architektonických soutěží. Všechny záměry budeme přehledně zveřejňovat a diskutovat s odbornou i laickou veřejností ve všech fázích přípravy.</dd>
     <dt>Městská nábřeží.</dt>
-    <dd>Zejména v centru města využijeme potenciál nábřeží našich krásných řek a přivedeme k nim městský život. Na levém břehu Labe zřídíme promenádu od soutoku kolem zdymadla a telefonní ústředny a dále podél Závodu míru.</dd>
+    <dd>Zejména v centru města využijeme potenciál nábřeží našich krásných řek a přivedeme k nim městský život. Na levém břehu Labe zřídíme promenádu od soutoku s Chrudimkou kolem zdymadla a telefonní ústředny a dále podél Závodu míru.</dd>
     <dt>Akce na podporu sousedské pospolitosti.</dt>
-    <dd>Veřejný prostor chápeme jako platformu pro sbližování občanů. Podpoříme akce, které tomu napomáhají a zasadíme se o to, aby se Pardubice účastnily např. celorepublikových sousedských slavností <a href="https://zazitmestojinak.cz/" target="_blank">Zažít město jinak</a>. Obnovíme tradici Města na Míru.</dd>
+    <dd>Veřejný prostor chápeme jako platformu pro sbližování občanů. Podpoříme akce, které tomu napomáhají a zasadíme se o to, aby se Pardubice účastnily například celorepublikových sousedských slavností <a href="https://zazitmestojinak.cz/" target="_blank">Zažít město jinak</a>. Obnovíme tradici Města na Míru.</dd>
 </dl>
 
 ## Obnova a údržba zeleně
@@ -43,9 +43,9 @@ redirect_from:
 
 <dl class="c-program-key-point-list">
     <dt>Červeňák.</dt>
-    <dd>Usilujeme o získání bývalého vojenského prostoru na Chrudimce do majetku města, aby zde mohl vzniknout přírodě blízký park, který bude sloužit pro každodenní rekreaci i jako pěší a cyklistická spojnice mezi Pardubičkami a Višňovkou. Někteří naši kandidáti jsou členy <a href="http://www.ppcervenak.cz/" target="_blank" title="Iniciativa Přírodní park Červeňák">Iniciativy Přírodní park Červeňák.</a></dd>
+    <dd>Usilujeme o získání bývalého vojenského prostoru na Chrudimce do majetku města, aby zde mohl vzniknout přírodě blízký park, který bude sloužit pro každodenní rekreaci i jako pěší a cyklistická spojnice mezi Pardubičkami a Višňovkou. Na naší kandidátní listině najdete i zástupce <a href="http://www.ppcervenak.cz/" target="_blank" title="Iniciativa Přírodní park Červeňák">Iniciativy Přírodní park Červeňák.</a></dd>
     <dt>Zelený pás podél Labe.</dt>
-    <dd>Zachováme zelený pás na pravém břehu Labe. Veškeré stavební zásahy budeme velmi pečlivě posuzovat a projednávat s místními. Aktualizujeme <a href="https://www.pardubice.eu/urad/radnice/uzemni-planovani/uzemni-studie-mesta-pardubice/uzemni-studie-pravy-breh-labe/" target="_blank">územní studii</a>.</dd>
+    <dd>Zachováme zelený pás na pravém břehu Labe. Veškeré stavební zásahy budeme velmi pečlivě posuzovat a projednávat s místními. Aktualizujeme příslušnou <a href="https://www.pardubice.eu/urad/radnice/uzemni-planovani/uzemni-studie-mesta-pardubice/uzemni-studie-pravy-breh-labe/" target="_blank">územní studii</a>.</dd>
     <dt>Náhrdelník Chrudimky.</dt>
     <dd>Oživíme projekt Náhrdelníku Chrudimky, který spočívá ve zřízení pěších a cyklistických cest podél břehů a drobných zastavení včetně přístupů k vodě. Tento projekt vznikl v roce 2013 za účasti veřejnosti. Budeme prosazovat pokračování těchto tras dále proti toku Chrudimky (výhledově až do Chrudimi).</dd>
 </dl>
