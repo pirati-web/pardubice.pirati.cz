@@ -6,7 +6,7 @@ titles:
   after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 6
+ordPce: 5
 img: people/vojtech-jirsa.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:

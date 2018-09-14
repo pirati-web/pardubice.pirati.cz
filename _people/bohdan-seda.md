@@ -7,6 +7,7 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 img: people/bohdan-seda.jpg
+description: registrovaný příznivec # kratký popis, max 160 znaků
 mail:
 profiles:
   github:
