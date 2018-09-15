@@ -22,31 +22,31 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 26
     profession: student dějin umění a komparatistiky
     party: Zelení
-tail:
-  - name: Mgr. Jan Metelka
+  - uid: jan.metelka
     age: 34
     profession: pedagog, metodik prevence kriminality mládeže, trenér plavání a vedoucí lyžařské školy
     party: BEZPP
-  - name: Anna Řehůřková
+  - uid: anna.rehurkova
     age: 20
     profession: studentka
     party: Zelení
-  - name: Jan Zálabský
+  - uid: jan.zalabsky
     age: 28
     profession: seřizovač tiskových strojů, trenér atletiky
     party: BEZPP
-  - name: Lucie Václavská
+  - uid: lucie.vaclavska
     age: 29
     profession: specialistka na online marketing
     party: BEZPP
-  - name: Bc. Vojtěch Weisbauer
+  - uid: vojtech.weisbauer
     age: 26
     profession: referent správy daní, student, básník, vydavatel
     party: Zelení
-  - name: Ing. Marta Kutílková
+  - uid: marta.kutilkova
     age: 60
     profession: manažerka, ekonomka
     party: BEZPP
+tail:
   - name: Ing. Zdeněk Bittner
     age: 60
     profession: technik
