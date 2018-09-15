@@ -6,6 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-bohm.jpg
+description: digitální stratég
 profiles:
   github:
   facebook:

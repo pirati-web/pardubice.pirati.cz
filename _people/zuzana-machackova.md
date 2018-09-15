@@ -6,6 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/zuzana-machackova.jpg
+description: sociální pracovnice
 profiles:
   github:
   facebook:

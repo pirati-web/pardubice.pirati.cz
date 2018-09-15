@@ -6,6 +6,7 @@ titles:
   after: Ph.D.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vladan-hanulik.jpg
+description: vysokoškolský pedagog
 profiles:
   github:
   facebook:

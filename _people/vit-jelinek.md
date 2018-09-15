@@ -6,6 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vit-jelinek.jpg
+description: voják z povolání
 profiles:
   github:
   facebook:

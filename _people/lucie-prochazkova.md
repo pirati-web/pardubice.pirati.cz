@@ -6,6 +6,7 @@ titles:
   after: Ph.D.
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lucie-prochazkova.jpg
+description: právnička
 profiles:
   github:
   facebook:

@@ -11,7 +11,7 @@ ordPce:
 img: people/ondrej-beran.jpg           # 165 x 220
 description: registrovaný příznivec # kratký popis, max 160 znaků
 profession: vědecký pracovník
-candidateDescriotion: člen Zelených
+candidateDescription: člen Zelených
 mail:
 profiles:
   github:
