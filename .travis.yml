@@ -18,12 +18,12 @@ script:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash ./travis/deploy-sandbox.sh; fi
+    script: bash ./travis/deploy-sandbox.sh
     on:
       branch: master
   - provider: script
     skip_cleanup: true
-    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash ./travis/deploy-production; fi
+    script: bash ./travis/deploy-production.sh
     on:
       branch: production
 
