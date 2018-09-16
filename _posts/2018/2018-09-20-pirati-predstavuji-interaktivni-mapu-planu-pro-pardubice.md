@@ -34,11 +34,12 @@ nutné brzy opravit. Námi navrhovaná aplikace těmto chybám předejde a ušet
 městu peníze,*“ dodává Ondřej Karas, lídr pardubické kandidátky a garant
 programového bodu Smart City.
 
-Příkladem pirátského plánu mohou být třeba [Masarykova kasárna][2], kde Piráti
-prezentují nejen vizualizaci celé územní studie, ale také jejich názor, že by
-měla být využita jako prostor pro novou obytnou čtvrť. Dalším příkladem je
-[napojení nadjezdu u nemocnice][3] (ul. Kyjevská) na „rychlodráhu“ (ul. Kpt. Jaroše),
-kde město velmi zaspalo a problém se snaží kvapem vyřešit.
+Příkladem pirátského plánu mohou být třeba [Masarykova kasárna][2]{:data-proofer-ignore="data-proofer-ignore"}, kde Piráti prezentují nejen
+vizualizaci celé územní studie, ale také jejich názor, že by měla být využita
+jako prostor pro novou obytnou čtvrť. Dalším příkladem je [napojení nadjezdu u
+nemocnice][3]{:data-proofer-ignore="data-proofer-ignore"} (ul. Kyjevská) na
+„rychlodráhu“ (ul. Kpt. Jaroše), kde město velmi zaspalo a problém se snaží
+kvapem vyřešit.
 
 Orientaci v mapě usnadňuje rozdělení plánů do několika skupin (např. rekreace,
 veřejný prostor, nebo třeba MHD). Každá skupina je navíc barevně odlišena, a je
