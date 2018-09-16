@@ -5,7 +5,6 @@ addons:
     - 93.185.103.119:2222
 
 before_install:
-  - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash ./travis/add-ssh-key.sh; fi
   - gem install bundler
   - bundle install --path vendor/bundle --full-index
 
@@ -18,12 +17,12 @@ script:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: bash ./travis/deploy-sandbox.sh
+    script: bash ./travis/deploy.sh sandbox
     on:
       branch: master
   - provider: script
     skip_cleanup: true
-    script: bash ./travis/deploy-production.sh
+    script: bash ./travis/deploy.sh production
     on:
       branch: production
 
