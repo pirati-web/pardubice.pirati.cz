@@ -18,12 +18,12 @@ script:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp; fi
+    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash ./travis/deploy-sandbox.sh; fi
     on:
       branch: master
   - provider: script
     skip_cleanup: true
-    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati; fi
+    script: if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash ./travis/deploy-production; fi
     on:
       branch: production
 
