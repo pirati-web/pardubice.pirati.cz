@@ -8,13 +8,13 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     ssh-add /tmp/deploy_rsa_sandbox
 
     # Sync
-    echo "Deploying to $0 ..."
+    echo "Deploying to $1 ..."
 
-    if [ $0 == "sandbox" ]; then
+    if [ $1 == "sandbox" ]; then
         rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati-tmp
     fi
 
-    if [ $0 == "production" ]; then
+    if [ $1 == "production" ]; then
         rsync -r --delete-after --quiet -e 'ssh -p 2222' $TRAVIS_BUILD_DIR/_site/ piratipardubice@93.185.103.119:/srv/pirati
     fi
 fi
