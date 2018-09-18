@@ -8,3 +8,5 @@ keywords: volby, mo v, dukla, jesničánky, višňovka, 2018, program, kandidát
 ---
 
 Obvod zahrnuje oblasti **Dukla**, **Jesničánky**, **Višňovka** a **Dražkovice**.
+
+{% include intention-map-for-candidatelist.html %}
