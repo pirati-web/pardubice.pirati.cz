@@ -8,3 +8,5 @@ keywords: volby, mo i, střed, 2018, program, kandidátka, kandidátní listina,
 ---
 
 Obvod zahrnuje oblasti **Pardubice-Staré Město**, **Zámek**, **Bílé Předměstí** (část) a **Zelené Předměstí** (část).
+
+{% include intention-map-for-candidatelist.html %}

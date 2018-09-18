@@ -10,3 +10,5 @@ keywords: volby, mo iv, cihelna, 2018, program, kandidátka, kandidátní listin
 Kandidujeme jako sdružení TOP 09, KDU-ČSL, Nestraníků, České pirátské strany a
 nezávislých kandidátů<br>pod názvem <q>**Koalice pro Pardubice (TOP 09, KDU-ČSL,
 NK) a Piráti**</q>.
+
+{% include intention-map-for-candidatelist.html %}
