@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Povolební strategie pro volby 2018
-description: V komunálních volbách 2018 Piráti budou kandidovat v Pardubicích. Jak na magistrát, tak i na jednotlivé městské obvody. Prosazujeme transparentní veřejnou správu, participaci veřejnosti, férový přístup ke všem způsobům dopravy a politiku, která využívá možností technologií 21. století pro otevřenou a demokratickou společnost.
+description: Piráti představují svoji povolební strategii pro komunální volby 2018 v Pardubicích. Dopředu se dozvíte, jak se zachováme po volbách a nemusíte volit zajíce v pytli.
 keywords: volby, 2018, program, povolebni strategie
 campaignGroupUid: volby-2018
 rbar:
