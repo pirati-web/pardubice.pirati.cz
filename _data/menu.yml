@@ -41,6 +41,9 @@ main:
       - link: /komunalni-volby-2018/mapa-piratskych-planu/
         name: Mapa pirátských plánů
         match: mapa-piratskych-planu
+      - link: /komunalni-volby-2018/povolebni-strategie/
+        name: Povolební strategie
+        match: povolebni-strategie
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas

@@ -87,7 +87,6 @@ organization:
   name: Piráti Pardubice
   shortName: Piráti Pardubice
   email: pavel.stepanek@pirati.cz
-  contactUid: jitka.ceskova
   phone: +420 770 113 647
   address: |
     Radoušova 14
@@ -161,7 +160,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.7.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.1.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
