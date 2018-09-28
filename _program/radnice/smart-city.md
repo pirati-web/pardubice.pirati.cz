@@ -53,6 +53,6 @@ dotačních projektů. Toto jsou naše vize, jak být “smart”.**
     <dd>v MHD a městských firmách. Ovšem ne za každou cenu. Kromě ekologického hlediska musí dávat smysl i z pohledu pořizovacích a provozních nákladů.</dd>
     <dt>Budeme hledat cesty k využití sdílených dopravních prostředků</dt>
     <dd>, abychom tím ulevili přeplněným silnicím a parkovištím.</dd>
-    <dt>Podpoříme kroky vedoucí k efektivnímu nakládání s opady</dt>
+    <dt>Podpoříme kroky vedoucí k efektivnímu nakládání s odpady</dt>
     <dd>za účelem minimalizace podílu netříděného odpadu a snížení nákladů na jeho svoz, zpracování a likvidaci.</dd>
 </dl>
