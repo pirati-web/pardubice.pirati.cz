@@ -44,6 +44,9 @@ main:
       - link: /komunalni-volby-2018/povolebni-strategie/
         name: Povolební strategie
         match: povolebni-strategie
+      - link: /komunalni-volby-2018/kampan-dary-prispevky/
+        name: Financování kampaně
+        match: kampan-dary-prispevky
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
