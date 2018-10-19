@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Otevřená výzva do komisí a výborů
 date: 2018-10-19T00:10:00+01:00
-tags: komise výbory otevřená výzva
+tags: komise výbory otevřená-výzva
 author: Jakub Kutílek
 image: articles/2018/komise.png
 ---
