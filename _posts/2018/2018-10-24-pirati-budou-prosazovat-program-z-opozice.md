@@ -8,10 +8,10 @@ author: Piráti Pardubice
 image: miscellaneous/logo_napis.png
 ---
 
-**Po dvou týdnech intenzivního vyjednávání o koalici se pardubičtíPiráti nakonec
+**Po dvou týdnech intenzivního vyjednávání o koalici se pardubičtí Piráti nakonec
 přesouvají do opozice. Před téměř hotovou duhovou koalicí dala ODS
-nakonecpřednost spolupráci s někdejším největším rivalem. Piráti budou i přesto
-prosazovat hlavníbody svého volebního programu a zároveň dohlížet na kroky
+nakonec přednost spolupráci s někdejším největším rivalem. Piráti budou i přesto
+prosazovat hlavní body svého volebního programu a zároveň dohlížet na kroky
 nedůvěryhodné koalice.**
 
 Piráti se snažili vytvořit alternativu k nekompetentnímu vedení města z
