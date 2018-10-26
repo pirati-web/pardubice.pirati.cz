@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 10
+ordPce: 11
 img: people/anna-vavreckova.jpg           # 165 x 220
 description: členka KS Pardubický kraj			# kratký popis, max 160 znaků
 profession: ''
