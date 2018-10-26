@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-ordPce: 9
+ordPce: 10
 img: people/filip-varecha.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
