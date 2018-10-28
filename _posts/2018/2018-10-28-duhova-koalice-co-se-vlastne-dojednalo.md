@@ -76,29 +76,29 @@ image: miscellaneous/logo_napis.png
 #### 3) Návrh nominantů s návrhem jejich gescí
 pro variantu 1A (ostatní varianty poznámkou):
 * primátor Karel Haas (ODS)
-    * “pouze agenda ze vyplývající ze zákona“
+    * „pouze agenda ze vyplývající ze zákona“
     * Kancelář primátora
     * Útvar interního auditu
     * Městská policie
 * 1. náměstek Jakub Kutílek (Piráti)
-    * “strategie, plánování, dotace” + “doprava”
+    * „strategie, plánování, dotace” + “doprava”
     * Oddělení strategického rozvoje města
     * oddělení projektového a dotačního managementu
     * Odbor hlavního architekta
     * Odbor dopravy
 * náměstek František Brendl (Pardubáci společně)
-    * “správa majetku” + “životní prostředí”
+    * „správa majetku” + „životní prostředí”
     * oddělení správy bytových domů a nebytových prostor
     * oddělení pozemků a převodu nemovitostí
     * správa kapitálového majetku
     * Odbor životního prostředí
 * náměstek Petr Kvaš (ODS)
-    * “ekonomika” + “investice”
+    * „ekonomika” + „investice”
     * Odbor ekonomický
     * oddělení investic a technické správy
     * oddělení veřejných zakázek
 * náměstek Petr Klimpl/Jan Mazuch (ODS) - ve variantě 2 Jakub Rychtecký (ČSSD)
-    * “lidskoprávní agendy”
+    * „lidskoprávní agendy”
     * Odbor školství, kultury a sportu
     * Odbor sociálních věcí
 * radní Ondřej Karas (Piráti) - koordinace pracovních skupin: IT a smart city, participace a otevřenost, podpora podnikání
