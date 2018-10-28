@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti budou prosazovat program z opozice
-date: 2018-10-19T00:10:00+01:00
+date: 2018-10-24T00:10:00+01:00
 tags: volby koalice opozice
 author: Piráti Pardubice
 image: miscellaneous/logo_napis.png
