@@ -5,7 +5,7 @@ title: Duhová koalice - co se vlastně vyjednalo
 date: 2018-10-28T00:10:00+01:00
 tags: volby koalice
 author: Piráti Pardubice
-image: miscellaneous/logo_napis.png
+image: articles/2018/horses-rainbow.jpg
 ---
 
 **Dva týdny trvalo jednání o tzv. Duhové koalici, jejíž základ tvořily strany ODS, Piráti, Pardubáci, Sdružení pro Pardubice a přizvány byly Koalice pro Pardubice a ČSSD. V úterý 23.10. bylo lídrům stran a médiím oznámeno, že vyjednávání o této koalici ze strany ODS končí s tím, že dále již budou jednat jen s ANO, KPP, SPP a ČSSD. Co bylo v Duhové koalici dojednáno, se dočtete na následujících řádcích.**
