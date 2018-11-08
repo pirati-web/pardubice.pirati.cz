@@ -3,8 +3,7 @@ uid: jitka.ceskova
 name: Jitka Češková
 titles:
   before: Ing.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- kontaktni_osoba
+category: []                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jitka-ceskova.jpg           # 165 x 220
 description: volební manažerka pro Pardubice
 profession: Projektantka zahradních a krajinářských úprav, floristka
