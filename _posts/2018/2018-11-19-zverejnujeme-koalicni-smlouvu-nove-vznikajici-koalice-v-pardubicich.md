@@ -33,3 +33,10 @@ Charvátova) jsou stejně křehké co do počtu hlasů. Duhová koalice má ale 
 racionálnější základ a stabilnější názorovou shodu &mdash; jak se ostatně ukazuje i v
 posledních dnech. Dnešní hlasování je příležitostí potvrdit řeči o změně i
 konkrétními činy.
+
+### Přílohy
+
+* [Hlavní dokument koaliční dohody](/assets/attachments/koalicni-dohoda-2018-2022.pdf)
+* [Příloha: Posty v právnických osobách s účastí města](/assets/attachments/koalicni-dohoda-2018-2022-obsazeni-pravnickych-osob.pdf)
+* [Příloha: Popis gescí členů rady](/assets/attachments/koalicni-dohoda-2018-2022-priloha-1-gesce.pdf)
+* [Příloha: Programové zásady](/assets/attachments/koalicni-dohoda-2018-2022-priloha-2-programove-zasady.pdf)
