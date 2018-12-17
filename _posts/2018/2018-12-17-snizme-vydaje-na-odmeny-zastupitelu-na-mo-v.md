@@ -41,7 +41,7 @@ následující částky:
 Protože nás celý návrh velmi rozladil, posvítili jsme si na to, jak vlastně
 vypadá ona dříve zmiňovaná harmonizace. No a zjistili jsme zajímavé věci. Oproti
 městským obvodům I (vládne také ANO v koalici), II (vládne ANO) a VI (vládne
-SPP) jsou **odměny na MO V suverénně nejvyšší**. Budeme proto místo navýšení
+PPL) jsou **odměny na MO V suverénně nejvyšší**. Budeme proto místo navýšení
 usilovat o jejich snížení. Tedy o původně zmiňovanou harmonizaci s ostatními
 obvody. Náš návrh je následující:
 
