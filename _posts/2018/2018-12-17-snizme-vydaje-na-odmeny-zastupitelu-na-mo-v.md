@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Snižme výdaje na odměny zastupitelů na MO V na úroven ostatních obvodů
+title: Snižme výdaje na odměny zastupitelů na MO V na úroveň ostatních obvodů
 date: 2018-12-17T20:00:00+01:00
 tags: mo-v zastupitelstvo odměny trafika
 author: Filip Vařecha
