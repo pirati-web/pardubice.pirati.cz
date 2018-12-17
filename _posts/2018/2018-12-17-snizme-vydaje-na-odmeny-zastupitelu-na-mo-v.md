@@ -54,18 +54,15 @@ obvody. Náš návrh je následující:
 * Předseda komise: 2 500 Kč
 
 Tento návrh znamená oproti koaliční variantě **roční úsporu cca 300 tis Kč** (pro
-detail viz. [kalkulačka](https://docs.google.com/spreadsheets/d/1rPpGJNj9da0cifMkw5qwRWbV4OTyweTWoKZHfwtKPGE/edit?usp=sharing)).
+detail viz. [kalkulačka](https://docs.google.com/spreadsheets/d/1rPpGJNj9da0cifMkw5qwRWbV4OTyweTWoKZHfwtKPGE/edit?usp=sharing)). Pro srovnání poskytujeme tabulku jaké odměny jsou v jiných obvodech:
 
-Pro srovnání MO I, který je co do počtu obyvatel větší (a dokonce dle nařízení
-vlády spadá do vyšší odměnové skupiny) uděluje následující odměny:
-
-* Místostarosta: 16 400 Kč
-* Člen zastupitelstva: 900 Kč
-* Člen rady: 2 800 Kč
-* Člen výboru: 1 900 Kč
-* Předseda výboru: 2 400 Kč
-* Člen komise: 1 900 Kč
-* Předseda komise: 2 400 Kč
+| Obvod                 | Počet obyvatel | Místostarosta | Člen zast. | Člen rady | Člen výboru | Předseda výboru | Člen komise | Předseda komise |
+|-----------------------|----------------|---------------|------------|-----------|-------------|-----------------|-------------|-----------------|
+| MO I                  | ~20000         | 16400         | 900        | 2800      | 1900        | 2400            | 1900        | 2400            |
+| MO II                 | ~20000         | 15100         | 900        | 4600      | 2500        | 3000            | 2250        | 2500            |
+| MO VI                 | ~6000          | 1200          | 1000       | 3500      | 2000        | 2500            | 100         | 150             |
+| MO V - koaliční návrh | ~16000         | 21400         | 1070       | 4280      | 3210        | 3745            | 2675        | 3210            |
+| MO V - pirátský návrh | ~16000         | 18000         | 900        | 3500      | 2500        | 3000            | 2000        | 2500            |
 
 Náš návrh pro MO V je tedy velmi kompromisní, neboť jde stále o významně vyšší
 odměny než na větším obvodu MO I. Uspořené finance chceme investovat v rámci
