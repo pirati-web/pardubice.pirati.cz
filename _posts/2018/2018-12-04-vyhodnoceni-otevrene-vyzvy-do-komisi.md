@@ -77,3 +77,5 @@ Pro každou z komisí byla určena dvojice hodnotitelů. Ti prošli zaslané pro
 **Komise pro rodinu a děti**
 - 2 přihlášení uchazeči, nikdo z přihlášených nedosáhl požadovaného hodnocení
 - dodatečně osloven a vybrán Mgr. Matěj Karas – sociální pracovník, krajský síťař v projektu “Systémový rozvoj a podpora nástrojů sociálně-právní ochrany dětí”
+
+Medailonky vybraných uchazečů k přečtení [zde](/assets/attachments/komise-vybrani-gdprok.pdf).
