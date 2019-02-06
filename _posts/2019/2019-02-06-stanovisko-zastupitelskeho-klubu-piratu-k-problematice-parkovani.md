@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Stanovisko zastupitelského klubu Pirátů k problematice Parkování
+title: Stanovisko zastupitelského klubu Pirátů k problematice parkování
 date: 2019-02-06T11:00:00+01:00
 tags: parkování doprava komise zastupitelstvo
 author: Piráti Pardubice
@@ -10,7 +10,7 @@ image: articles/2019/empty-parking-lot.jpg
 
 **Naším cílem je, aby se každý v Pardubicích mohl dopravit tam, kam potřebuje. Víme, že v některých ulicích je dlouhodobě problém zaparkovat.**
 
-Optimální přitom je, když je 10-15 % parkovacích míst v každé ulici stále k dispozici. A nejlepším nástrojem pro úpravu obsazenosti parkovacích míst je změna cen parkování. Na tento citlivý krok neměl nikdo za posledních 25 let odvahu, proto vítáme snahy ho nyní otevřít. Ke změnám je ale potřeba přistupovat citlivě a racionálně. Toto jsou naše priority:
+Optimální přitom je, když je 10-15 % parkovacích míst v každé ulici stále k dispozici. A nejlepším nástrojem pro úpravu obsazenosti parkovacích míst je změna cen parkování. Na tento krok neměl nikdo za posledních 25 let odvahu, proto vítáme snahy ho nyní otevřít. Ke změnám je ale potřeba přistupovat citlivě a racionálně. Toto jsou naše priority:
 
 * **Nesouhlasíme s plošným skokovým zvýšením poplatku** za parkování na 200 % -  400 % stávajících cen, které navrhuje ODS.
 * Nejprve musí dojít ke **zmapování obsazenosti parkovacích míst** v jednotlivých ulicích města. To je i v našem [programu](https://pardubice.pirati.cz/komunalni-volby-2018/program/radnice/doprava/) a aktivně takovou analýzu prosazujeme. Na základě návrhu usnesení našeho zastupitele Komise pro dopravu doporučila Radě takovou analýzu zpracovat.
