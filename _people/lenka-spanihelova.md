@@ -6,7 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-- zastupitele-pce
+- zastupitele
 - pms
 - komise
 ordPce: 9
@@ -21,7 +21,7 @@ profiles:
   linkedin:
 ---
 
-**Lenka Španihelová** (*19. dubna 1984) je zastupitelkou města Pardubice. Věnuje se především sociální politice a zapojení občanů do veřejného života, zastupuje Piráty v Komisi pro sociální a zdravotní věci. Je členkou a od listopadu 2018 místopředsedkyní Pirátů Pardubicko.
+**Lenka Španihelová** (*19. dubna 1984) je zastupitelkou města Pardubice. Věnuje se zde především sociální politice a zapojení občanů do veřejného života a zastupuje Piráty v Komisi pro sociální a zdravotní věci. Je členkou a od listopadu 2018 místopředsedkyní Pirátů Pardubicko.
 
 Pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích. Vystudovala Střední průmyslovou školu mlékárenskou v Kroměříži obor analýza potravin. Vysokou školu vystudovala v Praze, bakalářský obor sociální a pastorační práce na Evangelické teologické fakultě Univerzity Karlovy, magisterský obor sociální pedagogika na Filozofické fakultě Univerzity Karlovy. Během studia se věnovala práci se seniory v České Alzheimerovské společnosti, práci s lidmi s duševním onemocněním ve společnosti Vida a práci s ohroženou mládeží v organizaci Barevný svět dětí.
 
