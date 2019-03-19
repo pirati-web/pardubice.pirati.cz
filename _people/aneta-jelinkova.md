@@ -17,7 +17,7 @@ profiles:
   linkedin:
 ---
 
-**Aneta Jelínková** (* 23. května 1983 v Hradci Králové) je zastupitelkou za Piráty na městském obvodu Pardubice V, kde působí ve finančním výboru a místní komisi pro Duklu. Je registrovanou příznivkyní Pirátů.
+**Aneta Jelínková** (* 23. května 1983 v Hradci Králové) je zastupitelkou za Piráty na městském obvodu Pardubice V, kde působí ve finančním výboru a místní komisi pro Duklu. Je registrovanou příznivkyní Pirátské strany.
 
 Aneta vystudovala bakalářský obor marketing obchodu a služeb na Západočeské univerzitě v Plzni a pokračovala v oboru Hospodářská politika a správa na Univerzitě Pardubice, kde získala inženýrský titul. V průběhu studia se zabývala převážně dotační politikou a neziskovým sektorem.
 
