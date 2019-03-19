@@ -13,6 +13,10 @@ ordPce: 1
 img: people/dominik-becka.jpg
 description: předseda MS Pardubicko # kratký popis, max 160 znaků
 profession: risk manažer
+mail:
+- dominik.becka@pirati.cz
+mob:
+- +420 775 609 939
 profiles:
   github:
   facebook: https://www.facebook.com/dominik.becka
