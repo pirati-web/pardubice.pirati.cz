@@ -6,9 +6,9 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
-- zastupitele-mo5
+- zastupitele
 img: people/aneta-jelinkova.jpg           # 165 x 220
-description: registrovaná příznivkyně # kratký popis, max 160 znaků
+description: zastupitelka MO Pardubice V # kratký popis, max 160 znaků
 mail:
 profiles:
   github:
