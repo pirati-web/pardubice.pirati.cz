@@ -11,7 +11,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 ordPce: 9
 img: people/lenka-spanihelova.jpg           # 165 x 220
-description: členka KS Pardubický kraj # kratký popis, max 160 znaků
+description: zastupitelka Pardubic, Komise pro sociální a zdravotní věci # kratký popis, max 160 znaků
 profession: sociální pedagožka
 mail: lenka.spanihelova@pirati.cz
 profiles:
