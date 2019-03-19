@@ -7,11 +7,11 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-- zastupitele-mo5
+- zastupitele
 - komise
 ordPce: 10
 img: people/filip-varecha.jpg           # 165 x 220
-description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice V, Komise pro strategii a smart city # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
