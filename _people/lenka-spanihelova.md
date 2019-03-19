@@ -6,7 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-- zastupitele-mag
+- zastupitele-pce
 - pms
 - komise
 ordPce: 9
