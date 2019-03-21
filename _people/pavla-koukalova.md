@@ -2,8 +2,8 @@
 uid: pavla.koukalova
 name:     Pavla Koukalová      		# běžně používané jméno
 titles:
-  before:
-  after: Ing.
+  before: Ing.
+  after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img: 
