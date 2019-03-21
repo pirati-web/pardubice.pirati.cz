@@ -4,9 +4,10 @@ name: Lucie Procházková
 titles:
   before: JUDr.
   after: Ph.D.
-category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
+- priznivci # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lucie-prochazkova.jpg
-description: právnička
+description: příznivkyně
 profiles:
   github:
   facebook:
