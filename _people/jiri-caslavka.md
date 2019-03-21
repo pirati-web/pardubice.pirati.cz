@@ -11,7 +11,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
 ordPce:
 img: people/jiri-caslavka.jpg           # 165 x 220
-description: zastupitel MO Pardubice 1, zástupce v DR Služeb města Pardubic # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice 1, dozorčí rada Služby města Pardubic # kratký popis, max 160 znaků
 profession: ekonom
 candidateDescription: založením liberál
 mail:
@@ -22,7 +22,7 @@ profiles:
   linkedin:
 ---
 
-**Jiří Čáslavka** (*15.7.1972) je zastupitelem a členem finančního výboru za Piráty na městském obvodu Pardubice I. Zároveň je zástupcem Pirátů v dozorčích radách městských firem Služby města Pardubice a SmP-Odpady. Je registrovaným příznivcem Pirátské strany.
+**Jiří Čáslavka** (*15.7.1972) je zastupitelem za Piráty na městském obvodu Pardubice I a členem obvodního i magistrátního finančního výboru. Zároveň je zástupcem Pirátů v dozorčích radách městských firem Služby města Pardubice a SmP-Odpady. Je registrovaným příznivcem Pirátské strany.
 
 Pracuje jako ekonom v dětském domově a externě spolupracoval s několika think-tanky. V současné době  utlumil svoje pracovní aktivity, aby se mohl starat o svoji nemocnou dceru. Dříve působil v analytickém centru Glopolis, kde vedl sekci ekonomických a finančních politik. Byl členem správní rady bruselského think-tanku Eurodad a Výboru pro Evropskou unii Rady vlády pro nevládní organizace. Působil jako poradce Karla Schwarzenberga na Ministerstvu zahraničí, účastnil se mnoha rozvojových výzkumných projektů, mj. v rámci mise OSN ve Východním Timoru. Manažerské zkušenosti získal na několika významných postech, například jako regionální ředitel pro Střední Evropu a Balkán v mezinárodní firmě podnikající v oboru informačních technologií.
 
