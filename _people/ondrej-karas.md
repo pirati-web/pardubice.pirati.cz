@@ -22,7 +22,7 @@ profiles:
   twitter:
   linkedin: https://www.linkedin.com/in/ond%C5%99ej-karas-46304228/
 ---
-**Ondřej Karas** (* 24. července 1984 Pardubice) je zastupitelem Pardubic za Piráty, působí jako člen Komise pro pozemky a reklamu a nehlasující odborník v Komisi pro strategii a smart city. Zároveň je zastupitelem a členem na městském obvodu Pardubice VI za nezávislou kandidátku s podporou Pirátské strany PRO ŠESTKU. Členem Pirátské strany je od března 2018.
+**Ondřej Karas** (* 24. července 1984 Pardubice) je zastupitelem Pardubic za Piráty, působí jako člen Komise pro pozemky a reklamu a nehlasující odborník v Komisi pro strategii a smart city. Zároveň je zastupitelem a členem kontrolního výboru na městském obvodu Pardubice VI za nezávislou kandidátku s podporou Pirátské strany PRO ŠESTKU. Pirátem je od března 2018.
 
 Absolvoval Střední průmyslovou školu elektrotechnickou v Pardubicích, obor Elektronická a sdělovací zařízení. Pokračoval na Dopravní fakultě Univerzity Pardubice, obor Aplikovaná informatika. Po ročním studiu přešel na Fakultu elektrotechniky a informatiky, bakalářský obor Komunikační a mikroprocesorová technika a úspěšně zakončil magisterským oborem Komunikační a řídící technika (2011). Po třech letech se rozhodl rozšířit si obzory bakalářským studiem na Fakultě bezpečnostního inženýrství, obor Havarijní plánování a krizové řízení (VŠB; 2014 - dosud).
 
