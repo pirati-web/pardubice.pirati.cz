@@ -6,7 +6,6 @@ titles:
   after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
-- priznivci
 - zastupitele
 ordPce:
 img: people/ondrej-beran.jpg           # 165 x 220
