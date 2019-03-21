@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - priznivci
-- zastupitele-mo1
+- zastupitele
 - mestske-firmy
 ordPce:
 img: people/jiri-caslavka.jpg           # 165 x 220
