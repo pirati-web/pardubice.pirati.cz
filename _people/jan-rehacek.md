@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img: people/jan-rehacek.jpg
+ordKom: 2
 description: Komise pro cestovní ruch # kratký popis, max 160 znaků
 profession: jednatel Klubu přátel Pardubicka
 mail:
