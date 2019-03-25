@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img:
+ordKom: 13
 description: Komise pro rodinu a děti # kratký popis, max 160 znaků
 profession: sociální pracovník
 mail:
