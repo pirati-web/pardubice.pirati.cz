@@ -5,7 +5,8 @@ titles:
   before: Mgr.
   after:
 img: people/kamila-skalecka.jpg           # 165 x 220
-description: lektorka jazyků
+description: přznivkyně 
+profession: lektorka jazyků
 category:
 - priznivci # kategorie: rp, praha, vary, hradec, jmk, senat
 profiles:
