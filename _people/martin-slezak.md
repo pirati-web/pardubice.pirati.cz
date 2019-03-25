@@ -2,7 +2,7 @@
 uid: martin.slezak
 name:     Martin Slezák      		# běžně používáné jméno
 titles:
-  before: Ing. Mg.
+  before: Ing. Mgr.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
