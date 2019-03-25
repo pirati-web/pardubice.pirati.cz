@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 - radnice
 img: people/vilem-kubac.jpg
+ordKom: 12
 description: Kulturní komise # kratký popis, max 160 znaků
 profession: novinář
 mail:
