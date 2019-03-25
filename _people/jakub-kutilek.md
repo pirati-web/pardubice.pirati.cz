@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivci
 - radnice
 - zastupitele
 ordZas: 2
