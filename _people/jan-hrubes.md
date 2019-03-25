@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - pms
-ordPce: 4
+ordPce: 2
 img: people/jan-hrubes.jpg           # 165 x 220
 description: místopředseda MS Pardubicko # kratký popis, max 160 znaků
 profession: hudebník, student FChT UPa
