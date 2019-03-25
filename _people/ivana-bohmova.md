@@ -9,7 +9,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
 - komise
-ordPce: 3
+ordPce: 5
 ordZas: 3
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: zastupitelka Pardubic, Komise pro výchovu a vzdělávání # kratký popis, max 160 znaků
