@@ -4,6 +4,7 @@ name: Aneta Jelínková   		# běžně používáné jméno
 titles:
   before: Ing.
   after:
+ordZas: 9
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 - zastupitele
