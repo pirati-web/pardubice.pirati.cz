@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img:
+ordKom: 3
 description: Komise pro architekturu a urbanismus # kratký popis, max 160 znaků
 profession: architekt
 mail:
