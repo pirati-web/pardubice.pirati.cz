@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
 img:            # 165 x 220
+ordFir: 3
 description: dozorčí rada HC Dynamo Pardubice # kratký popis, max 160 znaků
 profession: manažer
 mail:
