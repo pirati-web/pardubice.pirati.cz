@@ -22,7 +22,7 @@ profiles:
   linkedin:
 ---
 
-**Ivana Böhmová** (* 6.ledna 1987 v Pardubicích) je zastupitelka Pardubic a členka komise města pro výchovu a vzdělávání. Je členkou Pirátské strany od května 2018.
+**Ivana Böhmová** (* 6.ledna 1987 v Pardubicích) je zastupitelka Pardubic a členka Komise pro výchovu a vzdělávání. Je členkou Pirátské strany od května 2018.
 
 Ivana vystudovala střední ekonomické Lyceum v Liberci, poté získala bakalářský titul na fakultě humanitních studií na UK. Od roku 2009 do dubna roku 2018 byla na rodičovské dovolené, má 3 děti. Během tohoto období nastoupila na Pedagogickou fakultu UHK, kde nyní ukončuje studium v oboru učitelství pro MŠ. V oblasti pedagogiky působila jako pedagožka či lektorka po celou dobu rodičovské dovolené, zajímá se o zejména o inovativní směry ve vzdělávání.
 
