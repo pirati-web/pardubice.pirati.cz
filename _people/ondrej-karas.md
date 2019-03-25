@@ -9,6 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - komise
 - kontaktni_osoba
+ordZas: 1
 ordPce: 7
 img: people/ondrej-karas.jpg           # 165 x 220
 description: zastupitel Pardubic a MO Pardubice VI, Komise pro pozemky a reklamu # kratký popis, max 160 znaků
