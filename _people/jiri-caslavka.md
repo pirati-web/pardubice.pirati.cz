@@ -9,9 +9,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 - zastupitele
 - mestske-firmy
-ordPce:
+ordZas: 6
 img: people/jiri-caslavka.jpg           # 165 x 220
-description: zastupitel MO Pardubice 1, dozorčí rada Služby města Pardubic # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice I, dozorčí rada Služby města Pardubic # kratký popis, max 160 znaků
 profession: ekonom
 candidateDescription: založením liberál
 mail:
