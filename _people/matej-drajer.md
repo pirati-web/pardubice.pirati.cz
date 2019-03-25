@@ -7,7 +7,8 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img: 
-description: Komise pro cestovní ruch # kratký popis, max 160 znaků
+ordKom: 11
+description: Komise pro sport # kratký popis, max 160 znaků
 profession: kavárník, komentátor sportovních přenosů
 mail:
 mob:
