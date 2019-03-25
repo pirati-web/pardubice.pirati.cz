@@ -7,9 +7,9 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
-ordPce:
+ordZas: 7
 img: people/ondrej-beran.jpg           # 165 x 220
-description: zastupitel MO Pardubice 1 # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice I # kratký popis, max 160 znaků
 profession: vědecký pracovník
 candidateDescription: člen Zelených
 mail: jerdnonareb@seznam.cz
