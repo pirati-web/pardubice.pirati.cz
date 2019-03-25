@@ -9,7 +9,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - pms
 - komise
-ordPce: 9
+ordPce: 3
 ordZas: 5
 img: people/lenka-spanihelova.jpg           # 165 x 220
 description: zastupitelka Pardubic, Komise pro sociální a zdravotní věci,  místopředsedkyně MS Pardubicko # kratký popis, max 160 znaků
