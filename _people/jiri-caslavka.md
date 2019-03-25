@@ -6,7 +6,6 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
-- priznivci
 - zastupitele
 - mestske-firmy
 ordZas: 6
