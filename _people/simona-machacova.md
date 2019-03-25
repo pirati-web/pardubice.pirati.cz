@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img: people/simona-machacova.jpg
+ordKom: 6
 description: Komise pro bezpečnost a prevenci kriminality # kratký popis, max 160 znaků
 profession: policistka
 mail:
