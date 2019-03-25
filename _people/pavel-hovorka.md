@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
 img:            # 165 x 220
+ordFir: 4
 description: dozorčí rada Nadace pro rozvoj města Pardubic # kratký popis, max 160 znaků
 profession: certifikovaný odhadce
 mail:
