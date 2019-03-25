@@ -9,8 +9,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - komise
 ordPce: 5
+ordZas: 4
 img: people/vojtech-jirsa.jpg           # 165 x 220
-description: zastupitel Pardubic a MO Pardubice 1, Komise pro dopravu # kratký popis, max 160 znaků
+description: zastupitel Pardubic a MO Pardubice I, Komise pro dopravu # kratký popis, max 160 znaků
 mail:
 - vojtech.jirsa@pirati.cz
 profiles:
