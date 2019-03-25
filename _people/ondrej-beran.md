@@ -8,8 +8,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
 ordZas: 7
+ordKom: 15
 img: people/ondrej-beran.jpg           # 165 x 220
-description: zastupitel MO Pardubice I # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice I, Komise pro školství MO Pardubice I # kratký popis, max 160 znaků
 profession: vědecký pracovník
 candidateDescription: člen Zelených
 mail: jerdnonareb@seznam.cz
@@ -20,7 +21,7 @@ profiles:
   linkedin:
 ---
 
-**Ondřej Beran** (* 25. srpna 1979) je zastupitelem za Piráty na městském obvodu Pardubice I – střed. Od roku 2013 je členem Strany zelených, zároveň je registrovaným příznivcem Pirátské strany. Pochází z Plzně a od roku 2017 žije v Pardubicích.
+**Ondřej Beran** (* 25. srpna 1979) je zastupitelem za Piráty na městském obvodu Pardubice I – střed, působí v obvodní Komisi pro školství, kulturu a tělovýchovu. Od roku 2013 je členem Strany zelených, zároveň je registrovaným příznivcem Pirátské strany. Pochází z Plzně a od roku 2017 žije v Pardubicích.
 
 Vystudoval klasickou filologii a filosofii na UK v Praze, kde také získal titul Ph.D. v oboru filosofie. Zabývá se různými otázkami souvisejícími s jazykem, s přesahem do sociolingvistiky nebo literární teorie.
 
