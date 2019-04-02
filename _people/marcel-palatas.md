@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 9
+ordPce: 10
 img: people/marcel-palatas.jpg           # 165 x 220
 description: člen MS Pardubicko # kratký popis, max 160 znaků
 mail:
