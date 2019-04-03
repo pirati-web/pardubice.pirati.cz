@@ -123,3 +123,21 @@
         }
     }
 }
+
+.c-profile-badge__headline {
+    margin-top: -.5rem;
+
+    > a {
+        @include headerStyle('h6', super);
+    }
+}
+
+.c-profile-badge__desc {
+    margin-top: 0;
+    // font-size: 80%;
+}
+
+.c-profile-badge__contacts {
+    justify-content: flex-start;
+    padding-top: .5rem;
+}

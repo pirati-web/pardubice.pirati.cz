@@ -15,12 +15,11 @@ profession: datový analytik
 mail:
 - filip.mezera@pirati.cz
 mob:
--
 profiles:
-  github: 
+  github:
   facebook: https://www.facebook.com/filip.mezera
-  twitter: 
-  linkedin: 
+  twitter:
+  linkedin:
 ---
 
 **Filip Mezera** je zastupitelem Sezemic za kandidátku Nezávislí Sezemic a obcí a členem Pirátů Pardubicko. V Sezemicích působí také v kontrolním výboru.
