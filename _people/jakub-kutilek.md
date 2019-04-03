@@ -5,9 +5,9 @@ titles:
   before: Ing.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priznivci
 - radnice
 - zastupitele
+ordZas: 2
 img: people/jakub-kutilek.jpg           # 165 x 220
 description: zastupitel Pardubic a MO Pardubice II # kratký popis, max 160 znaků
 profession: dopravní specialista

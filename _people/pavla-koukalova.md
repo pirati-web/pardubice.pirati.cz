@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
 img: 
+ordKom: 9
 description: Komise pro bytové a nebytové prostory # kratký popis, max 160 znaků
 profession: projektantka
 mail:

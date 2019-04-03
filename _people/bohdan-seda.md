@@ -7,7 +7,7 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivci
 img: people/bohdan-seda.jpg
-description: registrovaný příznivec # kratký popis, max 160 znaků
+description: příznivec # kratký popis, max 160 znaků
 mail:
 profiles:
   github:
@@ -24,6 +24,4 @@ Pracoval jako odborný pracovník v Národním památkovém ústavu v Pardubicí
 
 Nikdy nabyl členem žádné politické strany. V letech 2002-2006 byl členem zastupitelstva Městského obvodu Pardubice I. zvolený jako nezávislý za sdružení pro Pardubice. V letech 2002-2018 kandidoval do Zastupitelstva města Pardubic za Pardubáky. Byl postupně členem následujících komisí Rady města Pardubic: Komise pro architekturu a urbanismus, Kulturní komise, Komise pro cestovní ruch.
 
-Je členem Muzejního spolku v Pardubicích, zakládajícím členem Sdružení pro stavebněhistorický průzkum a zakládajícím členem pardubického projektu Offcity. Angažoval se v aktivitách za zachování pardubické reálky a v Iniciativě Mlýny městu.
-
-Bohdan je svobodný a má 1,5 dítěte. K jeho zálibám patří historie, literatura, život. Sportu neholduje, rekreačně plave, vesluje a pádluje.
+Je členem Muzejního spolku v Pardubicích, zakládajícím členem Sdružení pro stavebněhistorický průzkum a zakládajícím členem pardubického projektu Offcity. Angažoval se v aktivitách za zachování pardubické reálky a v Iniciativě Mlýny městu. K jeho zálibám patří historie, literatura, život. Sportu neholduje, rekreačně plave, vesluje a pádluje.

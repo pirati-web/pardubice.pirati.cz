@@ -9,7 +9,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
 - komise
-ordPce: 10
+ordPce: 11
+ordZas: 10
+ordKom: 8
 img: people/filip-varecha.jpg           # 165 x 220
 description: zastupitel MO Pardubice V, Komise pro strategii a smart city # kratký popis, max 160 znaků
 profession: vývojář webových aplikací

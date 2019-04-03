@@ -7,7 +7,8 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
 img:            # 165 x 220
-description: dozorčí rada Dopravní podnik města Pardubic, přeedstavenstvo Pardubická plavební # kratký popis, max 160 znaků
+ordFir: 2
+description: dozorčí rada Dopravní podnik města Pardubic, představenstvo Pardubická plavební # kratký popis, max 160 znaků
 profession: dopravní specialista
 mail:
 - petr.nachtigall@upce.cz

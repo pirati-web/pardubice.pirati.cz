@@ -7,6 +7,7 @@ titles:
 category:
 - komise # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vladan-hanulik.jpg
+ordKom: 14
 description: Komitét pro udělení ocenění města
 profession: historik
 profiles:

@@ -7,16 +7,16 @@ viewMode: grouped # or alltogether
 groups:
   - name: Zastupitelé a zastupitelky
     category: zastupitele
-    sort: uid
+    sort: ordZas
   - name: Členové a členky
     category: clenove
     sort: ordPce
   - name: Zástupci v komisích
     category: komise
-    sort: uid
+    sort: ordKom
   - name: Zástupci v městských firmách
     category: mestske-firmy
-    sort: uid
+    sort: ordFir
   - name: Aktivní příznivci a příznivkyně
     category: priznivci
     sort: uid

@@ -6,7 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 6
+ordPce: 7
 img: people/katerina-jirsova.jpg           # 165 x 220
 description: členka MS Pardubicko # kratký popis, max 160 znaků
 profession: umělkyně

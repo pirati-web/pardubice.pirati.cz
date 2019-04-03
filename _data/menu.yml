@@ -17,10 +17,10 @@ main:
     name: Aktuality
     match: aktuality
   - link: /clenove/
-    name: Naši členové
+    name: Naši lidé
     match: clenove
   - link: /komunalni-volby-2018/
-    name: Volby 2018
+    name: Volby
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
@@ -55,22 +55,17 @@ main:
     match: kontakt
 
 bottom:
-  - class: small-12 medium-4
-    title: Připoj se
-    links:
-      - link: /kontakt/
-        name: Dej nám vědět
-  - class: small-12 medium-4
+    - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /clenove/
-        name: Členové
-      - link: /komunalni-volby-2018/
-        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
+      - link: /clenove/
+        name: Naši lidé
+      - link: /komunalni-volby-2018/
+        name: Volby
   - class: small-12 medium-4
-    title: Otevřenost
+    title: Jsme otevření
     links:
       - link: https://ucet.pirati.cz
         name: Transparentní účet
@@ -78,3 +73,10 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+   - class: small-12 medium-4
+    title: Přidejte se
+    links:
+      - link: /podporte-nas/
+        name: Podpořte nás
+      - link: /kontakt/
+        name: Kontakt
