@@ -55,7 +55,7 @@ main:
     match: kontakt
 
 bottom:
-    - class: small-12 medium-4
+  - class: small-12 medium-4
     title: Makáme
     links:
       - link: /aktuality/
@@ -73,7 +73,7 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-   - class: small-12 medium-4
+  - class: small-12 medium-4
     title: Přidejte se
     links:
       - link: /podporte-nas/

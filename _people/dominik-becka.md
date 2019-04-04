@@ -8,7 +8,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
 - pms
-- kontaktni-osoba
+- kontaktni_osoba
 ordPce: 1
 img: people/dominik-becka.jpg
 description: předseda MS Pardubicko # kratký popis, max 160 znaků
