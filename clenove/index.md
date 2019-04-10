@@ -1,7 +1,7 @@
 ---
 layout: members
-title: Lidé
-description: Seznam členů a příznivců Pirátské strany v Pardubicích. Chcete se přidat? Přijďte na sraz nebo nám dejte vědět.
+title: Naši lidé
+description: Seznam zastupitelů a dalších zástupců, členů a příznivců Pirátské strany na Pardubicku. Chcete se přidat? Přijďte na sraz nebo nám dejte vědět.
 keywords: členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 groups:
