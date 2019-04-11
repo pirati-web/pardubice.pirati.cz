@@ -9,7 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: 
 ordKom: 17
 description: Komise pro školství MO Pardubice V # kratký popis, max 160 znaků
-profession: lékař, OSVČ
+profession: ředitel školy
 mail:
 mob:
 profiles:
