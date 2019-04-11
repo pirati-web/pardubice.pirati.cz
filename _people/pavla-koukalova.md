@@ -6,7 +6,7 @@ titles:
   after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
-img: 
+img: people/pavla-koukalova.jpg
 ordKom: 9
 description: Komise pro bytové a nebytové prostory # kratký popis, max 160 znaků
 profession: projektantka
