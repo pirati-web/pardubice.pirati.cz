@@ -1,5 +1,5 @@
 top:
-   - link: "Pirátská strana"
+  - link: "Pirátská strana"
     url:  "https://pirati.cz"
     icon: "fa fa-flag"
   - link: "Piráti Pardubický kraj"
