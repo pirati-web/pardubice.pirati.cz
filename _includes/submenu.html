@@ -1,0 +1,21 @@
+{% for menu in site.data.menu.submenus %}
+  {% if page.url contains menu.match %}
+    <nav class="c-top-sub-nav">
+      <div class="row">
+        <div class="c-top-sub-nav-inner columns">
+          <div class="c-top-sub-nav__header">
+            <h2 class="c-top-sub-nav__heading">{{ menu.name }}</h2>
+          </div>
+          <div class="c-top-sub-nav-divider"></div>
+          <ul class="c-top-sub-nav-items">
+            {% for submenu in menu.items %}
+            <li class="c-top-sub-nav__item {% if page.url contains submenu.match %}c-top-sub-nav__item--active{% endif %}">
+              <a href="{{ submenu.link }}">{{ submenu.name }} </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+  {% endif %}
+{% endfor %}

@@ -141,3 +141,29 @@
     justify-content: flex-start;
     padding-top: .5rem;
 }
+
+
+// Inline link set that goes block on mobile devices.
+.responsive-linkset {
+    @include headerStyle(h4, alt);
+
+    @include breakpoint(medium up) {
+        display: flex;
+        justify-content: center;
+    }
+
+    &__item  {
+        display: block;
+        margin: .5rem 0;
+
+        @include breakpoint(medium up) {
+            margin: 0 1rem;
+        }
+    }
+
+}
+
+
+.elections__links {
+    margin-top: 2rem;
+}
