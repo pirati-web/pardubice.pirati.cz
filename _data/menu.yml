@@ -22,34 +22,9 @@ main:
   - link: /clenove/
     name: Naši lidé
     match: clenove
-  - link: /komunalni-volby-2018/
+  - link: /volby/
     name: Volby
-    match: komunalni-volby-2018
-    submenu:
-      - link: /komunalni-volby-2018/
-        name: Radnice
-        match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/mo-i/
-        name: MO I
-        match: mo-i
-      - link: /komunalni-volby-2018/mo-ii/
-        name: MO II
-        match: mo-ii
-      - link: /komunalni-volby-2018/mo-iv/
-        name: MO IV
-        match: mo-iv
-      - link: /komunalni-volby-2018/mo-v/
-        name: MO V
-        match: mo-v
-      - link: /komunalni-volby-2018/mapa-piratskych-planu/
-        name: Mapa pirátských plánů
-        match: mapa-piratskych-planu
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-        match: povolebni-strategie
-      - link: /komunalni-volby-2018/kampan-dary-prispevky/
-        name: Financování kampaně
-        match: kampan-dary-prispevky
+    match: volby
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
@@ -83,3 +58,32 @@ bottom:
         name: Podpořte nás
       - link: /kontakt/
         name: Kontakt
+
+submenus:
+  - name: Volby 2018
+    match: komunalni-volby-2018
+    items:
+      - link: /komunalni-volby-2018/
+        name: Radnice
+        match: komunalni-volby-2018
+      - link: /komunalni-volby-2018/mo-i/
+        name: MO I
+        match: mo-i
+      - link: /komunalni-volby-2018/mo-ii/
+        name: MO II
+        match: mo-ii
+      - link: /komunalni-volby-2018/mo-iv/
+        name: MO IV
+        match: mo-iv
+      - link: /komunalni-volby-2018/mo-v/
+        name: MO V
+        match: mo-v
+      - link: /komunalni-volby-2018/mapa-piratskych-planu/
+        name: Mapa pirátských plánů
+        match: mapa-piratskych-planu
+      - link: /komunalni-volby-2018/povolebni-strategie/
+        name: Povolební strategie
+        match: povolebni-strategie
+      - link: /komunalni-volby-2018/kampan-dary-prispevky/
+        name: Financování kampaně
+        match: kampan-dary-prispevky
