@@ -6,7 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 2
+ordPce: 4
 img: people/jan-bednar.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: grafický designér
@@ -18,8 +18,6 @@ profiles:
   twitter:
   linkedin:
 ---
-**Jan Bednář** (* 24. únor 1993) narodil se a žije v Pardubicích.(Pardubičky, Obvod IV.)
+**Jan Bednář** (* 24. únor 1993) se narodil a žije v Pardubicích, místní části Pardubičky. Je členem Pirátské strany od května 2018.
 
-Studoval výtvarný obor na ZUŠ od 6 do 15 let. Poté vystudoval Grafický design na střední v Ústí nad Orlicí. Nyní dochází na Univerzitu Pardubice na obor Kulturní dějiny. Brigádně pracuje jako grafik.
-
-Účastní se veřejných akcí nebo je sám pořádá. Je dračím jezdcem. V roce 2018 kandiduje do města Pardubice pod Piráty a na obvod IV. Účastní se schůzí Pirátů v Pardubicích, členem strany je od května 2018.
+Již ve svém dětství studoval výtvarný obor na ZUŠ. Absolvoval obor Grafický design na Střední škole uměleckoprůmyslové v Ústí nad Orlicí a v současnosti pokračuje studium kulturních dějin na Univerzitě Pardubice. Brigádně pracuje jako grafik. Účastní se veřejných akcí nebo je sám pořádá. Je dračím jezdcem.

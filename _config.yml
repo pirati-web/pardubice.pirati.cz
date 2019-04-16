@@ -86,13 +86,13 @@ defaults:   # defaults values for collection scope
 organization:
   name: Piráti Pardubice
   shortName: Piráti Pardubice
-  email: pavel.stepanek@pirati.cz
-  phone: +420 770 113 647
+  email: pardubicko@pirati.cz
+  phone: +420 775 609 939
   address: |
-    Radoušova 14
-    537 01 Chrudim
-  residenceImg: miscellaneous/cpice.jpg
-  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+    Masarykovo náměstí 148
+    530 02 Pardubice
+  # residenceImg: miscellaneous/cpice.jpg
+  mapLink: https://www.google.cz/maps/place/Masarykovo+nám.+1484,+530+02+Pardubice+I-Zelené+Předměstí/@50.0378044,15.7695204,3a,75y,61.41h,89.57t/data=!3m6!1e1!3m4!1sM-lHvNKgqnL3U_sseun03g!2e0!7i13312!8i6656!4m5!3m4!1s0x470dcc954aa1d779:0x7df33d88eadcf87e!8m2!3d50.0383184!4d15.7703829
   redmineLink: https://redmine.pirati.cz/projects/pardubicky-kraj
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010

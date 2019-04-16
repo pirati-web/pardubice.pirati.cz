@@ -7,9 +7,13 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-ordPce: 10
+- zastupitele
+- komise
+ordPce: 11
+ordZas: 10
+ordKom: 8
 img: people/filip-varecha.jpg           # 165 x 220
-description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice V, Komise pro strategii a smart city # kratký popis, max 160 znaků
 profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
@@ -22,9 +26,9 @@ profiles:
   linkedin: https://www.linkedin.com/in/filip-vařecha-51625031/
 ---
 
-**Filip Vařecha** (* 1. května 1986) je členem Krajského sdružení Pardubický kraj. Pochází z Pardubic a po deseti letech strávených v Praze zde znovu žije od roku 2016.
+**Filip Vařecha** (* 1. května 1986) je zastupitelem a předsedou kontrolního výboru za Piráty na městském obvodu Pardubice V. Zároveň působí v komisi pro strategii a smart city. Je členem Pirátů Pardubicko.
 
-Vystudoval zdejší Gymnázium Dašická a svoje studium završil získáním titulu Ing. na Českém vysokém učení technickém v Praze v oboru Softwarové inženýrství. Během studií se zaměřoval na webové technologie a na metodiky řízení softwarových projektů.
+Filip pochází z Pardubic a po deseti letech strávených v Praze zde znovu žije od roku 2016. Vystudoval zdejší Gymnázium Dašická a své studium završil získáním inženýrského titulu na Českém vysokém učení technickém v Praze v oboru Softwarové inženýrství. Během studií se zaměřoval na webové technologie a na metodiky řízení softwarových projektů.
 
 Od roku 2008 je zaměstnán u softwarové společnosti zabývající se vývojem webových aplikaci. V rámci svého zaměstnání se věnuje hlavně propagaci agilních metodik vývoje sofwaru (SCRUM, Kanban) a pracuje jako fullstack web developer.
 

@@ -6,19 +6,22 @@ titles:
   after: DiS
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 4
+- pms
+- komise
+ordPce: 2
+ordKom: 16
 img: people/jan-hrubes.jpg           # 165 x 220
-description: člen KS Pardubický kraj # kratký popis, max 160 znaků
-profession: student FChT UPa
+description: místopředseda MS Pardubicko, Komise školství, kultury a sportu MO Pardubice II # kratký popis, max 160 znaků
+profession: hudebník, student FChT UPa
 mail:
 - jan.hrubes@pirati.cz
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/houbargypce
   twitter:
   linkedin:
 ---
-**Jan Hrubeš** (* 19. února 1995) je členem Krajského sdružení Pardubický kraj. Pochází z Pardubic, kde od narození nepřetržitě žije.
+**Jan Hrubeš** (* 19. února 1995) je členem a od listopadu 2018 místopředsedou Pirátů Pardubicko. Je nominantem za Piráty, Naše Pardubice a Zelené v Komisi školství, kultury a sportu MO Pardubice II – Polabiny. Pochází z Pardubic, kde od narození také nepřetržitě žije.
 
 Vystudoval zdejší gymnázium, po němž pokračuje ve studiích na Fakultě chemicko-technologické v Pardubicích, kde v současnosti studuje magisterský program Organická chemie. Kromě toho se věnuje hře na kontrabas, kterou vystuduje v červnu 2018 na zdejší konzervatoři. V průběhu studia založil středoškolskou soutěž „Chemiklání“.
 

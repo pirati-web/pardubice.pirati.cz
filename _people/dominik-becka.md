@@ -2,31 +2,28 @@
 uid: dominik.becka
 name: Dominik Bečka
 titles:
-  before: Bc.
+  before: Ing.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
+- pms
+- kontaktni_osoba
 ordPce: 1
 img: people/dominik-becka.jpg
-description: člen KS Pardubický kraj # kratký popis, max 160 znaků
-profession: bankovní specialista
+description: předseda MS Pardubicko # kratký popis, max 160 znaků
+profession: risk manažer
+mail:
+- dominik.becka@pirati.cz
+mob:
+- +420 775 609 939
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/dominik.becka
   twitter:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/dominikbecka
 ---
 
-**Dominik Bečka** (* 20. srpna 1991 v Pelhřimově) je příznivcem pardubických Pirátů.
-Od roku 2014 pravidelně dojíždí do Pardubic. Zamiloval si je, a proto zde od
-počátku roku 2018 také žije společně se svou ženou.
+**Dominik Bečka** (* 20. srpna 1991) je členem a od listopadu 2018 předsedou Pirátů Pardubicko. Aktivně se účastnil kampaně ke komunálním volbám 2018 v Pardubicích, ve kterých Piráti získali 11 % a pět zastupitelských mandátů. Nyní se snaží budovat pirátskou komunitu v krajském městě i okolních obcích.
 
-Pracuje jako specialista na řízení bilance v bance, v minulosti se věnoval také
-copywritingu. Dokončuje studium bankovnictví a veřejných rozpočtů na Fakultě
-financí a účetnictví Vysoké školy ekonomické v Praze. Svou univerzitu zastupoval
-v Radě vysokých škol jako studentský delegát.
-
-Za svých studií se zároveň aktivně zapojil do kampaní k referendu za zákaz
-hazardu na Praze 7 či k volbám do zastupitelstva městské části za koalici Strany
-zelených, Pirátů a nezávislých.
+Dominik žije v centru Pardubic společně se svou ženou. Pracuje jako risk manažer v pojišťovně, v minulosti se věnoval také copywritingu. Vystudoval bankovnictví a veřejné rozpočty na Fakultě financí a účetnictví Vysoké školy ekonomické v Praze. Za svých studií se zároveň zapojil do kampaní k referendu o zákazu hazardu na Praze 7 či k předchozím komunálním volbám za koalici Strany zelených, Pirátů a nezávislých.

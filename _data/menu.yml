@@ -1,13 +1,16 @@
 top:
-  - link: "pirati.cz"
-    url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+  - link: "Pirátská strana"
+    url:  "https://pirati.cz"
+    icon: "fa fa-flag"
+  - link: "Piráti Pardubický kraj"
+    url:  "https://pardubicky.pirati.cz"
+    icon: "fa fa-flag"
   - link: "Pirátské listy"
-    url:  "http://www.piratskelisty.cz"
+    url:  "http://piratskelisty.cz"
     icon: "fa fa-newspaper-o"
+  - link: "Nalodění"
+    url:  "https://nalodeni.pirati.cz"
+    icon: "fa fa-user-plus"
 
 main:
   - link: /
@@ -17,12 +20,49 @@ main:
     name: Aktuality
     match: aktuality
   - link: /clenove/
-    name: Naši členové
+    name: Naši lidé
     match: clenove
-  - link: /komunalni-volby-2018/
-    name: Volby 2018
+  - link: /volby/
+    name: Volby
+    match: volby
+  - link: /podporte-nas/
+    name: Podpořte nás
+    match: podporte-nas
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+bottom:
+  - class: small-12 medium-4
+    title: Otevřenost
+    links:
+      - link: https://ucet.pirati.cz
+        name: Transparentní účet
+      - link: https://smlouvy.pirati.cz
+        name: Registr smluv
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
+        name: Otevřené účetnictví
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /aktuality/
+        name: Aktuality
+      - link: /clenove/
+        name: Naši lidé
+      - link: /volby/
+        name: Volby
+  - class: small-12 medium-4
+    title: Přidejte se
+    links:
+      - link: /podporte-nas/
+        name: Podpořte nás
+      - link: /kontakt/
+        name: Kontakt
+
+submenus:
+  - name: Volby 2018
     match: komunalni-volby-2018
-    submenu:
+    items:
       - link: /komunalni-volby-2018/
         name: Radnice
         match: komunalni-volby-2018
@@ -47,34 +87,3 @@ main:
       - link: /komunalni-volby-2018/kampan-dary-prispevky/
         name: Financování kampaně
         match: kampan-dary-prispevky
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
-bottom:
-  - class: small-12 medium-4
-    title: Připoj se
-    links:
-      - link: /kontakt/
-        name: Dej nám vědět
-  - class: small-12 medium-4
-    title: Makáme
-    links:
-      - link: /clenove/
-        name: Členové
-      - link: /komunalni-volby-2018/
-        name: Volby 2018
-      - link: /aktuality/
-        name: Aktuality
-  - class: small-12 medium-4
-    title: Otevřenost
-    links:
-      - link: https://ucet.pirati.cz
-        name: Transparentní účet
-      - link: https://smlouvy.pirati.cz
-        name: Registr smluv
-      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
-        name: Otevřené účetnictví

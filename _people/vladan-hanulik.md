@@ -4,9 +4,12 @@ name: Vladan Hanulík
 titles:
   before: Mgr.
   after: Ph.D.
-category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
+- komise # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vladan-hanulik.jpg
-description: vysokoškolský pedagog
+ordKom: 14
+description: Komitét pro udělení ocenění města
+profession: historik
 profiles:
   github:
   facebook:
@@ -14,7 +17,7 @@ profiles:
   linkedin:
 ---
 
-**Vladan Hanulík** (* 14. března 1980) je příznivcem Pirátské strany. Vladan se narodil v Šumperku, v Pardubicích trvale žije v od roku 2011.
+**Vladan Hanulík** (* 14. března 1980) je členem Komitétu pro udělení ocenění města a registrovaným příznivcem Pirátské strany. Narodil se v Šumperku, v Pardubicích trvale žije v od roku 2011.
 
 Vystudoval gymnázium v Jeseníku, studium kulturních dějin absolvoval na Univerzitě Pardubice, kde získal magisterský titul. Poté zde dokončil i doktorské studium historie se specializací na dějiny 19. století a dějiny těla. Pracuje jako vysokoškolský pedagog a historik na Univerzitě Pardubice. Ve výuce se snaží uplatňovat metody kritického myšlení, je autorem či spoluautorem vědeckých monografií, odborných i popularizačních článků zprostředkovávajících informace o historii českých zemí v 19. století.
 

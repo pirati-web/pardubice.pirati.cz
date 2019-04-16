@@ -4,9 +4,12 @@ name: Jan Böhm
 titles:
   before: Bc.
   after:
-category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
+- komise            		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-bohm.jpg
-description: digitální stratég
+ordKom: 19
+description: Místní komise Jesničánky MO Pardubice V
+profession: digitální stratég
 profiles:
   github:
   facebook:
@@ -14,12 +17,6 @@ profiles:
   linkedin:
 ---
 
-**Jan Böhm** (*1986) pracuje jako digitální stratég. Deset let se pohybuje v
-oblasti humanitární pomoci a mezinárodní rozvojové spolupráce, kde se věnuje
-zejména digitální komunikaci a inovacím. Absolvoval Fakultu humanitních studií
-UK v Praze. Mluví anglicky, německy, francouzsky. Má ženu a tři děti, bydlí v
-Nových Jesenčanech.
+**Jan Böhm** (*1986) je zástupcem Pirátů v Místní komisi Jesničánky obvodu Pardubice V. Pracuje jako digitální stratég. Aktivně se podílel na kampani Pirátů v komunálních volbách 2018 i jejich dalším působení. Deset let se pohybuje v oblasti humanitární pomoci a mezinárodní rozvojové spolupráce, kde se věnuje zejména digitální komunikaci a inovacím. Absolvoval Fakultu humanitních studií UK v Praze. Mluví anglicky, německy, francouzsky. Má ženu a tři děti, bydlí v Nových Jesenčanech.
 
-K podpoře pirátů říká: „V Pardubicích se podle mě sešla skvělá skupina, která
-kombinuje kandidáty s velmi zajímavými profesními i lidskými zkušenostmi. Na
-Pirátech se mi líbí komplexní přístup k řešení problémů.“
+K podpoře pirátů říká: „V Pardubicích se podle mě sešla skvělá skupina, která kombinuje kandidáty s velmi zajímavými profesními i lidskými zkušenostmi. Na Pirátech se mi líbí komplexní přístup k řešení problémů.“

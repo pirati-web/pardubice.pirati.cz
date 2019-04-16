@@ -6,9 +6,9 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 8
+ordPce: 10
 img: people/marcel-palatas.jpg           # 165 x 220
-description: člen KS Pardubický kraj # kratký popis, max 160 znaků
+description: člen MS Pardubicko # kratký popis, max 160 znaků
 mail:
 - marcel.palatas@pirati.cz
 mob:
@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
 ---
-**Marcel Palatáš** (* 29. června 1987 v Chrudimi) se po získání maturity na Střední škole umělecko-průmyslové v Ústí nad Orlicí s dvouletým odstupem pustil do studia Religionistiky na Filozofické fakultě Univerzity Pardubice (FF UPa). Tam se v době bakalářského studia zaměřoval zejména na studium islámu a arabštiny. V období magisterského studia přešel jeho odborný zájem více směrem k metodologii oboru a k problematice islámu v Evropě. Strávil také rok na studijním pobytu Erasmus na Univerzitě v Bayreuthu, kde měl možnost částečně prozkoumat německé přístupy a metody integrace muslimů v evropském prostředí, jejich přínos problémy a limity. 
+**Marcel Palatáš** (* 29. června 1987 v Chrudimi) je členem Pirátů Pardubicko. Po získání maturity na Střední škole umělecko-průmyslové v Ústí nad Orlicí se s dvouletým odstupem pustil do studia Religionistiky na Filozofické fakultě Univerzity Pardubice (FF UPa). Tam se v době bakalářského studia zaměřoval zejména na studium islámu a arabštiny. V období magisterského studia přešel jeho odborný zájem více směrem k metodologii oboru a k problematice islámu v Evropě. Strávil také rok na studijním pobytu Erasmus na Univerzitě v Bayreuthu, kde měl možnost částečně prozkoumat německé přístupy a metody integrace muslimů v evropském prostředí, jejich přínos problémy a limity. 
 
 Na magisterské studium návázal na téže instituci v doktorském studijním programu. V té době byl členem studentské komory akademického senátu FF UPa a krátce i členem disciplinární komise. Doktorské studium z rodinných důvodů posléze přerušil.
 
