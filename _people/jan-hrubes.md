@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - pms
+- komise
 ordPce: 2
 ordKom: 16
 img: people/jan-hrubes.jpg           # 165 x 220

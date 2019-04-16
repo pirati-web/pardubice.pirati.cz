@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
-img:            # 165 x 220
+img:   people/vera-vlastnikova.jpg         # 165 x 220
 ordFir: 8
 description: dozorčí rada PAP Pardubice # kratký popis, max 160 znaků
 profession: pedagožka, ekonomka

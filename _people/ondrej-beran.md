@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
+- komise
 ordZas: 7
 ordKom: 15
 img: people/ondrej-beran.jpg           # 165 x 220

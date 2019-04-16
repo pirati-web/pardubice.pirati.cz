@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
-img: 
+img: people/miroslav-seiner.jpg
 ordKom: 7
 description: Komise pro životní prostředí # kratký popis, max 160 znaků
 profession: lékař, OSVČ

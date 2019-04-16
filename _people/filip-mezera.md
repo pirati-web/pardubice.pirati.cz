@@ -9,7 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 ordPce: 9
 ordZas: 11
-img:            # 165 x 220
+img: people/filip-mezera.jpg           # 165 x 220
 description: zastupitel Sezemic # kratký popis, max 160 znaků
 profession: datový analytik
 mail:

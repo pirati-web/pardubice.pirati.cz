@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
-img:            # 165 x 220
+img: people/marta-kutilkova.jpg          # 165 x 220
 ordFir: 7
 description: dozorčí rada TIC Pardubice # kratký popis, max 160 znaků
 profession: bývalá ředitelka IC Lázně Bohdaneč, Pardubice

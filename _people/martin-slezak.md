@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - mestske-firmy
-img:            # 165 x 220
+img: people/martin-slezak.jpg          # 165 x 220
 ordFir: 6
 description: dozorčí rada East Bohemian Airport # kratký popis, max 160 znaků
 profession: dopravní specialista, právník

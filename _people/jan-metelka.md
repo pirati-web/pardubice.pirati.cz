@@ -8,7 +8,7 @@ ordZas: 8
 category:
 - zastupitele # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-metelka.jpg           # 165 x 220
-description: zastupitel MO Pardubice 2 # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice II # kratký popis, max 160 znaků
 mail: metelka.jan@centrum.cz
 profiles:
   github:

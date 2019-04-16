@@ -7,7 +7,7 @@ titles:
 category:
 - priznivci # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vojtech-weisbauer.jpg           # 165 x 220
-description: příznivce # kratký popis, max 160 znaků
+description: příznivec # kratký popis, max 160 znaků
 mail:
 profiles:
   github:
