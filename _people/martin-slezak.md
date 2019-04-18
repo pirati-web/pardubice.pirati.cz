@@ -19,6 +19,6 @@ profiles:
   linkedin: 
 ---
 
-**Martin Slezák** je nominantem Pirátské strany v dozorčí radě společnosti East Bohemian Airport spravující pardubické letiště. Působí jako podnikový právník Dopravního podniku města Pardubic, a. s., zároveň je předsedou přestupkové komise Heřmanova Městce. V minulosti byl členem představenstva DPMP, advokátem či poradcem Národní rady osob se zdravotním postižením ČR.
+**Martin Slezák** je nominantem Pirátské strany v dozorčí radě společnosti East Bohemian Airport spravující pardubické letiště. Je členem TOP 09. Působí jako podnikový právník Dopravního podniku města Pardubic, a. s., zároveň je předsedou přestupkové komise Heřmanova Městce. V minulosti byl členem představenstva DPMP, advokátem či poradcem Národní rady osob se zdravotním postižením ČR.
 
 Vystudoval dopravní inženýrství na Českém vysokém učením technickém v Praze, právní vzdělání získal na Právnické fakultě brněnské Masarykovy univerzity.
