@@ -11,7 +11,6 @@ ordFir: 2
 description: dozorčí rada Dopravní podnik města Pardubic, představenstvo Pardubická plavební # kratký popis, max 160 znaků
 profession: dopravní specialista
 mail:
-- petr.nachtigall@upce.cz
 mob:
 profiles:
   github:
