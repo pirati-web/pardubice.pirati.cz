@@ -30,20 +30,20 @@ obyvatel.
 
 Náš plán je po celé délce lesoparku vybudovat **pás husté zeleně**, který pokryje
 všechna výšková patra do celkové výšky zhruba 10 m. Široký by měl být alespoň 10
-metrů a v místech, kde je to realizovatelné i širší. Tam, kde je to možné a
+metrů a v místech, kde je to realizovatelné, i širší. Tam, kde je to možné a
 nebude to narušovat provoz lesoparku, by výsadba vegetace proběhla již v
 dostatečné vzdálenosti od silnice tak, aby nemuselo dojít k jejímu kácení v
 případě, že nakonec k rozšíření I/37 na čtyřpruh skutečně dojde (nevidíme k tomu
 ovšem žádný objektivní důvod, neboť stávající vytížení plně pokrývá aktuální
 kapacita). Od certifikované arboristky jsme si nechali vypracovat návrh možné
-kombinace dřevin, která požadavky na husté zaplnění prostoru naplní, a také
+kombinace dřevin, která požadavky na husté zaplnění prostoru splní, a také
 cenovou kalkulaci. Náklady by měly činit **500 až 750 tisíc Kč včetně DPH**.
 Odhadujeme, že k plnému pokrytí všech výškových pater dojde za 5 až 10 let od
 výsadby. Nebude to hned, ale i tak je to lepší než nekonečné čekání na rozšíření
 silnice a protihlukové stěny, které už nyní trvá déle. Máme zpracovány dvě
-varianty, které se liší pouze počáteční výškou dřevin, což ovlivní jak brzo námi
-navrhované řešení bude fungovat naplno. Shrnuje je následující tabulka, která
-ukazuje cenu za modul 10 x 20 m. Celkem je potřeba pokrýt cca 700 m délky
+varianty, které se liší pouze počáteční výškou dřevin, což ovlivní, jak brzo
+námi navrhované řešení bude fungovat naplno. Shrnuje je následující tabulka,
+která ukazuje cenu za modul 10 x 20 m. Celkem je potřeba pokrýt cca 700 m délky
 porostu, tedy asi 35 těchto modulů. V obou případech byly použity tyto dřeviny:
 
 - TS: tis červený, 3ks
@@ -118,7 +118,7 @@ zemí, v noci a v zimě ukazuje i následující tabulka:
 Referenční bod (1) odpovídá č. p. 2731 v ul. Sokolská.
 
 Minimální míra útlumu dle modelu vychází na zhruba **2,6 dB**, což znamená **téměř o
-50% nižší** míru akustického tlaku. Během období vegetace odhadujeme na **5 - 7 dB**,
+50% nižší** míru akustického tlaku. Během období vegetace odhadujeme útlum na **5 - 7 dB**,
 což je již útlum zásadního charakteru. Kompletní analýzu si můžete stáhnout [zde](https://github.com/pirati-web/pardubice.pirati.cz/blob/master/assets/attachments/dukelsky-lesopark-I37-analyza.docx?raw=true).
 Jak si představit různé hodnoty útlumu si můžete názorně poslechnout ve [zvukové ukázce](https://raw.githubusercontent.com/pirati-web/pardubice.pirati.cz/master/assets/attachments/hlukova-zatez-I37.mp3), která demonstruje rozdíl oproti výchozímu stavu v krocích -3 dB a -6 dB.
 
