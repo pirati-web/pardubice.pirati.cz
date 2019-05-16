@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Hlukovou zátěž v Dukelském lesoparku lze snížit"
+title: "Hlukovou zátěž v Dukelském lesoparku lze snížit bariérou z dřevin"
 date: 2019-05-15T10:00:00+01:00
 tags: dukla hluk veřejný-prostor zastupitelstvo mo-v
 author: Piráti Pardubice
@@ -25,7 +25,7 @@ Piráti v zastupitelstvu přicházejí s novým návrhem, který je realistický
 finančně úsporný, v harmonii s rázem lesoparku a přitom hlukovou zátěž snižuje.
 Tím je výsadba **husté vegetace**, která do jisté míry nahrazuje funkci protihlukové
 stěny. Kromě snížení hluku přitom působí i jako „lapač“ škodlivin, které hustý
-provoz aut vytváří. Má tedy pozitivní vliv na ovzduší a potažmo i na zdraví
+provoz aut vytváří. Má tedy pozitivní vliv na ovzduší a i na zdraví
 obyvatel.
 
 Náš plán je po celé délce lesoparku vybudovat **pás husté zeleně**, který pokryje
@@ -35,7 +35,9 @@ nebude to narušovat provoz lesoparku, by výsadba vegetace proběhla již v
 dostatečné vzdálenosti od silnice tak, aby nemuselo dojít k jejímu kácení v
 případě, že nakonec k rozšíření I/37 na čtyřpruh skutečně dojde (nevidíme k tomu
 ovšem žádný objektivní důvod, neboť stávající vytížení plně pokrývá aktuální
-kapacita). Od certifikované arboristky jsme si nechali vypracovat návrh možné
+kapacita).
+
+Od certifikované arboristky jsme si nechali vypracovat návrh možné
 kombinace dřevin, která požadavky na husté zaplnění prostoru splní, a také
 cenovou kalkulaci. Náklady by měly činit **500 až 750 tisíc Kč včetně DPH**.
 Odhadujeme, že k plnému pokrytí všech výškových pater dojde za 5 až 10 let od
@@ -81,10 +83,11 @@ porostu, tedy asi 35 těchto modulů. V obou případech byly použity tyto dře
 
 K dispozici je i diagram plánované výsadby [zde](https://github.com/pirati-web/pardubice.pirati.cz/raw/master/assets/attachments/dukelsky-lesopark-diagram-vysadby.pdf).
 
-Cenu považujeme za přijatelnou, v rozpočtu města jde o vcelku malou částku s
-ohledem na užitnou hodnotu navrhovaného řešení. Dosadba totiž odcloní lesopark
-od silnice nejen z hlediska hluku, ale také vizuálně. Přispěje také k čištění
-vzduchu, a tím k větší pohodě a lepšímu zdraví návštěvníků lesoparku.
+Cenu považujeme za přijatelnou, v rozpočtu města, které pro rok 2019 hospodaří s
+výdaji přes 3 miliardy Kč, jde o vcelku malou částku s ohledem na užitnou
+hodnotu navrhovaného řešení. Dosadba totiž odcloní lesopark od silnice nejen z
+hlediska hluku, ale také vizuálně. Přispěje také k čištění vzduchu, a tím k
+větší pohodě a lepšímu zdraví návštěvníků lesoparku.
 
 Od odborníka jsme si nechali zpracovat model hlukové zátěže, který srovnává míru
 hlukového zatížení v oblasti lesoparku před a po provedení opatření. Při využití
