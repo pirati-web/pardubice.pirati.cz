@@ -13,7 +13,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 
     if [ $1 == "sandbox" ]; then
         ssh-add /tmp/deploy_rsa_digitalocean
-        rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ travis@46.101.106.19:/var/www/sandbox.piratipardubice.cz
+        rsync -r --delete-after --quiet -e 'ssh -p 22050' $TRAVIS_BUILD_DIR/_site/ travis@ha1.pirati.cz:/var/www/sandbox.piratipardubice.cz
     fi
 
     if [ $1 == "production" ]; then
