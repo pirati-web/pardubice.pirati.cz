@@ -28,7 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11"
+  gem "jekyll-assets", "3.0.10"
   gem 'jekyll-environment-variables'
   gem 'jekyll-redirect-from'
 end
@@ -38,6 +38,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "json" # For gem building
 gem 'sprockets', '~> 4.0.0.beta'
+gem 'sassc-rails', '~> 2.0.0'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
 gem "autoprefixer-rails"
