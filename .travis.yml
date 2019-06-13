@@ -4,6 +4,8 @@ addons:
   ssh_known_hosts:
     - 93.185.103.119:2222
     - 46.101.106.19:22
+    - ha1.pirati.cz:22050
+    - 149.62.145.226:22050
 
 before_install:
   - gem install bundler
