@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Kateřina Kosová nahradí Jakuba Kutílka v polabinském zastupitelstvu"
-date: 2019-05-15T10:00:00+01:00
+date: 2019-05-27T20:00:00+01:00
 tags: jakub-kutílek kateřina-kosová polabiny zastupitelstvo mo-ii
 author: Piráti Pardubice
 image: articles/2019/kutilek-kosova.jpg
