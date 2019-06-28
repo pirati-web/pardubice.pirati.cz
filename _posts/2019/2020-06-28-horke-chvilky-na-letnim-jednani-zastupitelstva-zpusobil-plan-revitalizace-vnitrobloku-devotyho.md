@@ -63,7 +63,7 @@ důsledky: naštvaní občané, projekt neodpovídající jejich potřebám, pen
 utracené za zbytečnosti, které nikdo vlastně nepotřebuje atd. Dost možná se celá
 věc nakonec zpomalí nebo dokonce i zastaví, stejně jako v tomto případě.
 
-Piráti vyzývají k *poctivému přístupu k přípravě projektu*, navrhují organizovat
+Piráti vyzývají k *poctivému přístupu k přípravě projektů*, navrhují organizovat
 veřejná setkání a zjišťovat potřeby občanů. Informace od občanů jsou totiž v
 konečném důsledku pro projektovou dokumentaci data stejně důležitá jako data
 technického charakteru. Oboje velmi ovlivňuje podobu výsledného projektu. Tento
