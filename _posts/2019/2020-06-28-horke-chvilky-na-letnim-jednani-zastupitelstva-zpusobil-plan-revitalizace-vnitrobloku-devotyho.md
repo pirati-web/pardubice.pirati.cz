@@ -73,3 +73,5 @@ ně nejlepší. A i pokud vedení obvodu nevnímá občany jako své partnery, j
 připomenout, že participace je prostě praktičtější: spokojení občané se více
 starají o svůj veřejný prostor a když jsou zváni k diskusi, nemusí sepisovat
 petice.
+
+Úvodní foto: [ŠJů](https://cs.wikipedia.org/wiki/Wikipedista:ŠJů) [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
