@@ -19,13 +19,13 @@ pobíhal za domem. Následně se pokusili s úřadem městského obvodu navázat
 spolupráci, aby projekt probíhal ve vzájemné shodě.
 
 Zpočátku se zdálo, že jednání bude vstřícné a konstruktivní. Občanům bylo
-příslíbeno, že je městský obvod do projektu zapojí a jejich názor vyslyší.
+přislíbeno, že je městský obvod do projektu zapojí a jejich názor vyslyší.
 Vyslyšet názor obyvatel ale v podání obvodu znamená, že jsou postaveni před
 hotovou věc. Byly jim totiž zaslány tři již připravené varianty, z nichž *ani
 jedna neodpovídala jejich představám*. Jednoduše proto, že se na ně nikdo vůbec
 neptal. Kdyby se ptal, zjistil by, že sice nechtějí ze zeleného vnitrobloku
 udělat parkoviště, ale třeba obnovu mobiliáře by uvítali. Bohužel poté, co
-občané projevili formou petice s navrhnovaným řešením nesouhlas, nedojde ani k
+občané projevili formou petice s navrhovaným řešením nesouhlas, nedojde ani k
 obnově mobiliáře. Obvod celý projekt bez náhrady zrušil.
 
 Tento postup úřadu považujeme za chybný, protože zcela ignoruje *moderní trendy
