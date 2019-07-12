@@ -2,13 +2,13 @@
 layout: post
 category: CLANKY
 title: "Kateřina Kosová nahradí Jakuba Kutílka v polabinském zastupitelstvu"
-date: 2019-05-27T20:00:00+01:00
+date: 2019-07-15T20:00:00+01:00
 tags: jakub-kutílek kateřina-kosová polabiny zastupitelstvo mo-ii
 author: Piráti Pardubice
 image: articles/2019/kutilek-kosova.jpg
 ---
 
-**[Jakub Kutílek](https://pardubice.pirati.cz/clenove/jakub-kutilek/) na středečním jednání Zastupitelstva městského obvodu Pardubice II oznámil rezignaci na svůj mandát, chce se soustředit na práci v zastupitelstvu města. Písemnou rezignaci předá starostovi městského obvodu v nejbližších dnech, novou zastupitelkou se stane [Kateřina Kosová](https://pardubice.pirati.cz/clenove/katerina-kosova/), dvojka kandidátky Piráti, Naše Pardubice a Zelení. Přinášíme Jakubovo prohlášení k jeho rozhodnutí.**
+**[Jakub Kutílek](https://pardubice.pirati.cz/clenove/jakub-kutilek/) na červnovém jednání Zastupitelstva městského obvodu Pardubice II oznámil rezignaci na svůj mandát, chce se soustředit na práci v zastupitelstvu města. Novou zastupitelkou se tak stane [Kateřina Kosová](https://pardubice.pirati.cz/clenove/katerina-kosova/), dvojka kandidátky Piráti, Naše Pardubice a Zelení v loňských komunálních volbách. Přinášíme Jakubovo prohlášení k jeho rozhodnutí.**
 
 V říjnu 2018 jsem byl poprvé zvolen zastupitelem města Pardubic a současně zastupitelem městského obvodu Pardubice II. Již v [povolební strategii](https://pardubice.pirati.cz/tiskove-zpravy/pardubicti-pirati-prichazi-s-jasnou-povolebni-strategii/) zveřejněné před volbami Piráty, za které jsem byl zvolen, jsme avizovali, že zvážíme kumulaci těchto dvou funkcí. S ohledem na to jsem se také neucházel o další funkce v orgánech městského obvodu.
 
