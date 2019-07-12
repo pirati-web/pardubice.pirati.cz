@@ -33,6 +33,8 @@ nainstalovat, jen by je to stálo víc. Primátor a rada města si tedy cení v�
 ušetřených peněz soukromé firmy než zdraví svých vlastních obyvatel. To je
 neodpustitelné,“ uvedla pirátská zastupitelka Lenka Španihelová.
 
+{% asset 'articles/2019/dana-balcarova.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
+
 Pokud odvolací řízení neuspěje, bude moci elektrárna Chvaletice díky této
 výjimce i po roce 2021 překračovat limity toxických látek určené nejnovějšími
 evropskými regulacemi pro ochranu čistoty ovzduší až o 300 kilogramů rtuti a 330
