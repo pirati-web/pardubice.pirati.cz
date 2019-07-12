@@ -8,6 +8,8 @@ author: Piráti Pardubice
 image: articles/2019/charvat.jpg
 ---
 
+**V únoru Piráti spolu s veřejností dokázali přesvědčit většinu pardubických zastupitelů, aby se postavili proti žádosti o výjimku pro chvaletickou elektrárnu. Krajský úřad ale nyní výjimku elektrárně Pavla Tykače povolil, jen s drobnými omezeními. A pardubičtí radní? Najednou obrátili a postavili se proti oficiálnímu postoji města starému jen pár měsíců.**
+
 Radní totiž podání odvolání proti rozhodnutí kraje při svém mimořádném jednání
 zamítli. Pro odvolání se našly pouze čtyři hlasy, chyběly dva. Piráti postup
 rady považují za neomluvitelný.
