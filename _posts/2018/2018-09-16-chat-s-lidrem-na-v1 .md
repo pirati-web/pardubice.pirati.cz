@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: On-line chat s lídrem na V1 - doplnění
 date: 2018-09-16T06:00:00+01:00
-tags: komunálky Participace lídr červeňák
+tags: komunálky participace lídr červeňák
 author: Ondřej Karas
 image: people/ondrej-karas-16ku9.jpg
 infoboxes:

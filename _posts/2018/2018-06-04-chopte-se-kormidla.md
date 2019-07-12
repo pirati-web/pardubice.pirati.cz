@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Chopte se kormidla!
 date: 2018-06-03T10:00:00+01:00
-tags: Participace
+tags: participace
 author: Filip Vařecha
 image: articles/2018/chopte-se-kormidla.jpg #751x422
 ---
