@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Hlukovou zátěž v Dukelském lesoparku lze snížit bariérou z dřevin"
 date: 2019-05-15T10:00:00+01:00
-tags: dukla hluk veřejný-prostor zastupitelstvo mo-v
+tags: dukla hluk veřejný-prostor zastupitelstvo mo-v tiskove-zpravy
 author: Piráti Pardubice
 image: articles/2019/i-37.jpg
 ---
