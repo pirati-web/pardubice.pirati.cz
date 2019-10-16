@@ -9,7 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
 - komise
-ordPce: 11
+ordPce: 12
 ordZas: 10
 ordKom: 8
 img: people/filip-varecha.jpg           # 165 x 220

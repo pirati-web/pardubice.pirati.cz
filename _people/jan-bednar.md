@@ -6,7 +6,7 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-ordPce: 4
+ordPce: 5
 img: people/jan-bednar.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: grafický designér
