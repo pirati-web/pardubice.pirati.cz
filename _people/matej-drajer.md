@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
-img: 
+img: people/matej-drajer.jpg
 ordKom: 11
 description: Komise pro sport # kratký popis, max 160 znaků
 profession: kavárník, komentátor sportovních přenosů

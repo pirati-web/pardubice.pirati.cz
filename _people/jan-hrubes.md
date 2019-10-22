@@ -11,7 +11,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ordPce: 6
 ordKom: 16
 img: people/jan-hrubes.jpg           # 165 x 220
-description: člen MS Pardubicko, Komise školství, kultury a sportu MO Pardubice II # kratký popis, max 160 znaků
+description: Komise školství, kultury a sportu MO Pardubice II # kratký popis, max 160 znaků
 profession: hudebník, student FChT UPa
 mail:
 - jan.hrubes@pirati.cz

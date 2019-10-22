@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - komise
-img:
+img: people/matej-karas.jpg          # 165 x 220
 ordPce: 9
 ordKom: 13
 description: Komise pro rodinu a děti # kratký popis, max 160 znaků
