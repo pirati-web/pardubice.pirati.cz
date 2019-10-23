@@ -4,13 +4,11 @@ name: Aneta Jelínková   		# běžně používáné jméno
 titles:
   before: Ing.
   after:
-ordZas: 9
 ordKom: 20
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- zastupitele
 - komise
 img: people/aneta-jelinkova.jpg           # 165 x 220
-description: zastupitelka MO Pardubice V, Místní komise Dukla MO Pardubice V # kratký popis, max 160 znaků
+description: Členka finančního výboru MO Pardubice V # kratký popis, max 160 znaků
 mail:
 - a.aneta@seznam.cz
 profiles:

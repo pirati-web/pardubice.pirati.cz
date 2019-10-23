@@ -4,10 +4,12 @@ name: Martin Merhout   		# běžně používáné jméno
 titles:
   before:
   after:
+ordZas: 11
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
+- zastupitele
 img: people/martin-merhout.jpg           # 165 x 220
-description: registrovaný příznivec # kratký popis, max 160 znaků
+description: zastupitel MO Pardubice V # kratký popis, max 160 znaků
 profession: telefonista
 candidateDescription:
 profiles:

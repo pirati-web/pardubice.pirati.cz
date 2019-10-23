@@ -6,7 +6,7 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komise
-img:
+img: people/stepan-vacik.jpg
 ordKom: 3
 description: Komise pro architekturu a urbanismus # kratký popis, max 160 znaků
 profession: architekt
