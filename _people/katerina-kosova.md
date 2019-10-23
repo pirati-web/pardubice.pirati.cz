@@ -4,11 +4,13 @@ name: Kateřina Kosová   		# běžně používáné jméno
 titles:
   before: Bc.
   after:
+ordZas: 9
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - priznivci
+- zastupitele
 img: people/katerina-kosova.jpg           # 165 x 220
-description: příznivkyně # kratký popis, max 160 znaků
+description: zastupitelka MO Pardubice II # kratký popis, max 160 znaků
 profession: studentka biochemie na pardubické univerzitě
 candidateDescription:
 profiles:

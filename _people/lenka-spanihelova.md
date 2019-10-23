@@ -9,7 +9,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - pms
 - komise
-ordPce: 3
+ordPce: 2
 ordZas: 5
 ordKom: 5
 img: people/lenka-spanihelova.jpg           # 165 x 220

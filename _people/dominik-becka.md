@@ -9,9 +9,9 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - pms
 - kontaktni_osoba
-ordPce: 1
+ordPce: 4
 img: people/dominik-becka.jpg
-description: předseda MS Pardubicko # kratký popis, max 160 znaků
+description: člen MS Pardubicko # kratký popis, max 160 znaků
 profession: risk manažer
 mail:
 - dominik.becka@pirati.cz
