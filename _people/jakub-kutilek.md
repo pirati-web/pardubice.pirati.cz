@@ -20,7 +20,7 @@ profiles:
   twitter: https://twitter.com/kubakutilek
   linkedin:
 ---
-**Jakub Kutílek** (* 17. března 1986) je zastupitelem Pardubic a MO II – Polabiny za Piráty, působí jako předseda kontrolního výboru města. Narodil se v Kolíně, ale většinu života žije v Pardubicích, které považuje za svůj domov. Je členem Strany zelených a registrovaným příznivcem Pirátské strany. 
+**Jakub Kutílek** (* 17. března 1986) je zastupitelem Pardubic za Piráty, působí jako předseda kontrolního výboru města. Narodil se v Kolíně, ale většinu života žije v Pardubicích, které považuje za svůj domov. Je členem Strany zelených a registrovaným příznivcem Pirátské strany. 
 
 Jakub vystudoval gymnázium v Pardubicích a stavební fakultu v Brně, kde získal titul inženýr. V průběhu studia zaměřeného na silniční stavitelství se začal zabývat šetrnou dopravou ve městě.
 
