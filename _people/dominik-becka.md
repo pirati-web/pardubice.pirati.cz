@@ -24,6 +24,9 @@ profiles:
   linkedin: https://www.linkedin.com/in/dominikbecka
 ---
 
-**Dominik Bečka** (* 20. srpna 1991) je členem a od listopadu 2018 předsedou Pirátů Pardubicko. Aktivně se účastnil kampaně ke komunálním volbám 2018 v Pardubicích, ve kterých Piráti získali 11 % a pět zastupitelských mandátů. Nyní se snaží budovat pirátskou komunitu v krajském městě i okolních obcích.
+**Dominik Bečka** (* 20. srpna 1991) je členem [Pirátů Pardubicko][1], od listopadu 2018 do srpna 2019 byl jejich předsedou. Aktivně se účastnil kampaně ke komunálním volbám 2018 v Pardubicích, ve kterých Piráti získali 11 % a pět zastupitelských mandátů, nebo zakládání [Pardubického pirátského centra ParduPiCe][2]. V současnosti Pirátům aktivně pomáhá v mediálních, úřednických i odborných záležitostech.
 
-Dominik žije v centru Pardubic společně se svou ženou. Pracuje jako risk manažer v pojišťovně, v minulosti se věnoval také copywritingu. Vystudoval bankovnictví a veřejné rozpočty na Fakultě financí a účetnictví Vysoké školy ekonomické v Praze. Za svých studií se zároveň zapojil do kampaní k referendu o zákazu hazardu na Praze 7 či k předchozím komunálním volbám za koalici Strany zelených, Pirátů a nezávislých.
+Dominik žije v centru Pardubic společně se svou ženou. Pracuje jako risk manažer v pojišťovně, v minulosti se věnoval bankovnictví a copywritingu. Vystudoval bankovnictví a veřejné rozpočty na Fakultě financí a účetnictví Vysoké školy ekonomické v Praze. O českou a americkou politiku se zajímá dlouhodobě, za svých studií se zároveň zapojil do kampaní k referendu o zákazu hazardu či k předchozím komunálním volbám za koalici Strany zelených, Pirátů a nezávislých na Praze 7. 
+
+[1]: https://pardubice.pirati.cz/
+[2]: https://pardubicky.pirati.cz/pardubicke-piratske-centrum-pardupice/
