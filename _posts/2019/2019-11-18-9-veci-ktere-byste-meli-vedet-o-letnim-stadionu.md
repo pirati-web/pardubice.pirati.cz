@@ -31,7 +31,7 @@ třeba vybudovat parkování. Řešením má být parkovací dům za dalších 1
 Kč. Na stavbu stadionu si bude město muset půjčit. Z dotací je možné získat
 nanejvýš 20 až 40 milionů na trávník.
 
-Město má přitom podle slov primátora Charvátaročně na investice z vlastních
+Město má přitom podle slov primátora Charváta ročně na investice z vlastních
 zdrojů jen 150 milionů Kč. Jediný stadion má spolknout trojnásobek. Ta
 půlmiliarda by však městu chyběla na rekonstrukce a výstavbu ulic, mostů, škol,
 zařízení pro seniory, náměstí, parků, parkovacích domů atd. Po roce 2021 budeme
