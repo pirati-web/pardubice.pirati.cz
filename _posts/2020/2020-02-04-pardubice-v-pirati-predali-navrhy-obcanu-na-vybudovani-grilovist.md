@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Vyhodnocení veřejné výzvy kam umístit griloviště"
+title: "Pardubice V: Piráti předali návrhy občanů na vybudování grilovišť"
 date: 2020-02-04T16:00:00+01:00
 tags: griloviště mo-v pardubice výzva
 author: Piráti Pardubice
