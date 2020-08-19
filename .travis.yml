@@ -8,7 +8,8 @@ addons:
     - 149.62.145.226:22050
 
 before_install:
-  - gem install bundler
+  - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
+  - gem install bundler -v '< 2'
   - bundle install --path vendor/bundle --full-index
 
 script:

@@ -6,14 +6,13 @@ titles:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-- zastupitele
 - pms
 - komise
-ordPce: 3
+ordPce: 2
 ordZas: 5
 ordKom: 5
 img: people/lenka-spanihelova.jpg           # 165 x 220
-description: zastupitelka Pardubic, Komise pro sociální a zdravotní věci,  místopředsedkyně MS Pardubicko # kratký popis, max 160 znaků
+description: Komise pro sociální a zdravotní věci,  místopředsedkyně MS Pardubicko # kratký popis, max 160 znaků
 profession: sociální pedagožka
 mail: lenka.spanihelova@pirati.cz
 profiles:

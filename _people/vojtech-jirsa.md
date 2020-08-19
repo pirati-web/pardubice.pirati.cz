@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - zastupitele
 - komise
-ordPce: 6
+ordPce: 7
 ordZas: 4
 ordKom: 1
 img: people/vojtech-jirsa.jpg           # 165 x 220

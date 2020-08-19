@@ -8,6 +8,8 @@ author: Piráti Pardubice
 image: articles/2019/charvat.jpg
 ---
 
+**V únoru Piráti spolu s veřejností dokázali přesvědčit většinu pardubických zastupitelů, aby se postavili proti žádosti o výjimku pro chvaletickou elektrárnu. Krajský úřad ale nyní výjimku elektrárně Pavla Tykače povolil, jen s drobnými omezeními. A pardubičtí radní? Najednou obrátili a postavili se proti oficiálnímu postoji města starému jen pár měsíců.**
+
 Radní totiž podání odvolání proti rozhodnutí kraje při svém mimořádném jednání
 zamítli. Pro odvolání se našly pouze čtyři hlasy, chyběly dva. Piráti postup
 rady považují za neomluvitelný.
@@ -32,6 +34,8 @@ neohrozilo. Její zástupci nám do očí potvrdili, že potřebné technologie 
 nainstalovat, jen by je to stálo víc. Primátor a rada města si tedy cení víc
 ušetřených peněz soukromé firmy než zdraví svých vlastních obyvatel. To je
 neodpustitelné,“ uvedla pirátská zastupitelka Lenka Španihelová.
+
+{% asset 'articles/2019/dana-balcarova.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
 
 Pokud odvolací řízení neuspěje, bude moci elektrárna Chvaletice díky této
 výjimce i po roce 2021 překračovat limity toxických látek určené nejnovějšími
