@@ -4,7 +4,7 @@ name: Jan Metelka   		# běžně používáné jméno
 titles:
   before: Mgr.
   after:
-ordZas: 8
+ordZas: 9
 category:
 - zastupitele # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-metelka.jpg           # 165 x 220
