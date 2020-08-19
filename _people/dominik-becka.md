@@ -7,7 +7,7 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-- pms
+- zastupitele
 ordPce: 4
 ordZas: 5
 img: people/dominik-becka.jpg
