@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele
 - komise
-ordZas: 7
+ordZas: 8
 ordKom: 15
 img: people/ondrej-beran.jpg           # 165 x 220
 description: zastupitel MO Pardubice I, Komise pro školství MO Pardubice I # kratký popis, max 160 znaků

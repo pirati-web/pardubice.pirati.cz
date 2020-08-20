@@ -4,7 +4,7 @@ name: Kateřina Kosová   		# běžně používáné jméno
 titles:
   before: Bc.
   after:
-ordZas: 9
+ordZas: 10
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - priznivci

@@ -4,7 +4,7 @@ name: Martin Merhout   		# běžně používáné jméno
 titles:
   before:
   after:
-ordZas: 11
+ordZas: 12
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 - zastupitele

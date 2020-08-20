@@ -9,7 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - komise
 ordPce: 6
-ordZas: 5
+ordZas: 6
 ordKom: 16
 img: people/jan-hrubes.jpg           # 165 x 220
 description: zastupitel Pardubic, Komise školství, kultury a sportu MO Pardubice II # kratký popis, max 160 znaků

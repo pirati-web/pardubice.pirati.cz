@@ -7,9 +7,9 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-- pms
-- kontaktni_osoba
+- zastupitele
 ordPce: 4
+ordZas: 5
 img: people/dominik-becka.jpg
 description: člen MS Pardubicko # kratký popis, max 160 znaků
 profession: risk manažer
@@ -24,9 +24,9 @@ profiles:
   linkedin: https://www.linkedin.com/in/dominikbecka
 ---
 
-**Dominik Bečka** (* 20. srpna 1991) je členem [Pirátů Pardubicko][1], od listopadu 2018 do srpna 2019 byl jejich předsedou. Aktivně se účastnil kampaně ke komunálním volbám 2018 v Pardubicích, ve kterých Piráti získali 11 % a pět zastupitelských mandátů, nebo zakládání [Pardubického pirátského centra ParduPiCe][2]. V současnosti Pirátům aktivně pomáhá v mediálních, úřednických i odborných záležitostech.
+**Dominik Bečka** (* 20. srpna 1991) je zastupitelem městského obvodu Pardubice I. Je členem [Pirátů Pardubicko][1], od listopadu 2018 do srpna 2019 pomáhal rozjet samostatné místní sdružení jako jeho předseda. Aktivně se účastnil kampaně ke komunálním volbám 2018, ve kterých Piráti získali 11 % a pět zastupitelských mandátů, na přelomu minulého a letošního roku se účastnil kampaně za vyhlášení místního referenda o kontroverzní stavbě fotbalového stadionu Nechci stadion na dluh!, která se přes neúspěch stala jednou z nejrozsáhlejších petičních akcí v historii Pardubic. V současnosti Pirátům pomáhá v mediálních i odborných záležitostech.
 
-Dominik žije v centru Pardubic společně se svou ženou. Pracuje jako risk manažer v pojišťovně, v minulosti se věnoval bankovnictví a copywritingu. Vystudoval bankovnictví a veřejné rozpočty na Fakultě financí a účetnictví Vysoké školy ekonomické v Praze. O českou a americkou politiku se zajímá dlouhodobě, za svých studií se zároveň zapojil do kampaní k referendu o zákazu hazardu či k předchozím komunálním volbám za koalici Strany zelených, Pirátů a nezávislých na Praze 7. 
+Dominik žije v centru Pardubic se svou ženou. Pracuje jako manažer řízení rizik v pojišťovně, v minulosti se věnoval bankovnictví a copywritingu. Vystudoval bankovnictví a veřejné rozpočty na Fakultě financí a účetnictví VŠE. O českou a americkou politiku se zajímá dlouhodobě, za svých studií se zároveň zapojil do kampaní k referendu o zákazu hazardu, či předchozím komunálním volbám za koalici Strany zelených, Pirátů a nezávislých na Praze 7.
 
 [1]: https://pardubice.pirati.cz/
 [2]: https://pardubicky.pirati.cz/pardubicke-piratske-centrum-pardupice/
