@@ -7,6 +7,9 @@ addons:
     - ha1.pirati.cz:22050
     - 149.62.145.226:22050
 
+node_js:
+  - 12
+
 before_install:
   - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
   - gem install bundler -v '< 2'
