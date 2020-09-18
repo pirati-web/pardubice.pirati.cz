@@ -14,7 +14,7 @@ before_install:
   - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
   - gem install bundler -v '< 2'
   - bundle install --path vendor/bundle --full-index
-  - nvm use 12
+  - nvm install 12 && nvm use 12
 
 script:
   - rm -rf _site
