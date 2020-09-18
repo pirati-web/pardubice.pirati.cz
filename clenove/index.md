@@ -11,7 +11,7 @@ groups:
   - name: Členové a členky
     category: clenove
     sort: ordPce
-  - name: Zástupci v komisích
+  - name: Zástupci v komisích a výborech
     category: komise
     sort: ordKom
   - name: Zástupci v městských firmách
