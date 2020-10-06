@@ -6,6 +6,7 @@ titles:
   after:
 ordKom: 23
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
+- clenove
 - komise
 description: Komise pro strategii a rozvoj obvodu, životní prostředí a dopravu MO Pardubice V
 mail:
