@@ -11,7 +11,7 @@ image: articles/2018/meeting.jpg
 **Hledáme nového zástupce Pirátů do Komise pro životní prostředí. Komise je poradní orgán, který dává doporučení radě města v oblasti péče o životní prostředí a s tím spojených témat. Například stanovuje pravidla Programu podpory ekologické výchovy a osvěty a hodnotí přihlášené projekty, podílí se na vzniku koncepčních materiálů, projednává zásadní investice s vlivem na životní prostředí atd. Komise se schází cca 1x až 2x měsíčně. Odměny za působení v komisi jsou spíše symbolické (řádově stokoruny měsíčně).**
 
 
-**Požadavky**
+#### Požadavky
 * Bezúhonnost
 * Názorová shoda s programem Pirátů
 * Řádná docházka na jednání komise
@@ -19,7 +19,7 @@ image: articles/2018/meeting.jpg
 
 **Termín nástupu:** co nejdříve.
 
-**Hodnotící kritéria**
+#### Hodnotící kritéria
 * **Odbornost: váha ⅓**
   * Formální vzdělání v oboru
   * Praxe v oboru
@@ -33,7 +33,7 @@ image: articles/2018/meeting.jpg
   * Zaměření na cíl (jaké priority chce uchazeč v komisi prosazovat).
   * Jaké jsou možnosti uchazeče se komisi věnovat (kolik času může do komise vložit).
 
-**Výběrové řízení bude dvoukolové.**
+#### Výběrové řízení bude dvoukolové
 * Hodnotící komise bude v prvním kole tříčlenná, složená z členů místního sdružení Pirátů. Na základě zaslaných přihlášek provede hodnocení uchazečů. V případě potřeby položí uchazečům doplňující dotazy.
 * Finální výběr kandidáta provede společně hodnotící komise a členové pirátského zastupitelského klubu. Pro toto druhé kolo může být vyžadována přítomnost uchazeče v termínu do 9.11.2020 za účelem pohovoru. Pohovor může být realizován online.
 
