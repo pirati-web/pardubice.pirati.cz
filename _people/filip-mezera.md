@@ -10,7 +10,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ordPce: 11
 ordZas: 13
 img: people/filip-mezera.jpg           # 165 x 220
-description: zastupitel Sezemic # kratký popis, max 160 znaků
+description: 1. místopředseda MS Pardubicko, zastupitel Sezemic # kratký popis, max 160 znaků
 profession: datový analytik
 mail:
 - filip.mezera@pirati.cz

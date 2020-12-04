@@ -12,7 +12,7 @@ ordPce: 2
 ordZas: 5
 ordKom: 5
 img: people/lenka-spanihelova.jpg           # 165 x 220
-description: Komise pro sociální a zdravotní věci,  místopředsedkyně MS Pardubicko # kratký popis, max 160 znaků
+description: Komise pro sociální a zdravotní věci # kratký popis, max 160 znaků
 profession: sociální pedagožka
 mail: lenka.spanihelova@pirati.cz
 profiles:
