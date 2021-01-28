@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Pirátský rok 2020 v Pardubicích"
-date: 2020-01-07T08:00:00+01:00
+date: 2021-01-28T16:00:00+01:00
 tags: shrnutí pardubice
 author: Piráti Pardubice
 image: team/pirati-pardubice-2.jpg
