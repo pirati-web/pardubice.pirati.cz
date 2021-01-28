@@ -5,11 +5,10 @@ title: "Pirátský rok 2020 v Pardubicích"
 date: 2020-01-07T08:00:00+01:00
 tags: shrnutí pardubice
 author: Piráti Pardubice
-image: og/griloviste.png
+image: team/pirati-pardubice-2.jpg
 ---
 
-**Na rok 2020 budou pardubičtí Piráti vzpomínat jako na rok, kdy pokračovali v roli konstruktivní opozice a také se aktivně zapojili do boje proti Covid-19. 
-**
+**Na rok 2020 budou pardubičtí Piráti vzpomínat jako na rok, kdy pokračovali v roli konstruktivní opozice a také se aktivně zapojili do boje proti Covid-19.**
 
 Už během první vlny, kdy Českou republiku trápil hlavně nedostatek základních ochranných pomůcek, 
 nažhavili zastupitelé [Filip Vařecha](https://pardubice.pirati.cz/clenove/filip-varecha/) a [Ondřej Karas](https://pardubice.pirati.cz/clenove/ondrej-karas/) 
