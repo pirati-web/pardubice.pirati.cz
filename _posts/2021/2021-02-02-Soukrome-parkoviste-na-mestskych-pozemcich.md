@@ -1,15 +1,12 @@
 ---
 layout: post
 category: CLANKY
-title: "Soukromé parkoviště na městských pozemcích"
+title: "Soukromé parkoviště na městských pozemcích. Pardubické ANO za pomoci ODS rozprodává veřejná prostranství."
 date: 2021-02-02T10:00:00+01:00
 tags: MO I pardubice projekty pozemky
 author: Piráti Pardubice
 image: articles/2021/Stefanikova-Palackeho-foto.jpg
 ---
-
-<h2>Soukromé parkoviště na městských pozemcích. 
-Pardubické ANO za pomoci ODS rozprodává veřejná prostranství </h2>
 
 **Pardubicím chybí peníze. Zasáhla je pandemie koronaviru, zavedení superhrubé mzdy i nezodpovědnost současného vedení radnice. 
 Přesto si na svá bedra berou další a další náklady, které vysávají městskou kasu. 
