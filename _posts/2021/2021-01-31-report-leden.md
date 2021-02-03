@@ -8,8 +8,6 @@ author: Piráti Pardubice
 image: articles/2021/parkovaci-pardubice.jpg
 ---
 
-**LEDNOVÝ REPORT ZE ZASTUPITELSTVA**
-
 Na začátku zastupitelstva jsme se v rozpravě dozvěděli novinky ohledně velkokapacitního očkovacího centra pro Pardubice a okolí. 
 To pravděpodobně vznikne v prostoru starého letištního terminálu, což je dobrá volba. Problémem ale zůstává nedostatečný počet vakcín, 
 které má Pardubický kraj k dispozici. Kdo lifruje své prarodiče do Hradce, má zatím náskok.
