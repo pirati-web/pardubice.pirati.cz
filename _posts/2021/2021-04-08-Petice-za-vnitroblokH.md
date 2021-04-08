@@ -38,6 +38,6 @@ Sousedé požadují zastavení stávajících příprav, uspořádání veřejn�
 >který je členem zastupitelstva města a bydlí na Dukle nedaleko vnitrobloku H.
 
 
-Věříme, že zbylé zastupitele množství podpisů přesvědčí, hlasy občany vyslyší a do budoucna bude participace veřejnosti na takovýchto projektech samozřejmostí. 
+Věříme, že zbylé zastupitele množství podpisů přesvědčí, hlasy občanů vyslyší a do budoucna bude participace veřejnosti na takovýchto projektech samozřejmostí. 
 Na dalších zastupitelstvech se Filip Vařecha chce zasadit zasadit o to, aby se projednání záměru s občany stalo povinnou součástí revitalizací a 
 dalších podobných investičních záměrů.
