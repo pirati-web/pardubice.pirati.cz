@@ -10,7 +10,7 @@ image: articles/2021/puppet.jpg
 
 **Starosta pátého pardubického obvodu Jiří Rejda čelil na jaře 2019 kritice,
 když Česká televize přišla s
-[reportáží]((https://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/219411000140320-udalosti-v-regionech/))
+[reportáží](https://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/219411000140320-udalosti-v-regionech/)
 o tom, že bydlí v bytě jednoho z majitelů developerské společnosti IP Stav. Ta
 je přitom právě v jeho obvodě docela činná a v posledních měsících svými postupy
 vyvolává nevoli části obyvatel.**
