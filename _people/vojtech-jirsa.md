@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - zastupitele
 - komise
+- kontaktni_osoba
 ordPce: 7
 ordZas: 4
 ordKom: 1
