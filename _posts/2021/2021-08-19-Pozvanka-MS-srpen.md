@@ -8,10 +8,11 @@ author: Piráti Pardubice
 image: articles/2021/Even_srpen.png
 ---
 
-Vážení a milí členové, příznivci a přátelé Pirátů z Pardubicka
-srdečně zveme na pravidelnou otevřenou schůzi našeho místního sdružení. Pojďme se skoro po roce potkat osobně.
+Vážení a milí členové, příznivci a přátelé Pirátů z Pardubicka,
+srdečně vás zveme na pravidelnou otevřenou schůzi našeho místního sdružení. Pojďme se skoro po roce potkat osobně!
 
-Kdy: čtvrtek 26.8. od 20 hodin
+Kdy: čtvrtek 26.8. od 18 hodin
+
 Kde: Pirátské centru Pardubice
 
 Na programu schůze bude přivítání nových členů, Registrovaných příznivců a hostů, dále se podíváme, co se děje v zastupitelstvech na pardubické radnici, 
