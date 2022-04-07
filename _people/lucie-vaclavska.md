@@ -2,10 +2,10 @@
 uid: lucie.vaclavska
 name: Lucie Václavská   		# běžně používáné jméno
 titles:
-  before: 
+  before:
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/lucie-vaclavska.jpg
+img:
 description: specialistka na online marketing # kratký popis, max 160 znaků
 mail:
 profiles:
