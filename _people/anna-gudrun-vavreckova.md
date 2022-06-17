@@ -23,7 +23,6 @@ profiles:
 **Anna Gudrun Vavrečková** (* 28. září 1991) se narodila a žije v Pardubicích.
 Členkou Pirátů je od roku 2015.
 
-Vystudovala gymnázium Dašická v Pardubicích a nedokončila studium na Fakultě
-informatiky MU. Hlavní náplní práce je momentálně péče o mladšího ze dvou synů,
-ve volném čase tvoří weby a webové databázové systémy a občas pomáhá v
-rodinném antikvariátě, nebo manželovi s grafikou a knižní sazbou.
+Vystudovala gymnázium Dašická v Pardubicích. Momentálně pracuje jako backend programátorka, 
+občas pomáhá v rodinném antikvariátě, nebo manželovi s grafikou a knižní sazbou. Zajímá se o kulturu, 
+především tu literární. 
